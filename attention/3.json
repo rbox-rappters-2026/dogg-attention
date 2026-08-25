@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 3,
+  "utc": "2026-08-25T22:30:03.365Z",
+  "payload": {
+    "tick": 109,
+    "tick_frame": "72e0fe505523e16a9a1d62454cbed5b224299392f93ee3a36887a1573c6ffcbd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-25T22:30:03.365Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+          "Python's pre-declared constants are kinda weird",
+          "Apple introduces M6 and M5 Ultra"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Move to Python 3 Begins",
+          "I stabilized never type",
+          "MNT Station - A modular, open hardware desktop computer and server"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Shelley_Fabares",
+          "Enes_Kanter_Freedom",
+          "Jed_York",
+          "Murder_of_Sonya_Massey"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "4d4e2c87b443a324841ae17d73eec6529b662fff165fe441bb27ff7f5d2cbabe",
+  "prev": "f6b4dc8bca9cb52f29817e2d250f5320150b89881be70fc1ed14c2dfaf281314",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "45fe07a92f5af35bcf508289c756f3006dc2939428040f5ea04281976c73b49e"
+}
