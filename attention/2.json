@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 2,
+  "utc": "2026-08-25T21:55:43.747Z",
+  "payload": {
+    "tick": 105,
+    "tick_frame": "1106c8b629b1bc762eb5c9ad16dbefcc95267ac1520b82073564a5ddbd498468",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-25T21:55:43.747Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+          "Apple introduces M6 and M5 Ultra",
+          "OpenAI Jalapeño: Better than Nvidia Blackwell"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Move to Python 3 Begins",
+          "I stabilized never type",
+          "MNT Station - A modular, open hardware desktop computer and server"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Shelley_Fabares",
+          "Enes_Kanter_Freedom",
+          "Jed_York",
+          "Murder_of_Sonya_Massey"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f6b4dc8bca9cb52f29817e2d250f5320150b89881be70fc1ed14c2dfaf281314",
+  "prev": "b10aded7d053bc7fcb46f08b9b94a6bd710a1886c488955177ebd866ae7ed8ba",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f057c1a5658d4b36f5de20fde1bd962bef7b1dc93ed8faf3dc485a87ea99d4e9"
+}
