@@ -1,0 +1,45 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 0,
+  "utc": "2026-08-25T20:33:38.199Z",
+  "payload": {
+    "tick": 98,
+    "tick_frame": "1b44a3bb8fcbb99662bffb0dc07f1a8ad1969b7259747814419a5ca9e67b7e98",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-25T20:33:38.199Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Apple introduces M6 and M5 Ultra",
+          "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+          "New Mac Studio with M5 Max and M5 Ultra"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I stabilized never type",
+          "MNT Station - A modular, open hardware desktop computer and server",
+          "The Move to Python 3 Begins"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Shelley_Fabares",
+          "Enes_Kanter_Freedom",
+          "Jed_York",
+          "Murder_of_Sonya_Massey"
+        ]
+      }
+    },
+    "sources_failed": [],
+    "about": "A federated node of the global tick network: this repo's own attention outlook, one frame per observed tick, keyed to the spine's tick anchors so it joins every other node's data on the same clock."
+  },
+  "payload_hash": "5d9671b74166069488ddfe106121bb543e3896072a9716219e3fc4ca04c41942",
+  "prev": null,
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b4ed28e86c1db1fc6df9fcf07dffaae052d351acf6874c632ab2498777d28dca"
+}
