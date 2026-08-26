@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 20,
+  "utc": "2026-08-26T16:18:12.392Z",
+  "payload": {
+    "tick": 214,
+    "tick_frame": "0e424f3bca84854a619e77883d1f745a1687ce36c38355f213d9b26797371df4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-26T16:18:12.392Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AWS Acquires DuckDB",
+          "GLM-5.3-Flash",
+          "Nebula Sans"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Move to Python 3 Begins",
+          "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
+          "I stabilized never type"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          ".xxx",
+          "Wikipedia:Featured_pictures",
+          "Lee_Majors",
+          "Rio_Ngumoha",
+          "Coolie_(2025_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "dbda17055e6cb47620e7dcaf81e01ae99ca8bc4397a4d5780ec23fa267983f32",
+  "prev": "02aa0350ca4e001fefd4a43280a8bd9d1017317163855e8f6aaa6d1c4e2c9074",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "51912f4bd55270a7dca8efef3371ed095f9e4e7dc387bfd3083badbe3dd75d1e"
+}
