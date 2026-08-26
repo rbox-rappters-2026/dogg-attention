@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 17,
+  "utc": "2026-08-26T12:53:14.570Z",
+  "payload": {
+    "tick": 194,
+    "tick_frame": "356b01f696a39394412b5d1dd691284a53338d82d5282422e15d8cc57f95fd37",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-26T12:53:14.570Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Omarchy is full of security holes",
+          "RAG Is Simpler Than You Think",
+          "Oldinsurancemaps.net is now a Charter Project"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Move to Python 3 Begins",
+          "I stabilized never type",
+          "C2PA Cameras Do Not Survive Contact With Reality"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          ".xxx",
+          "Wikipedia:Featured_pictures",
+          "Lee_Majors",
+          "Rio_Ngumoha",
+          "Coolie_(2025_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9a110f76109ff7c7d9642aadef95dc139d120376ce647e745b10cbe9553df45e",
+  "prev": "bc466febc521bdb748f7b7eb95667a83e0a356c1d7e553ee54d25c0efc5183bb",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4391e233f014319a625845bd9a558dc62000f989d2189b13678043f93bd948c7"
+}
