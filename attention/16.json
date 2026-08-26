@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 16,
+  "utc": "2026-08-26T11:30:39.696Z",
+  "payload": {
+    "tick": 186,
+    "tick_frame": "143cd435de467ffc7869a69b3d91030a3df0f2fc79e84a04c2557499698c4dd2",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-26T11:30:39.696Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Oldinsurancemaps.net is now a Charter Project",
+          "RAG Is Simpler Than You Think",
+          "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Move to Python 3 Begins",
+          "I stabilized never type",
+          "C2PA Cameras Do Not Survive Contact With Reality"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          ".xxx",
+          "Wikipedia:Featured_pictures",
+          "Lee_Majors",
+          "Rio_Ngumoha",
+          "Coolie_(2025_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "bc466febc521bdb748f7b7eb95667a83e0a356c1d7e553ee54d25c0efc5183bb",
+  "prev": "92cf4650f8089a9e5d6273f843e1aa799f01eaa29f65e3f1ee3ae7360ab38e4a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3e9e78c713c5faa95d4315f49ad142ce239c3cbbe55b51320f78c97b1135c7f6"
+}
