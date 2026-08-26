@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 7,
+  "utc": "2026-08-26T02:47:43.542Z",
+  "payload": {
+    "tick": 134,
+    "tick_frame": "97540091a5925df3901da1b837c74d2ce8e331f2f6aa0e372a897b5dfe4afddc",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-26T02:47:43.542Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+          "Apple introduces M6 and M5 Ultra",
+          "OpenAI Jalapeño: Better than Nvidia Blackwell"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Move to Python 3 Begins",
+          "I stabilized never type",
+          "C2PA Cameras Do Not Survive Contact With Reality"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          ".xxx",
+          "Wikipedia:Featured_pictures",
+          "Lee_Majors",
+          "Rio_Ngumoha",
+          "Coolie_(2025_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "53ec1caec9f12469301deedb4edf8465977f5b7b7d168167018ac25d423ef14c",
+  "prev": "97c32299c16c9341ad7b3df87fe55e003f94bd8c0dd10a9fd4fad7fc1f7ef50b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "67897ccc062c0833c3d635e537268e4cf2da51f5f55e7943bfe9d24f6b96f87a"
+}
