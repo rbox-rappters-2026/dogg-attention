@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 12,
+  "utc": "2026-08-26T07:47:18.885Z",
+  "payload": {
+    "tick": 164,
+    "tick_frame": "6c6005498821405e2954ada191fb8ab4aa972ef5749da09b000489fa07bbfef7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-26T07:47:18.885Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Apple introduces M6 and M5 Ultra",
+          "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+          "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Move to Python 3 Begins",
+          "I stabilized never type",
+          "C2PA Cameras Do Not Survive Contact With Reality"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          ".xxx",
+          "Wikipedia:Featured_pictures",
+          "Lee_Majors",
+          "Rio_Ngumoha",
+          "Coolie_(2025_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "1694756e0e0f4f2909fb519bc2426c5eddc2fe8072ffde87470de89eb39ab281",
+  "prev": "cf273f0fad97507a904d24073560444f90a0d14d4136f06cb525dccfbfa156c1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "137c2a4f5e0acc665ad1c0f9d69af303d30acd18c22ac0d6f14b3f450fef8f1b"
+}
