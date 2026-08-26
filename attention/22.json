@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 22,
+  "utc": "2026-08-26T20:35:31.400Z",
+  "payload": {
+    "tick": 239,
+    "tick_frame": "3c2f0fc8c464945f47fd3a847c9ae9089b0d160ffa455b3ce26f233eaf02a084",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-26T20:35:31.400Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Tailcat – Like netcat, but over Tailscale’s data plane",
+          "GLM-5.3-Flash",
+          "Dallas startup enriches Uranium"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Haiku R1/beta6 released",
+          "The Root of The Root of All Evil",
+          "Merchants of Insecurity"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          ".xxx",
+          "Wikipedia:Featured_pictures",
+          "Lee_Majors",
+          "Rio_Ngumoha",
+          "Coolie_(2025_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "355e878fc86c1ded086e30f88fb84b52a1c28832bb33f87e86886b15993ccccc",
+  "prev": "af05ee4c770f02efdf8dda99b9af72a1ab0e26d2975d6fce0ab247995e11abe9",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a5fd402e0d6a7d4911d4f8f810a45f548b41ec67a800a7da30f77b25538e325f"
+}
