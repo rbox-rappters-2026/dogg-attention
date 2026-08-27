@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 24,
+  "utc": "2026-08-27T10:56:56.944Z",
+  "payload": {
+    "tick": 299,
+    "tick_frame": "da5873e0e53ac130a6d4801b057b5d685187bce5cd65dee35d66adbdc0cb81f4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-27T10:56:56.944Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Nvidia agrees to acquire Hugging Face for $13B",
+          "Mechanical Turk shutting down September 30",
+          "GLM-5.3-Flash"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Changes to SourceHut's terms of service regarding LLMs",
+          "Haiku R1/beta6 released",
+          "Merchants of Insecurity"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Dolly_Parton",
+          "Tim_Curry",
+          "Toxic_(2026_film)",
+          "Wikipedia:Featured_pictures",
+          "List_of_Tim_Curry_performances"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "95c0ff63fb2d2b2692e1aef6fc8208521cab2604f7366d8626240a48efefaae9",
+  "prev": "ba63a5c5e647d593854abe405df50ed214b22fd391f450feed7d3bb556545478",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b5ed766b995a966cd64fa538f19783ba22e766f9cfc8fff042cf205c07354991"
+}
