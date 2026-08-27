@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 23,
+  "utc": "2026-08-27T00:30:16.289Z",
+  "payload": {
+    "tick": 262,
+    "tick_frame": "9610dfc7adfada22c8f4ee6b128f860f818ec599d7e1cfd641ebbcdcb5fdea95",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-27T00:30:16.289Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Mechanical Turk shutting down September 30",
+          "GLM-5.3-Flash",
+          "Tailcat – Like netcat, but over Tailscale’s data plane"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Haiku R1/beta6 released",
+          "Merchants of Insecurity",
+          "The Root of The Root of All Evil"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "ba63a5c5e647d593854abe405df50ed214b22fd391f450feed7d3bb556545478",
+  "prev": "355e878fc86c1ded086e30f88fb84b52a1c28832bb33f87e86886b15993ccccc",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1ae5a2c42e5a565b617d36b1e374db49180efbba6417b1af92ce631c9b2cad9b"
+}
