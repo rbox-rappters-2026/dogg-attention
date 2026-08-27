@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 25,
+  "utc": "2026-08-27T20:56:48.743Z",
+  "payload": {
+    "tick": 349,
+    "tick_frame": "4f6609c9ce979c5c00391e290f16860bf0482f9c6a5268d080cd5f9d302156d8",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-27T20:56:48.743Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+          "Small Models Have Arrived",
+          "507 Mechanical Movements"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Changes to SourceHut's terms of service regarding LLMs",
+          "Please stop flooding our projects with AI slop to furnish your CV",
+          "Announcing our first Maintainers in Residence"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Dolly_Parton",
+          "Tim_Curry",
+          "Toxic_(2026_film)",
+          "Wikipedia:Featured_pictures",
+          "List_of_Tim_Curry_performances"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9caee6d04cb14105fdf2b7ec15dd010e80fd1a0e78e0d8c5af3b97982e2cb00d",
+  "prev": "95c0ff63fb2d2b2692e1aef6fc8208521cab2604f7366d8626240a48efefaae9",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6ef66e15c45eb86b3165136f27b92913359e6203b020d2e7eaf8fe1caf92956f"
+}
