@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 27,
+  "utc": "2026-08-28T17:37:21.930Z",
+  "payload": {
+    "tick": 464,
+    "tick_frame": "ae0fd0ccd9f578ed6ef8238396f9fe50cad031ea481d378a18956758ae328843",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-28T17:37:21.930Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Get your Windows license refund",
+          "Just the rumour of a bug is enough to find an exploit these days",
+          "GUIs should be fully keyboard-driven"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "EasyEffects should be part of every Linux distribution to improve laptop speaker sound qua",
+          "OpenOffice does not print on Tuesdays (2009)",
+          "Yap: a particular kind of slop"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Tim_Curry",
+          "Dolly_Parton",
+          "Peter_Cullen",
+          "Toxic_(2026_film)",
+          "Wikipedia:Featured_pictures"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "87c97be7745dd5a24cac9f403c850455016dde47331206432b26c01de5072e94",
+  "prev": "b46c47638a3d912e795d19b384d8bc61715d62bec57d07158ed0c85b0ff2f69e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f6dd1bc0b8526606711b37999dda4f0ecd1eb18012156fcf2e6f3c6af32ac776"
+}
