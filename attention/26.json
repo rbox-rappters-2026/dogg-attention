@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 26,
+  "utc": "2026-08-28T05:10:04.663Z",
+  "payload": {
+    "tick": 398,
+    "tick_frame": "c56385c3c0277b28412bdf45218525c2d80e810e92c62d83ab0282c355a224b8",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-28T05:10:04.663Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+          "Small Models Have Arrived",
+          "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Changes to SourceHut's terms of service regarding LLMs",
+          "Please stop flooding our projects with AI slop to furnish your CV",
+          "UNIX V4 workshop at Low Resource Computing"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Tim_Curry",
+          "Dolly_Parton",
+          "Peter_Cullen",
+          "Toxic_(2026_film)",
+          "Wikipedia:Featured_pictures"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b46c47638a3d912e795d19b384d8bc61715d62bec57d07158ed0c85b0ff2f69e",
+  "prev": "9caee6d04cb14105fdf2b7ec15dd010e80fd1a0e78e0d8c5af3b97982e2cb00d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "865ca78c07802bc619a8a7cf09946326a8572928b8a1117ce8b8f060a5909158"
+}
