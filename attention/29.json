@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 29,
+  "utc": "2026-08-29T08:16:39.385Z",
+  "payload": {
+    "tick": 551,
+    "tick_frame": "3025a7f9b1ea527aed683b636d640826bbe9ac8566158f4ed40228330935255a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-29T08:16:39.385Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Samsung's Processing-in-Memory (PIM)",
+          "Boot a Virtual iPhone via Apple's Virtualization.framework",
+          "GUIs should be fully keyboard-driven"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Yap: a particular kind of slop",
+          "htmx 4.0.0 has been released",
+          "OpenOffice does not print on Tuesdays (2009)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Dolly_Parton",
+          "Toxic_(2026_film)",
+          "Harald_V",
+          "Tim_Curry"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3a361fdce7c459b6b5ada92ffb9b29adf70555409ec73f330eea45237de3c08c",
+  "prev": "07f6579dd62ee00994f70715439fab28e973b549617f96bcba88b2ff5d31e6c5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "14ad959f32c7c13217aa2573f2e77f715ae2c1b9afbc7c17a03cb8c096d1f066"
+}
