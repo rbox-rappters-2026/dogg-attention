@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 31,
+  "utc": "2026-08-29T17:37:26.276Z",
+  "payload": {
+    "tick": 606,
+    "tick_frame": "9636965e5688446c1b826e463f71b76c240bdd32218ac604c700d906801ec76a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-29T17:37:26.276Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Debian votes to allow \"responsible use of generative AI\"",
+          "SQLite as a Document Database (2020)",
+          "Tether: iMessage, SMS, etc. on Linux"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Being kicked out of the tech industry",
+          "Yap: a particular kind of slop",
+          "LLM usage in Debian neither endorsed nor prohibited"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Dolly_Parton",
+          "Toxic_(2026_film)",
+          "Harald_V",
+          "Tim_Curry"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "58de4d54e7564db05f0a0b0a89ceb6a1ae54c5dfa7fa738bd2b6fe36e6c893cf",
+  "prev": "527784cc3b432b7bf403a9bce163861bf404157ec2dcd9949cfcd65c22beeb69",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "567a2a6f520bb9033def3fbb3930333216f929060f93cc75d61a28d22f7836f3"
+}
