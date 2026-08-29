@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 32,
+  "utc": "2026-08-29T20:31:34.500Z",
+  "payload": {
+    "tick": 623,
+    "tick_frame": "9536076483b71a802ae6265e74cac3c9eab7565949fc91c2a6c090e318067061",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-29T20:31:34.500Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Internet Is Kind of a Predatory Cesspit Now",
+          "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "Warp builds self-improving agents on Claude"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Being kicked out of the tech industry",
+          "Debian and the sirens",
+          "Creepy crawlies"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Dolly_Parton",
+          "Toxic_(2026_film)",
+          "Harald_V",
+          "Tim_Curry"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f29efc5997e49e37947fd2e29e88d087f5f98d7c69cfa906fa4907c4c88d13ce",
+  "prev": "58de4d54e7564db05f0a0b0a89ceb6a1ae54c5dfa7fa738bd2b6fe36e6c893cf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d0ef438c8992b63c9db67976f32551b32117e11051bc99689a7877fd835d2637"
+}
