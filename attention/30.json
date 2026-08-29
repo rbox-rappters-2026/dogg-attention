@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 30,
+  "utc": "2026-08-29T13:56:55.720Z",
+  "payload": {
+    "tick": 584,
+    "tick_frame": "9e2984c2535b1ad75ff60c6bc51ecd49748b0a95d0d6a9c9684c418129e904fa",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-29T13:56:55.720Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Iceland votes on whether to restart talks on joining EU",
+          "Samsung's Processing-in-Memory (PIM)",
+          "GUIs should be fully keyboard-driven"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Being kicked out of the tech industry",
+          "Yap: a particular kind of slop",
+          "LLM usage in Debian neither endorsed nor prohibited"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Dolly_Parton",
+          "Toxic_(2026_film)",
+          "Harald_V",
+          "Tim_Curry"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "527784cc3b432b7bf403a9bce163861bf404157ec2dcd9949cfcd65c22beeb69",
+  "prev": "3a361fdce7c459b6b5ada92ffb9b29adf70555409ec73f330eea45237de3c08c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3d65bb9340a9600f62993a7d380a5a2d77e7aef345837fd022f692af6ebfba74"
+}
