@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 28,
+  "utc": "2026-08-29T01:29:39.260Z",
+  "payload": {
+    "tick": 511,
+    "tick_frame": "cd8f82df92e7fbd6f2b015de2f23919ce205da22e06ec4a01c7e2c6ce0cf7b9d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-29T01:29:39.260Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Does the Sumerian King List Align with Paleoclimate Events?",
+          "Boot a Virtual iPhone via Apple's Virtualization.framework",
+          "GUIs should be fully keyboard-driven"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Yap: a particular kind of slop",
+          "htmx 4.0.0 has been released",
+          "OpenOffice does not print on Tuesdays (2009)"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "07f6579dd62ee00994f70715439fab28e973b549617f96bcba88b2ff5d31e6c5",
+  "prev": "87c97be7745dd5a24cac9f403c850455016dde47331206432b26c01de5072e94",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3c871a389806a1122b9e8210418af267d2960aa41824d190fe87cd0997764757"
+}
