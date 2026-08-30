@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 38,
+  "utc": "2026-08-30T20:40:58.274Z",
+  "payload": {
+    "tick": 765,
+    "tick_frame": "65f1418e9b315246f733397831c7ad60b11bf8e8fa43909cd80521e274c330b5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-30T20:40:58.274Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Creepy Crawlies",
+          "Haiku R1/beta6 has been released",
+          "Cores in space: The core memory module from a 1980 Spacelab computer"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "But where does taste come from?",
+          "There's no such thing as Just a Tool",
+          "Gram Editor 3.3.0 Released"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Toxic_(2026_film)",
+          "Dolly_Parton",
+          ".xyz",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "99a75cb9b4d89990e18e7c580e9f2407a42ed497e9efde2ff092254b9c62b810",
+  "prev": "9fbe682ffc685de4dc1a56310fd83e28a1664f3dd20504f2c8d2964d6b5cc223",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "27d75c22f9fe7406b50a20dfee842aaee9e66beec992add1b045c4764f9f529e"
+}
