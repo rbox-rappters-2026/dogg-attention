@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 35,
+  "utc": "2026-08-30T07:17:44.883Z",
+  "payload": {
+    "tick": 687,
+    "tick_frame": "b0a6ccfed80a614e0d5a15957969f3c7f2d3da7ebc3edb14faf1f5651ea01a85",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-30T07:17:44.883Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Bug Blindness",
+          "RISC-V is now officially supported by CPython",
+          "Hy4 preview"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Being kicked out of the tech industry",
+          "Creepy crawlies",
+          "Debian and the sirens"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Toxic_(2026_film)",
+          "Dolly_Parton",
+          ".xyz",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b1d1f1113ff98dfafef39e310083fe027a293cf366bbbbd9c95b5b7ecbbce7d0",
+  "prev": "19c5b65494681c3df2684d2a1da598cc8c7138c3c28f5b826cb811d7b304626f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bc655ae8427cdfca7a22260720152815be682157e796851e0556c8804c5a7a2a"
+}
