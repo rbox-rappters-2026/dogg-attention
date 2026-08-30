@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 36,
+  "utc": "2026-08-30T13:09:00.045Z",
+  "payload": {
+    "tick": 721,
+    "tick_frame": "fc0b2898be71a16969baf7c681581f28eab05d63c7575055aa94903edb0951d9",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-30T13:09:00.045Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+          "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+          "Claude Session URL appended to commit messages and PR descriptions by default"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Being kicked out of the tech industry",
+          "Creepy crawlies",
+          "There's no such thing as Just a Tool"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Toxic_(2026_film)",
+          "Dolly_Parton",
+          ".xyz",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f41d0c28cf539ee87b67b1c24d3df27f00b520c71e087a363b986ead9df4eff7",
+  "prev": "b1d1f1113ff98dfafef39e310083fe027a293cf366bbbbd9c95b5b7ecbbce7d0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "766525684c9eab9313620c3a2e145627aa420ed4f76187dff264d7fa6963ddcf"
+}
