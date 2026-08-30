@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 37,
+  "utc": "2026-08-30T17:41:09.472Z",
+  "payload": {
+    "tick": 748,
+    "tick_frame": "89c51eee0c073aa4aabf71cbaaaab4d0e031c5eca81ec4bd8d036c30338da32d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-30T17:41:09.472Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Creepy Crawlies",
+          "Haiku R1/beta6 has been released",
+          "Omarchy: Any User Process Can Escalate to Root"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "There's no such thing as Just a Tool",
+          "But where does taste come from?",
+          "Gram Editor 3.3.0 Released"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Toxic_(2026_film)",
+          "Dolly_Parton",
+          ".xyz",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9fbe682ffc685de4dc1a56310fd83e28a1664f3dd20504f2c8d2964d6b5cc223",
+  "prev": "f41d0c28cf539ee87b67b1c24d3df27f00b520c71e087a363b986ead9df4eff7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b89bbc08a2c380df212d78b3a769e918d951a38cf880d7f5e6511de08e97834f"
+}
