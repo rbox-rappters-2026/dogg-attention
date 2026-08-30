@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 34,
+  "utc": "2026-08-30T01:29:14.132Z",
+  "payload": {
+    "tick": 652,
+    "tick_frame": "790cecd6c4e1d873fd30947edb689c27007b2cfddb596a991522b991730b363b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-30T01:29:14.132Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Bug Blindness",
+          "Hy4 preview",
+          "Tether: iMessage, SMS, etc. on Linux"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Being kicked out of the tech industry",
+          "Creepy crawlies",
+          "Debian and the sirens"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "19c5b65494681c3df2684d2a1da598cc8c7138c3c28f5b826cb811d7b304626f",
+  "prev": "52f2aee533edc9a61f40802470c740acadb2fab7237303f9c4b5b6098a40f58e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "af4652bb30634c83455517e6427d2bc885a75cee6cde4345ab5e179554c52211"
+}
