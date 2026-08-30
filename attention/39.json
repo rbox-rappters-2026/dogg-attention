@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 39,
+  "utc": "2026-08-30T23:15:35.553Z",
+  "payload": {
+    "tick": 780,
+    "tick_frame": "139dad3653bd94f708ee5367d61eea9a4fe79856704d2ad42b90d1b88aacebd0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-30T23:15:35.553Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "\"I just chose words carefully.\"",
+          "Creepy Crawlies",
+          "Cores in space: The core memory module from a 1980 Spacelab computer"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "But where does taste come from?",
+          "Omarchy: Any User Process Can Escalate to Root",
+          "There's no such thing as Just a Tool"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Toxic_(2026_film)",
+          "Dolly_Parton",
+          ".xyz",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "612627d60aeedbcdf352458d177b4b09a4c2175f871605de9b2487d2aec78eae",
+  "prev": "99a75cb9b4d89990e18e7c580e9f2407a42ed497e9efde2ff092254b9c62b810",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "086459563928d7a3b3a248ec2cdf3f9245b5c94dc599086fc1242fdc5848c5c5"
+}
