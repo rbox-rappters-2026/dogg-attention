@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 43,
+  "utc": "2026-08-31T21:20:30.405Z",
+  "payload": {
+    "tick": 813,
+    "tick_frame": "a872b488b8337d72b6322d3647834bedf3e691c6b42780d318e67a28758216ff",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-31T21:20:30.405Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "I turned my security cameras into an automatic bird identification system",
+          "A walkable ASCII cyberpunk city in one HTML file [video]",
+          "Playa Phone"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "VibeCoded AI-Slop License v1.0",
+          "curl: a CVE dispute",
+          "I attended a conference recently and AI use by academics was absurd"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Toxic_(2026_film)",
+          "Dolly_Parton",
+          "All_In_(2026)",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d598e40ad664b2a41c4140609c1c97f9a703cdbae88ff87fbb07f984207a5a89",
+  "prev": "050504289d86337a8d379e2a2dab6f4dec528052a77817c62a879a6b1b4cf21a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "19c5d16b32128d29a26d4cb51bbb540879ca071a56012b796e43b9de93b39789"
+}
