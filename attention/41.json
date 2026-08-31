@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 41,
+  "utc": "2026-08-31T07:33:02.679Z",
+  "payload": {
+    "tick": 811,
+    "tick_frame": "3551d524338001833822a4eb2788df2a72c4079ccf683e5d89e0e1b7753aa069",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-31T07:33:02.679Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "“I just chose words carefully”",
+          "P99 0 ms* autocomplete for 240M domain names",
+          "Transfer files over an Ethernet patch cable"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Omarchy: Any User Process Can Escalate to Root",
+          "But where does taste come from?",
+          "Transfer files over an ethernet patch cable"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Toxic_(2026_film)",
+          "Dolly_Parton",
+          "All_In_(2026)",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d6936a4fc842fb3bdebac1361e34de6d06f79db36ea43b21e2967b37da428f50",
+  "prev": "ef734fd88020e3a13e335719eba5108afd59aed7846d97c58add3e35076eaf37",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8e5eb166e85370095ddbfca9af9c213dc423402189b5c5bd02c4c8232f6a093a"
+}
