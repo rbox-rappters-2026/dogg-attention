@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 42,
+  "utc": "2026-08-31T15:54:38.890Z",
+  "payload": {
+    "tick": 812,
+    "tick_frame": "15b73bde4f11c88ac002a5ac443909d7471fd2a899fbb0dbe7dfd4bee7a40d23",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-31T15:54:38.890Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Playa Phone",
+          "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+          "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "VibeCoded AI-Slop License v1.0",
+          "curl: a CVE dispute",
+          "Omarchy: Any User Process Can Escalate to Root"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Toxic_(2026_film)",
+          "Dolly_Parton",
+          "All_In_(2026)",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "050504289d86337a8d379e2a2dab6f4dec528052a77817c62a879a6b1b4cf21a",
+  "prev": "d6936a4fc842fb3bdebac1361e34de6d06f79db36ea43b21e2967b37da428f50",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "fd1ef3b3ef9e8284bab546cecfca340da46e6760124321b171a6ebcc5025e064"
+}
