@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 40,
+  "utc": "2026-08-31T01:28:52.790Z",
+  "payload": {
+    "tick": 792,
+    "tick_frame": "e9bac509fc1a18f63ec26a0094f6d5b7971d709b1d371bc911222845f8866fee",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-31T01:28:52.790Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "“I just chose words carefully”",
+          "Creepy Crawlies",
+          "Haiku R1/beta6 has been released"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Omarchy: Any User Process Can Escalate to Root",
+          "But where does taste come from?",
+          "There's no such thing as Just a Tool"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "ef734fd88020e3a13e335719eba5108afd59aed7846d97c58add3e35076eaf37",
+  "prev": "612627d60aeedbcdf352458d177b4b09a4c2175f871605de9b2487d2aec78eae",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9cdcc0d8578bad972d8e699b1410e97b1c835f2f7c4947e57e753ad38842d327"
+}
