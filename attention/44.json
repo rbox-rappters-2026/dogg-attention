@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 44,
+  "utc": "2026-09-01T00:43:39.128Z",
+  "payload": {
+    "tick": 814,
+    "tick_frame": "cf7ec641ff72af1af31172572d5869b26c14aa34aff6cad4e82bb7a7c550a379",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-01T00:43:39.128Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+          "Run macOS Software on Linux",
+          "Evidence of Fraud in an Influential Study About Procrastination"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "VibeCoded AI-Slop License v1.0",
+          "curl: a CVE dispute",
+          "RangeFrom, Part 2..: What I think is wrong about the design"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "8c43c7bdb5f3233a11ba2edf2de3df6bbc357fa00e569fa65fa00600fc937c6e",
+  "prev": "d598e40ad664b2a41c4140609c1c97f9a703cdbae88ff87fbb07f984207a5a89",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f3b79b36b55e376533fe2a0ea54579e9d5571bfdf72ddf2705ac7673f5aeaf03"
+}
