@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 50,
+  "utc": "2026-09-01T23:53:49.273Z",
+  "payload": {
+    "tick": 820,
+    "tick_frame": "b35cdfdc1b429bf16ad5f92fb896c62877fe480d24145789ee51949519014a15",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-01T23:53:49.273Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Fable 5.1 and Claude Mythos 5.1",
+          "Hang on to Your Firefox",
+          "How accurate have Ed Zitron's AI skeptic predictions been?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Fine, I’ll build my own text editor",
+          "Is Minifying CSS Necessary? (2023)",
+          "Zuzai, a new word, indicates the absence of AI"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "ccc3f4b6ffb2628e10af71efdf7f284bc6cbd7e3f7dbacebfcac80ef2b3d1603",
+  "prev": "ad28c8e76972c5a1bcb1274ea1d5c12128ba29635020ee427e715c49eaa6c531",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "34222c3fae497847e9af6bc9a58a13ea71d5e2e387d75059f9fccdf9c2685255"
+}
