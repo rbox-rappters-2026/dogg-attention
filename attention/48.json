@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 48,
+  "utc": "2026-09-01T19:28:19.017Z",
+  "payload": {
+    "tick": 818,
+    "tick_frame": "73867528aa4d3a1ffb8f873e6ecf2c574f9c28f8c5d8d4a04989c492717db333",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-01T19:28:19.017Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Fable 5.1 and Claude Mythos 5.1",
+          "Play Store blocks AuroraStore, hurting GrapheneOS users",
+          "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Fine, I’ll build my own text editor",
+          "Zuzai, a new word, indicates the absence of AI",
+          "Is Minifying CSS Necessary? (2023)"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "d975961114d8270c14a2b093310892daee2ab5d187ed8022d7ee19e5a554af98",
+  "prev": "5a4ab42855d349749a79db7a4f6cf97fda430410659a2f1fc4451f10424bd9f9",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bd5345a4d80c976df96736a7efd21c810c6a15136c11e6d117a6d287172f7d38"
+}
