@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 45,
+  "utc": "2026-09-01T06:04:01.563Z",
+  "payload": {
+    "tick": 815,
+    "tick_frame": "545efbe4ceeecb85365999fd8f00002d4944719f75572ec6fa2105d85023fd74",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-01T06:04:01.563Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPU World",
+          "Fastpotify",
+          "Restroom Archive"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "curl: a CVE dispute",
+          "VibeCoded AI-Slop License v1.0",
+          "RangeFrom, Part 2..: What I think is wrong about the design"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "abd1796849aaec68145d65983863239299d36d58d863fbe027c76bffc80911d0",
+  "prev": "8c43c7bdb5f3233a11ba2edf2de3df6bbc357fa00e569fa65fa00600fc937c6e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1f3f03e128ebe50a329a84a6a4e3c8819a9a20ef7dd615a283191d0bc3f21210"
+}
