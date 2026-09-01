@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 47,
+  "utc": "2026-09-01T16:11:32.476Z",
+  "payload": {
+    "tick": 817,
+    "tick_frame": "a8949e6bb6cbbb7242f0b63c018291a678c800543ee399104522c08da33c6f0a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-01T16:11:32.476Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+          "Ask HN: Who is hiring? (September 2026)",
+          "Ambient CSS v3 – Blender meets CSS"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Fine, I’ll build my own text editor",
+          "Zuzai, a new word, indicates the absence of AI",
+          "Janet 1.42.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "5a4ab42855d349749a79db7a4f6cf97fda430410659a2f1fc4451f10424bd9f9",
+  "prev": "b6a90cd0470073fb7703d59660cbdfbe979952dd9efa703327011c75913bbebf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f6495f5ed86403963c93619ad66824d0d0656848258c691487497a89e4a4429a"
+}
