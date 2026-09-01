@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 46,
+  "utc": "2026-09-01T11:54:34.431Z",
+  "payload": {
+    "tick": 816,
+    "tick_frame": "cc9a9186a0169aef2b96c9c8699f7f4f4bc2b7ec69e876a2efb5f6e0d6a7f258",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-01T11:54:34.431Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+          "44% on ARC-AGI-1 in 67 cents",
+          "Fastpotify"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "curl: a CVE dispute",
+          "RangeFrom, Part 2..: What I think is wrong about the design",
+          "Janet 1.42.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "b6a90cd0470073fb7703d59660cbdfbe979952dd9efa703327011c75913bbebf",
+  "prev": "abd1796849aaec68145d65983863239299d36d58d863fbe027c76bffc80911d0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6d2c5d6e77cb60052a3c1ea5f68f19704d281b26e1063b0c033ac332cce1bcaf"
+}
