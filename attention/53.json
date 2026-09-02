@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 53,
+  "utc": "2026-09-02T12:53:54.872Z",
+  "payload": {
+    "tick": 823,
+    "tick_frame": "cacbcde22e5c950ccba37d85a3c4f4de12c1b0389a0ef28bf439451308cc0862",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-02T12:53:54.872Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Commodore 64 released September 1, 1982",
+          "Claude Fable 5.1 and Claude Mythos 5.1",
+          "The Emergent Symbolic Structure of Artificial Neural Networks"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Normalized Fascism in Open Source: $12 Million Given to DHH",
+          "The load-bearing vocabulary of Claude",
+          "Is Minifying CSS Necessary? (2023)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "The_Neverending_Story",
+          "Anahí",
+          "AMGTV",
+          "XHamster",
+          "Okto"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c9de1c29c7854f6d6ab962f33707f83af657579c2d2883d11117ff0a7fecdd3e",
+  "prev": "939fa0c078a795cebaa5656db39e614480909f1527dd0e3610ba9f30783a2c60",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1211fd01269db1235a886299b7cc8718fb12ad2acf8abfd855ce6612f4cbd21f"
+}
