@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 54,
+  "utc": "2026-09-02T17:02:04.813Z",
+  "payload": {
+    "tick": 824,
+    "tick_frame": "1c2c4859c163d86c7716d5a479f9c28a3aec421b01c3844c06ee53c3078929f2",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-02T17:02:04.813Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "A Note from LWN",
+          "Mistral now trains on user input by default, except on enterprise tier"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Normalized Fascism in Open Source: $12 Million Given to DHH",
+          "Who's Hiring? Q4 2026",
+          "The load-bearing vocabulary of Claude"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "The_Neverending_Story",
+          "Anahí",
+          "AMGTV",
+          "XHamster",
+          "Okto"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "90d8d65295d0b55aaa76d2aafefc1dd71b8e6c0fed009efce43addd27c4f5c32",
+  "prev": "c9de1c29c7854f6d6ab962f33707f83af657579c2d2883d11117ff0a7fecdd3e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c2e675df6184477c453ef78c51212d3d1cad9ecd0c48a2012535b1876d9b9ea9"
+}
