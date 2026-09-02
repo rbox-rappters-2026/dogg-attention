@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 51,
+  "utc": "2026-09-02T03:20:08.919Z",
+  "payload": {
+    "tick": 821,
+    "tick_frame": "8ab0f73d1339956c63c599f3f4da34febfe13b9b9f0d79e60d13ba0de27a2245",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-02T03:20:08.919Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Fable 5.1 and Claude Mythos 5.1",
+          "How accurate have Ed Zitron's AI skeptic predictions been?",
+          "'Idiocracy' Predicted All of This"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Fine, I’ll build my own text editor",
+          "Is Minifying CSS Necessary? (2023)",
+          "A Crash Course in Predicate Logic"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "The_Neverending_Story",
+          "Anahí",
+          "AMGTV",
+          "XHamster",
+          "Okto"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "81312e62c24e37b78bdaf86483edeb6ee9dfc2193e02f6f73742dea0e926926f",
+  "prev": "ccc3f4b6ffb2628e10af71efdf7f284bc6cbd7e3f7dbacebfcac80ef2b3d1603",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f52ec9fc585da602568a127d384d222c54beae75645cddab9bddf1be9255f1ff"
+}
