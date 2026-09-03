@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 62,
+  "utc": "2026-09-03T21:13:31.601Z",
+  "payload": {
+    "tick": 833,
+    "tick_frame": "87918022aba79208d9eb1265a616122c02dbfb63f986e66ca04ca3b4b6ac9c3a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-03T21:13:31.601Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-6 Astra",
+          "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          ".name Termination"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name Termination",
+          "Audacity 4.0.0 Released",
+          "CERN transitioning industrial computers to Debian after being a longtime RHEL institution"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Special:RecentChanges",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "Toxic_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e870851bbac78118167209f22fb551a762bac173bad5fd61c9e661055995a728",
+  "prev": "242a711e667cc78f57465bece915320501b8515bc7b9e0b03a31f10f8eeb197f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "7a1edb2a0c93ca23062fe8d61a9f438ac50bfc70157adde65bae85e7fef9bd7d"
+}
