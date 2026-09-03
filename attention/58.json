@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 58,
+  "utc": "2026-09-03T05:39:07.990Z",
+  "payload": {
+    "tick": 829,
+    "tick_frame": "128568c32798f1ba51e06f6bea3a6226bdbde6e35a9880110339262201abaff1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-03T05:39:07.990Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Muse Spark 1.3",
+          "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "Holden's Lightning Flight"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Normalized Fascism in Open Source: $12 Million Given to DHH",
+          "A note on subscription prices from LWN",
+          "Static Allocation, Constant Work"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Special:RecentChanges",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "Toxic_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "00cf34c2fff11e178a650cf6cc8178fde0aa448beba096f1f7a427de078cf73e",
+  "prev": "d5e8a15d4459709ec746e5c7ddd894e2cf7aef51aba0fbf0dc56fa6413b2d14d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c6e7b5b7cf9c7c8555989e26908eaaccb5e7a9a8e434bd42db1d8d63a30ffcf5"
+}
