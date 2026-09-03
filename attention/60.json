@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 60,
+  "utc": "2026-09-03T14:54:11.032Z",
+  "payload": {
+    "tick": 831,
+    "tick_frame": "20c01831b983126e44178b584064d8b4b5e67405442fe880ee53e10cbe44cc9c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-03T14:54:11.032Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Audacity 4.0",
+          "Elevated Errors for Multiple Models",
+          "Pre-Release of Polars 2.0"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+          "What's in the Emacs newcomers-presets theme?",
+          "I Think the Military Commissary Freezers Were Hacked"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Special:RecentChanges",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "Toxic_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ae7e3e833ae04d2865243f2182c6c29a811c97694963bcbaba77699330bb849c",
+  "prev": "469e554f7fc48cd7d4bf8519eab471605119265c73d63c54dafb036b3600f97a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4e4ff4a77475fdf754b75fdbd570efb0ce1b086f783a67208d6a9c766fe48762"
+}
