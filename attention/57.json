@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 57,
+  "utc": "2026-09-03T00:58:54.596Z",
+  "payload": {
+    "tick": 828,
+    "tick_frame": "98f79b4e568fbe6dd9d3a0971411612a67c0738887e08627d6720af29dbc1c8c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-03T00:58:54.596Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Muse Spark 1.3",
+          "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "Google avoids a breakup of its ad tech business"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Normalized Fascism in Open Source: $12 Million Given to DHH",
+          "A note on subscription prices from LWN",
+          "Dependent if expressions without dependent types"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "d5e8a15d4459709ec746e5c7ddd894e2cf7aef51aba0fbf0dc56fa6413b2d14d",
+  "prev": "80867d8324510b31d703f85874b28fe1f16411fedb71db65297586b8ae359f81",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "16047c2006e13e3bce8d46af10bd548c70e60053cfc4cf3f3ab8438967c6ecee"
+}
