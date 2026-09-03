@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 61,
+  "utc": "2026-09-03T18:22:50.735Z",
+  "payload": {
+    "tick": 832,
+    "tick_frame": "0b44db82aeb45101e7cfa8aec87d1be095f11d197daa43804178d02848197308",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-03T18:22:50.735Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          ".name Termination",
+          "K2 Horizon: A connected fleet of six open models",
+          "Any Human Ever – One life, drawn at random from all who have ever lived"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name Termination",
+          "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+          "Audacity 4.0.0 Released"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Special:RecentChanges",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "Toxic_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "242a711e667cc78f57465bece915320501b8515bc7b9e0b03a31f10f8eeb197f",
+  "prev": "ae7e3e833ae04d2865243f2182c6c29a811c97694963bcbaba77699330bb849c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f96adf97bf2e8690d808b7118c184750427ae5f68d5b31c956fca3edaae577d7"
+}
