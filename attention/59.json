@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 59,
+  "utc": "2026-09-03T10:48:43.953Z",
+  "payload": {
+    "tick": 830,
+    "tick_frame": "f8ed8d6d2095bb92b34613d081e04253c8f32ef22e933a6975bff98ee3296c46",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-03T10:48:43.953Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pre-Release of Polars 2.0",
+          "The Browser's Main Thread Is Expensive",
+          "Muse Spark 1.3"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A note on subscription prices from LWN",
+          "I Think the Military Commissary Freezers Were Hacked",
+          "Normalized Fascism in Open Source: $12 Million Given to DHH"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Special:RecentChanges",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "Toxic_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "469e554f7fc48cd7d4bf8519eab471605119265c73d63c54dafb036b3600f97a",
+  "prev": "00cf34c2fff11e178a650cf6cc8178fde0aa448beba096f1f7a427de078cf73e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "31ca4cfead160411119257b20ac87b8d3863d3d15a8a42250286a9acdc4edc3e"
+}
