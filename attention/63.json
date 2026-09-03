@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 63,
+  "utc": "2026-09-03T23:26:10.077Z",
+  "payload": {
+    "tick": 834,
+    "tick_frame": "f7c27d86a4d63c2abb3efb69bf06d9451d58c80d837cbe972c47982d7d9142b8",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-03T23:26:10.077Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-6 Astra",
+          "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          ".name Termination"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name Termination",
+          "Audacity 4.0.0 Released",
+          "jujutsu 0.45.0"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Special:RecentChanges",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "Toxic_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "479baf2c373945731ec2c74e30ccc69863315b35cea8241dbc618e6c8f4b2fbf",
+  "prev": "e870851bbac78118167209f22fb551a762bac173bad5fd61c9e661055995a728",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c7d5b34711250798da3afb6897c84b7bf5a8fc7b5e75d9be32907807914da42e"
+}
