@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 69,
+  "utc": "2026-09-04T21:17:24.926Z",
+  "payload": {
+    "tick": 840,
+    "tick_frame": "033e1655c5ef67746efb694fd177430127b07ad25a1ad2bc176ef9c58607f563",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-04T21:17:24.926Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Formalizing Fermat's Last Theorem",
+          "Discovery of a new OpenAI agent message board",
+          "Can AI design circuit boards yet?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Surviving Code Reviews in the era of AI",
+          ".name Termination",
+          "Discovery of a new OpenAI agent message board"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Gloria_Steinem",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "David_Bale"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c0f06b0b2bc02f179cad21ad5312d9dae62bc193512587b43c886fbf7c4bc582",
+  "prev": "9d99bcec494a56b24a7b7109dcb903214a9a3667057bec37d47540cf2e128049",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "960259aafd45adb79b5e77ef6d0f6a88a2011a83e2361d3a23c9674cc6dfb9b9"
+}
