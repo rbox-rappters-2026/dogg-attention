@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 67,
+  "utc": "2026-09-04T15:54:04.866Z",
+  "payload": {
+    "tick": 838,
+    "tick_frame": "a75cc0ac0a95ca780c2116656930c179214d97920a084bedbd4e5f41cc0f7e2a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-04T15:54:04.866Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google AI Mode shows same products 21.6% more expensive than traditional search",
+          "Discovery of a new OpenAI agent message board",
+          "Solving the Jane Street Reverse Engineering Challenge"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name Termination",
+          "Surviving Code Reviews in the era of AI",
+          "The asteroid currently hitting frontend web development"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Gloria_Steinem",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "David_Bale"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "800f4106cdf7e1336c67a031f056a70b86a2b37f94ff5b2e2928f6f774d91da7",
+  "prev": "e0c6d2ba10fee297aed26ddb6c8949e363e47880911e731310072999e10143a2",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "49950f10ceea187fb2eccb292cc35463be357cecc0ad284465d9866df7ac0208"
+}
