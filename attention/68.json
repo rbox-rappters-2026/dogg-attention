@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 68,
+  "utc": "2026-09-04T18:51:32.167Z",
+  "payload": {
+    "tick": 839,
+    "tick_frame": "bab5cfa1f581214287d935f8fcda9dd53e9829f153564e37c22faba2e36be4e1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-04T18:51:32.167Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Discovery of a new OpenAI agent message board",
+          "Show HN: Open-Source eInk Bike Computer",
+          "Formalizing Fermat's Last Theorem"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Surviving Code Reviews in the era of AI",
+          ".name Termination",
+          "Discovery of a new OpenAI agent message board"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Gloria_Steinem",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "David_Bale"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9d99bcec494a56b24a7b7109dcb903214a9a3667057bec37d47540cf2e128049",
+  "prev": "800f4106cdf7e1336c67a031f056a70b86a2b37f94ff5b2e2928f6f774d91da7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bb41c9d08cec75f2fe7b5a6fa23993735b49fcc4b936190fac9ca3a8a288cd94"
+}
