@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 65,
+  "utc": "2026-09-04T06:19:43.108Z",
+  "payload": {
+    "tick": 836,
+    "tick_frame": "6f682dcdeb318bfb7a2dae357999ab38ca6e138def5cae00a2ee671aa33d5a58",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-04T06:19:43.108Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-6 Astra",
+          ".name Termination",
+          "A Mysterious Kidney Disease Has Arrived in Texas"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name Termination",
+          "Audacity 4.0.0 Released",
+          "simple is not small"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Gloria_Steinem",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "David_Bale"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "74d7e6f1615fea77392efb879011614ff34ae3160c35ba801677639c045b9799",
+  "prev": "1deca98a7fe3563549f61216572d1fbfbf7eef761f1410219b6db137015f5b6c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e7f5c7af1849bb4e728e366f3c0afd0efbe63968fc11378ee04da9de94b64e0b"
+}
