@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 66,
+  "utc": "2026-09-04T11:34:57.611Z",
+  "payload": {
+    "tick": 837,
+    "tick_frame": "2fe6e9c4c3d1a63024be522bbe7d36489dc38b5e711cabc3f938e887374b9a7c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-04T11:34:57.611Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-6 Astra",
+          "Solving the Jane Street Reverse Engineering Challenge",
+          ".name Termination"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name Termination",
+          "simple is not small",
+          "Audacity 4.0.0 Released"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Gloria_Steinem",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "David_Bale"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e0c6d2ba10fee297aed26ddb6c8949e363e47880911e731310072999e10143a2",
+  "prev": "74d7e6f1615fea77392efb879011614ff34ae3160c35ba801677639c045b9799",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c706eadfbe5f2e2ed133f13638e279ed6e6f78d92e6ac0a05a5a995f4d144c38"
+}
