@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 64,
+  "utc": "2026-09-04T01:12:05.523Z",
+  "payload": {
+    "tick": 835,
+    "tick_frame": "0b8270b0bb92d91c65290d78b375fabf7e61062fad087bf0048ca10c280d715f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-04T01:12:05.523Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-6 Astra",
+          ".name Termination",
+          "Qwen 3.8 27B available on Cerebras at 1500 tokens/s"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name Termination",
+          "Audacity 4.0.0 Released",
+          "Revo Programming language"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "1deca98a7fe3563549f61216572d1fbfbf7eef761f1410219b6db137015f5b6c",
+  "prev": "479baf2c373945731ec2c74e30ccc69863315b35cea8241dbc618e6c8f4b2fbf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ea9d4056bf6331b3fe9fabee75674e9069abc0beba6e085cb6b7e94d52c35b3b"
+}
