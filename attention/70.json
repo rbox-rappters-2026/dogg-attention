@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 70,
+  "utc": "2026-09-04T23:10:28.373Z",
+  "payload": {
+    "tick": 841,
+    "tick_frame": "d9a87cb0271ab5f91384198330dc22615de6af4478403577be499c17783b3d2e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-04T23:10:28.373Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Formalizing Fermat's Last Theorem",
+          "Actively exploited sandbox RCE in all Chromium versions",
+          "Statichost.eu – European static site hosting"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Surviving Code Reviews in the era of AI",
+          "Is AI ruining my brain?",
+          "Discovery of a new OpenAI agent message board"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Gloria_Steinem",
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          ".xxx",
+          "David_Bale"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f35fd69f9404544bcc2a6ba39cb21c57c10be688dfd413cbf4a92d2946b540d2",
+  "prev": "c0f06b0b2bc02f179cad21ad5312d9dae62bc193512587b43c886fbf7c4bc582",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "fad9f1122e23661041eedd019298dbdb630944b366cb2e3ce1ee00fc1a68fb47"
+}
