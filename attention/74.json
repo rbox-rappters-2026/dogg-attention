@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 74,
+  "utc": "2026-09-05T13:42:01.558Z",
+  "payload": {
+    "tick": 846,
+    "tick_frame": "e7930edfba002320b68044eb7a6236f1c964bf27a2b22897be89f396c611f2dd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-05T13:42:01.558Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Actively exploited sandbox RCE in all Chromium versions",
+          "Discovery of a new OpenAI agent message board",
+          "Nitter has more working instances than before the takedowns"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Surviving Code Reviews in the era of AI",
+          "Is AI ruining my brain?",
+          "Is it too much to ask devs to use AI to review their hand-crafted code?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Gloria_Steinem",
+          "Richard_O'Sullivan",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "78e3bf81232962fabc64713cdbc0da5aa815a29a3ae27d7c99bab7e46e1961d1",
+  "prev": "494a65d840ff9c60fe36462bd8c7956343303749071fdbe4ba5fe18c3c4c8fff",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "322c3fbad516192296208da3028051cd3903eff34fd7d07d2eeda312719a2dab"
+}
