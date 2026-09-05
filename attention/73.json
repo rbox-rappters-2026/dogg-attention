@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 73,
+  "utc": "2026-09-05T10:50:29.738Z",
+  "payload": {
+    "tick": 845,
+    "tick_frame": "582cbde954000fc644bd73a7346e6a407cb35ea2904228b06778624a989aa59a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-05T10:50:29.738Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AI handles incidents, engineers lose touch with their systems",
+          "Actively exploited sandbox RCE in all Chromium versions",
+          "Discovery of a new OpenAI agent message board"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Surviving Code Reviews in the era of AI",
+          "Is AI ruining my brain?",
+          "Babashka 1.13.220 gets FFI"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Gloria_Steinem",
+          "Richard_O'Sullivan",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "494a65d840ff9c60fe36462bd8c7956343303749071fdbe4ba5fe18c3c4c8fff",
+  "prev": "b46767367887c91191ad037f674906772590a2369987e3b31493e8dc93fd3e86",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "66941178ba2e2ffcd909f731aaaf3bb5791b17dff0cbdebe85f20ae855ecf834"
+}
