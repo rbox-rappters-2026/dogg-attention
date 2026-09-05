@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 78,
+  "utc": "2026-09-05T22:46:11.539Z",
+  "payload": {
+    "tick": 850,
+    "tick_frame": "dc2bfe73703abb8018aabb63bd2e98647ebea939eb20c6e0fcac1f04e5e3f58d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-05T22:46:11.539Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Real Luxuries In Life",
+          "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+          "Private German rocket makes history, reaches orbit from European soil"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "zopt: low-ceremony command line parsing for Zig",
+          "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+          "It matters who teaches you"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Gloria_Steinem",
+          "Richard_O'Sullivan",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9d094cacaa26313e154822314149cd4e588ba1749014f8c8c4199dbbdd36f77a",
+  "prev": "d5de2235ab2666449f85d7f5880daf85bfff06e5c65505e46d7d4369b14f8079",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5f28bf265d822a2850a8a7497e000d747e7b4c7a18027721bb6c7cf5a496c8aa"
+}
