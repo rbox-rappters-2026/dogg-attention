@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 75,
+  "utc": "2026-09-05T16:34:53.734Z",
+  "payload": {
+    "tick": 847,
+    "tick_frame": "57f565525ba91eaca991e69fa7dd53228f787489d8f2c739fdf04a54773b158a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-05T16:34:53.734Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods",
+          "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+          "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+          "Surviving Code Reviews in the era of AI",
+          "zopt: low-ceremony command line parsing for Zig"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Gloria_Steinem",
+          "Richard_O'Sullivan",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d377b22c014af0bdb082fa3aa2cb4aff5d19711ab65e96e5ef001fbb6f1fffac",
+  "prev": "78e3bf81232962fabc64713cdbc0da5aa815a29a3ae27d7c99bab7e46e1961d1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "09dacc53e3a6b1284a04f6c5d9980858d347c568c7f0d716250577868ca1daa0"
+}
