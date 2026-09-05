@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 76,
+  "utc": "2026-09-05T18:49:35.600Z",
+  "payload": {
+    "tick": 848,
+    "tick_frame": "b89fe141de7c904fe906a8ad5ea26e442ff0d33366cd6d48017f533b91698b64",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-05T18:49:35.600Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+          "Discovery of a new OpenAI agent message board",
+          "Actively exploited sandbox RCE in all Chromium versions"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "zopt: low-ceremony command line parsing for Zig",
+          "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+          "Surviving Code Reviews in the era of AI"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Gloria_Steinem",
+          "Richard_O'Sullivan",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "46efa77ccf38c4afe6a95829df5b951106c03f0944c4140fac97acec04364f58",
+  "prev": "d377b22c014af0bdb082fa3aa2cb4aff5d19711ab65e96e5ef001fbb6f1fffac",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2387b38bf947d5971915a76875edb18a3ad1613414a5482fa4a065441f1276cc"
+}
