@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 83,
+  "utc": "2026-09-06T16:44:14.092Z",
+  "payload": {
+    "tick": 855,
+    "tick_frame": "9f792a00551d9a843e01c4480ebbabb07cea22ea89f9ff4ea5074c9352675883",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-06T16:44:14.092Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "QBittorrent breaks out of sandbox to commit crimes",
+          "Intellectual Fly Is Open (2025)",
+          "Isar Aerospace reaches orbit and deploys payloads on second flight"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The revolt of the reader",
+          "Debian Code Search: Fast TurboPFor with Go SIMD",
+          "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Mirzapur_(film)",
+          "Miss_World_2026",
+          "Katie_Taylor"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "220ca0e74203361d190d2534da7ed5ffcd38536f4293a6f14b62b1f2c2b3215b",
+  "prev": "8053ea841e2cc53c9d87d987d13e2ae6df55283d645967eb6764c60d96fc6c14",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "af05e71fa3f7f6b45eec2d2923dcd6e57402d04d8587e5643c6e5841fd0172e9"
+}
