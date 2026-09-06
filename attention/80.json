@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 80,
+  "utc": "2026-09-06T05:35:23.712Z",
+  "payload": {
+    "tick": 852,
+    "tick_frame": "45b14b08bd44880b8f085e8ca30cb46fa3fed3dfb21aa0ad91b97f8e0f5d6c2b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-06T05:35:23.712Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Cloud in a Bottle: making self-hosting accessible to everyone",
+          "The revolt of the reader",
+          "GPT-6 Astra on robot arms"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The revolt of the reader",
+          "zopt: low-ceremony command line parsing for Zig",
+          "It matters who teaches you"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Mirzapur_(film)",
+          "Miss_World_2026",
+          "Katie_Taylor"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6296ab2ea561d38de04f675398bd8235f32dcc37f363484336c11f46c532afce",
+  "prev": "3f627aa9b3649a440a575de32c13d5aa401b616a1f2bac71ecab5d362806d124",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c434defad9214c9c04d9ddd15685dced70f66f0003dc6237dd46f2438dfb8bba"
+}
