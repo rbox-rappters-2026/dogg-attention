@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 79,
+  "utc": "2026-09-06T00:38:59.183Z",
+  "payload": {
+    "tick": 851,
+    "tick_frame": "0f65bbe3c65af23edc6f15988cffc7026e0fa9eb8be1f3a57b12100e9b2e1fd6",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-06T00:38:59.182Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Cloud in a Bottle: making self-hosting accessible to everyone",
+          "Private German rocket makes history, reaches orbit from European soil",
+          "Learn Programming with OCaml"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "zopt: low-ceremony command line parsing for Zig",
+          "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+          "It matters who teaches you"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "3f627aa9b3649a440a575de32c13d5aa401b616a1f2bac71ecab5d362806d124",
+  "prev": "9d094cacaa26313e154822314149cd4e588ba1749014f8c8c4199dbbdd36f77a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "effe8ca45af11b84805c30364211425483ebe9d36ef796829470004e61c38759"
+}
