@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 82,
+  "utc": "2026-09-06T13:45:26.855Z",
+  "payload": {
+    "tick": 854,
+    "tick_frame": "f0c203f679d94d4eb860666f6e2f9671a12ecac50b15934cc80c69e52f84331b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-06T13:45:26.855Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Intellectual Fly Is Open",
+          "Isar Aerospace reaches orbit and deploys payloads on second flight",
+          "Doomscrolling Ourselves to Death"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The revolt of the reader",
+          "Debian Code Search: Fast TurboPFor with Go SIMD",
+          "Any Nix package, live in your browser"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Mirzapur_(film)",
+          "Miss_World_2026",
+          "Katie_Taylor"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "8053ea841e2cc53c9d87d987d13e2ae6df55283d645967eb6764c60d96fc6c14",
+  "prev": "fe675c9c510c7337beae1747383bc3c2438b0a13fea0c79a82471fed9c6da519",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "0dfd91ad82cbcc410f77b9cc5b6d8a01c8e00cbff1786c84606f7a28e6c7d267"
+}
