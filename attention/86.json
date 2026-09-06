@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 86,
+  "utc": "2026-09-06T22:59:10.491Z",
+  "payload": {
+    "tick": 858,
+    "tick_frame": "133b822558db8dc84a9a324e13999ae0539d1541ff27411e28d777cb14f2d5e8",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-06T22:59:10.491Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+          "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+          "Your intellectual fly is open (2025)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It took a year to ship WebAssembly in Anubis",
+          "Debian Code Search: Fast TurboPFor with Go SIMD",
+          "The revolt of the reader"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Killing_of_the_Clancy_children",
+          "Wikipedia:Featured_pictures",
+          "Mirzapur_(film)",
+          "Miss_World_2026",
+          "Katie_Taylor"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9767497a694dce05a3935bdd5724c05fa01ce613062d47bf227c3fe97faf5aa9",
+  "prev": "48c2aa2afe904eb856f2eb6dcd05642a73417a3b1240994c5a4144cf47e8122c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4b4ce3c3d18e169728645803908ae9c70aa50dff9796884925fe492ef436f8cb"
+}
