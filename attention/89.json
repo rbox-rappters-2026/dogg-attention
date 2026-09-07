@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 89,
+  "utc": "2026-09-07T11:47:58.552Z",
+  "payload": {
+    "tick": 861,
+    "tick_frame": "e85021e4ce3ed43ef8f7abc88cdcd7054ec76b82b75fddcda1fbefa59637cee0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-07T11:47:58.552Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Keep Our Servers Running",
+          "Live map of public transport in Belgium",
+          "Caltech Mathathon – first hackathon ever devoted to research level mathematics"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It took a year to ship WebAssembly in Anubis",
+          "A faster way to convert a timestamp to Hour, Min, Sec",
+          "Python Iceberg"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          "2026_Saxony-Anhalt_state_election",
+          "Andy_Williams_(guitarist)",
+          "Mirzapur_(film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c3306afa654c8fc054cfb70afc3091020edeb1506eb8ed20447675c6a3a32e67",
+  "prev": "219f2ea09b01cf654dede7d05e46a482455d5766f0a79c06ce1259bb83c18a85",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "78194565228a2cb5912b1aea8334e7790e350b92d0629d92fe88ee0a53ddc282"
+}
