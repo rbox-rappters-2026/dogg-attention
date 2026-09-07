@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 88,
+  "utc": "2026-09-07T05:45:43.858Z",
+  "payload": {
+    "tick": 860,
+    "tick_frame": "239371c6e1bfd2c08a6dcbd1fde24f211c0dfb42853d0b46f43cd99555a5d543",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-07T05:45:43.858Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+          "Making a Python interpreter in 1024 bytes",
+          "I'm a seeing-eye dog for a computer"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It took a year to ship WebAssembly in Anubis",
+          "Python Iceberg",
+          "NetBSD 11 from scratch"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          "2026_Saxony-Anhalt_state_election",
+          "Andy_Williams_(guitarist)",
+          "Mirzapur_(film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "219f2ea09b01cf654dede7d05e46a482455d5766f0a79c06ce1259bb83c18a85",
+  "prev": "bcd5a186a971a68a0feeadad4e025b4937f5492ff363659cf1de2df1584b9ed3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "43a8c5d82a87794bac09856b05b859f378a453ef1a50ea8c82db3fd5afd3e481"
+}
