@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 87,
+  "utc": "2026-09-07T00:51:59.193Z",
+  "payload": {
+    "tick": 859,
+    "tick_frame": "cdd4574cf0c8e2d3329b5b5b471ecf1576a655ec7c98f22b8124d67228aaea5e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-07T00:51:59.193Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+          "Making a Python interpreter in 1024 bytes",
+          "Your intellectual fly is open (2025)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It took a year to ship WebAssembly in Anubis",
+          "Python Iceberg",
+          "Debian Code Search: Fast TurboPFor with Go SIMD"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "bcd5a186a971a68a0feeadad4e025b4937f5492ff363659cf1de2df1584b9ed3",
+  "prev": "9767497a694dce05a3935bdd5724c05fa01ce613062d47bf227c3fe97faf5aa9",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4debaefa7b4f38f0a6496d0b8c4a018d437dc059e17b549e4a73d03957c8d98a"
+}
