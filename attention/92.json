@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 92,
+  "utc": "2026-09-07T23:18:47.700Z",
+  "payload": {
+    "tick": 864,
+    "tick_frame": "188822aed47037cf52afdfca4e05502009d9000d989f6364fa287aeb84c63676",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-07T23:18:47.699Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Watch Los Angeles get built, one building at a time (1880–2026)",
+          "Trusting-Trust Attack against an Entire Linux Distribution",
+          "WeatherNext 3"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A faster way to convert a timestamp to Hour, Min, Sec",
+          "The shortest IPv6 addresses",
+          "It took a year to ship WebAssembly in Anubis"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          "2026_Saxony-Anhalt_state_election",
+          "Andy_Williams_(guitarist)",
+          "Mirzapur_(film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7f1dd889df25f89704599d9da4bc874f083609ee9dcd508b80f1240ee30d764e",
+  "prev": "072e8e975e1aefbee2a7b37e8a782c8444f9fd2f8dbc63ee46f03c25415729a3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e142ca6c71d816c7581dc1896bd1dfef44857dbc7e1b1c5216df8294adeeb8cd"
+}
