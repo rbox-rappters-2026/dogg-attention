@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 90,
+  "utc": "2026-09-07T17:25:16.236Z",
+  "payload": {
+    "tick": 862,
+    "tick_frame": "9b5bfd8d2621d45b38457eb9e39753c44ff5f27c9f95b05003d521a8f184c9a7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-07T17:25:16.236Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "De-Brainrot Vacations",
+          "bzip3",
+          "Keep Our Servers Running"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A faster way to convert a timestamp to Hour, Min, Sec",
+          "The shortest IPv6 addresses",
+          "It took a year to ship WebAssembly in Anubis"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Killing_of_the_Clancy_children",
+          "2026_Saxony-Anhalt_state_election",
+          "Andy_Williams_(guitarist)",
+          "Mirzapur_(film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "8974ab6a168a9f337744bea8f87b42edc0bb1ab61bf9842adf89e711a24cf8f3",
+  "prev": "c3306afa654c8fc054cfb70afc3091020edeb1506eb8ed20447675c6a3a32e67",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "731c4d8690198807c8ea5cc1e698a9a4a4014b9c5e8417a4695ff44b519d2895"
+}
