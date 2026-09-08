@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 93,
+  "utc": "2026-09-08T01:18:51.309Z",
+  "payload": {
+    "tick": 865,
+    "tick_frame": "5ba79df1bacd643d548c56c8f5eb6cfab6be8db5d982102ec8b82a527c0a1484",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-08T01:18:51.309Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "TALA Is Open-Source",
+          "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+          "Watch Los Angeles get built, one building at a time (1880–2026)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A faster way to convert a timestamp to Hour, Min, Sec",
+          "The shortest IPv6 addresses",
+          "It took a year to ship WebAssembly in Anubis"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "11ef7d4cbfaf850012d8ff7eab71fa665a7c62fa2328020f6da5eee6bb9d0784",
+  "prev": "7f1dd889df25f89704599d9da4bc874f083609ee9dcd508b80f1240ee30d764e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "41c2eb014d2fa3206cdbe313bb3bbf80be4d5be9c8482bb11a62465c26cae52e"
+}
