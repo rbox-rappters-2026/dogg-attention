@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 95,
+  "utc": "2026-09-08T11:36:04.765Z",
+  "payload": {
+    "tick": 867,
+    "tick_frame": "d5d2591e4de1521a2bd8233f09a9e2b73a1c32eb67f483cb5b4c2a33e8d2cf41",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-08T11:36:04.765Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+          "Antiquated HTML Snippets and Artefacts",
+          "Why getting your hands dirty is good for you"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I changed my license to EUPL",
+          "The state of European cloud providers in 2026",
+          "A faster way to convert a timestamp to Hour, Min, Sec"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Elizabeth_Holmes",
+          "Killing_of_the_Clancy_children",
+          "Labor_Day",
+          "You_Can_See_Everything"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6214e388e095af4f471e42a585f0879a07aaec74f69754ed7960a30c96d9144a",
+  "prev": "2bfde61fe5abe47a2e7517a7a18562ebe91700c0317f522951540bbd9dde9fd3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b858bd7f932b120eff37cbf3d86eafdf48acf5571e0c68e621b1a1cd4e114f51"
+}
