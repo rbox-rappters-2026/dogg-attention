@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 98,
+  "utc": "2026-09-08T22:24:50.274Z",
+  "payload": {
+    "tick": 871,
+    "tick_frame": "21595f1cf2848ed2c2ba5c7097e9a222f025a7096ba4e96ba660772bbccb7436",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-08T22:24:50.274Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google DeepMind Releases AlphaGenome Atlas",
+          "Navier-Stokes – Tristan Buckmaster [pdf]",
+          "On the Navier–Stokes Millennium Prize Problem"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Switching Password Managers in 2026",
+          "I changed my license to EUPL",
+          "The state of European cloud providers in 2026"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Elizabeth_Holmes",
+          "Killing_of_the_Clancy_children",
+          "Labor_Day",
+          "You_Can_See_Everything"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2138393f79408e89d8cbe04d0a81227e9fcc6a4314e7a5c85223defdb05624c0",
+  "prev": "eeec73963dd8d3255acbb2c7f7eafaa83f88730c3a0620d7e93952380b1a93ce",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2d8e7df285442d01f189f1a19d1cccba5143a91b1b59120b32a35c8dfb4d2969"
+}
