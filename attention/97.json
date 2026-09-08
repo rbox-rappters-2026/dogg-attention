@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 97,
+  "utc": "2026-09-08T19:30:13.988Z",
+  "payload": {
+    "tick": 869,
+    "tick_frame": "406443db49929e06cee341b15dc1e11f5ed46f12452d0f8c3db36b59ee190671",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-08T19:30:13.988Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google DeepMind Releases AlphaGenome Atlas",
+          "ChatGPT Images 2.5",
+          "DaVinci Resolve 21.1"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I changed my license to EUPL",
+          "Switching Password Managers in 2026",
+          "The state of European cloud providers in 2026"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Elizabeth_Holmes",
+          "Killing_of_the_Clancy_children",
+          "Labor_Day",
+          "You_Can_See_Everything"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "eeec73963dd8d3255acbb2c7f7eafaa83f88730c3a0620d7e93952380b1a93ce",
+  "prev": "99f506a518e4cad6dd389ad651224f7829228173bf567556dea1874ec7f03667",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e04052d3989a3a032ce302ec2fd7a2722b9ef96df8f87fb76a27dc05372dc946"
+}
