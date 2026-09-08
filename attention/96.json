@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 96,
+  "utc": "2026-09-08T16:09:58.857Z",
+  "payload": {
+    "tick": 868,
+    "tick_frame": "eea409daa264ac1ef05992303b0e78e5ee64e43f00eafd8c9af5e38bc9110fdd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-08T16:09:58.857Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google DeepMind Releases AlphaGenome Atlas",
+          "DaVinci Resolve 21.1",
+          "LibreOffice breaks download records after declaring it has no AI features"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I changed my license to EUPL",
+          "The state of European cloud providers in 2026",
+          "Extreme Server Side Rendering"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Elizabeth_Holmes",
+          "Killing_of_the_Clancy_children",
+          "Labor_Day",
+          "You_Can_See_Everything"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "99f506a518e4cad6dd389ad651224f7829228173bf567556dea1874ec7f03667",
+  "prev": "6214e388e095af4f471e42a585f0879a07aaec74f69754ed7960a30c96d9144a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "39ee9d1fce4d7bc3acf5d52775c809e03411cab9d1c8d0b4dc5bda0176b757d0"
+}
