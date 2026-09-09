@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 102,
+  "utc": "2026-09-09T14:44:07.308Z",
+  "payload": {
+    "tick": 875,
+    "tick_frame": "2957ae6c5ecb449a85fbf6f0d02b8db3730fcb8da5988422997e838d0730c11c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-09T14:44:07.307Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Tailwind Labs is joining Shopify",
+          "Flock Wants a Closely Surveilled World with No Exit",
+          "Desert Ant Labs: local, fast models that run on device"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How to build a f**king printer",
+          "Switching Password Managers in 2026",
+          "Rust: When Empty Isn't Bottom"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Spider-Man:_Brand_New_Day",
+          "The_Odyssey_(2026_film)",
+          "The_Last_House",
+          "Enes_Kanter_Freedom"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "15ba3427aa91ec30ccf4ae378cceb7f97d1357362a9fb3caec55a0a6f06fd723",
+  "prev": "12fa7e285346ccabba8f772af6c6bc0b629a531232e545b02abbf659fd465041",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "303e9bfb1f0df0a6e6237afce1c96b6649f2ee4033f343bf3449721bff683e94"
+}
