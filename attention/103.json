@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 103,
+  "utc": "2026-09-09T18:20:47.681Z",
+  "payload": {
+    "tick": 876,
+    "tick_frame": "003676018957905e44a95cda54d4beabf7fb4a0a136d30b27ba4dd3c8576944c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-09T18:20:47.681Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "iPhone Duo",
+          "Tailwind Labs is joining Shopify",
+          "Apple Watch Series 12"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How to build a f**king printer",
+          "I Don’t Want to Interact With Stochastic Parrots",
+          "A decade of rustls"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Spider-Man:_Brand_New_Day",
+          "The_Odyssey_(2026_film)",
+          "The_Last_House",
+          "Enes_Kanter_Freedom"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "355f62dcdc8e949343328bc25b4afc72d5b204017635efcfe193748fb29520c0",
+  "prev": "15ba3427aa91ec30ccf4ae378cceb7f97d1357362a9fb3caec55a0a6f06fd723",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a2f7027cf658744c76cac787a94d357f5f749a3a509e06484037ba2b35b1efc8"
+}
