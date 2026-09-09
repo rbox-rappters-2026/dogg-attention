@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 99,
+  "utc": "2026-09-09T00:26:31.540Z",
+  "payload": {
+    "tick": 872,
+    "tick_frame": "3108e59fb946865eb2b43cf78f5549fa15c399fd26c60993df3f9ffb67bbc58a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-09T00:26:31.540Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Muse – Meta’s personal AI agent",
+          "Large language models develop novel social biases through adaptive exploration",
+          "How to build a printer"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Switching Password Managers in 2026",
+          "What makes $BigTechCompany's products bad, anyway?",
+          "I changed my license to EUPL"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Spider-Man:_Brand_New_Day",
+          "The_Odyssey_(2026_film)",
+          "The_Last_House",
+          "Enes_Kanter_Freedom"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "673b941a19898886efdd8a58cfdbf60a09440842673e8a42f516d01a86e6fce0",
+  "prev": "2138393f79408e89d8cbe04d0a81227e9fcc6a4314e7a5c85223defdb05624c0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "512c34a9c06c5c3cbb7a0bd138f1a97a0ae67889f2a3f05dceb803c062a0f1f9"
+}
