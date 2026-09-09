@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 101,
+  "utc": "2026-09-09T10:00:20.124Z",
+  "payload": {
+    "tick": 874,
+    "tick_frame": "a9ca2eeadaf5b4f76255393bb4ab60de719c819d79c3512d5d62202f817fd9d5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-09T10:00:20.124Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "How GPT‑5.6 Sol helps run quantum computing experiments",
+          "Muse – Meta’s personal AI agent",
+          "On Really Trying (2009)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How to build a f**king printer",
+          "What makes $BigTechCompany's products bad, anyway?",
+          "Switching Password Managers in 2026"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Spider-Man:_Brand_New_Day",
+          "The_Odyssey_(2026_film)",
+          "The_Last_House",
+          "Enes_Kanter_Freedom"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "12fa7e285346ccabba8f772af6c6bc0b629a531232e545b02abbf659fd465041",
+  "prev": "23552a4cbe6103ec3d514338d77a1f59bd51b740bcd426851bdfffccd82a2b45",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "7c72906d6eb8ee4861f527caea263ff4fc6477b474179a000c16f46dd330575a"
+}
