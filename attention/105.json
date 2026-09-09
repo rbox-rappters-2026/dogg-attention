@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 105,
+  "utc": "2026-09-09T23:26:13.374Z",
+  "payload": {
+    "tick": 878,
+    "tick_frame": "68aeb289e67d029d8003a5368e07442080a96224fbeacf6c30804ab2b3ca3423",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-09T23:26:13.374Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "iPhone Duo",
+          "Shopify acquires Tailwind",
+          "What do Visa and Mastercard do? An intro to card networks"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Apple Event for September 9th, 2026",
+          "I Don’t Want to Interact With Stochastic Parrots",
+          "How to build a f**king printer"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Spider-Man:_Brand_New_Day",
+          "The_Odyssey_(2026_film)",
+          "The_Last_House",
+          "Enes_Kanter_Freedom"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f8cb9b33b2a88f0b923803eba3f9d35664e58a699fc7929d5e3e7ea9b1de5ab2",
+  "prev": "3cb3427701baee9c8e218ee78662450372299203e7d77cbb1f2ad021f8e8d558",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e40e9eb6918b3ad83f02e2c3f9cda8cb4f980d0a1987df3c9fe679ccd26f6305"
+}
