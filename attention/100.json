@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 100,
+  "utc": "2026-09-09T05:02:31.468Z",
+  "payload": {
+    "tick": 873,
+    "tick_frame": "eb58a465d3666e6722fcb9678abe70763ec802fb9d79fea86eb2a72d68831e08",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-09T05:02:31.468Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Muse – Meta’s personal AI agent",
+          "Tension wood: A 'muscle' that can both bend and straighten plants",
+          "Navier-Stokes – Tristan Buckmaster [pdf]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Switching Password Managers in 2026",
+          "What makes $BigTechCompany's products bad, anyway?",
+          "How to build a f**king printer"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Spider-Man:_Brand_New_Day",
+          "The_Odyssey_(2026_film)",
+          "The_Last_House",
+          "Enes_Kanter_Freedom"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "23552a4cbe6103ec3d514338d77a1f59bd51b740bcd426851bdfffccd82a2b45",
+  "prev": "673b941a19898886efdd8a58cfdbf60a09440842673e8a42f516d01a86e6fce0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c88d49e1e3391ce7074bcfd521fb50b3cd371737d15bbf1050df1c99f847b9e0"
+}
