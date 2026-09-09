@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 104,
+  "utc": "2026-09-09T21:05:04.630Z",
+  "payload": {
+    "tick": 877,
+    "tick_frame": "ede68471bc7e5f1887dd058bcc5b48d72807077611c32c343c55e474cbbb1d51",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-09T21:05:04.630Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "iPhone Duo",
+          "AirPods 5",
+          "Shopify acquires Tailwind"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Apple Event for September 9th, 2026",
+          "How to build a f**king printer",
+          "The purpose of DNS is to spread scams"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Spider-Man:_Brand_New_Day",
+          "The_Odyssey_(2026_film)",
+          "The_Last_House",
+          "Enes_Kanter_Freedom"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3cb3427701baee9c8e218ee78662450372299203e7d77cbb1f2ad021f8e8d558",
+  "prev": "355f62dcdc8e949343328bc25b4afc72d5b204017635efcfe193748fb29520c0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3d617ed603f26cff38af98043205c3919f67add4eb71e64e8c97e2d51f9e6697"
+}
