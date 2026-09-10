@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 110,
+  "utc": "2026-09-10T19:04:28.555Z",
+  "payload": {
+    "tick": 883,
+    "tick_frame": "4844ea4812e2a02ae00603bc4a114c37aac2671bcbe3aff678a6113f1b9381c4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-10T19:04:28.555Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Rust is tier-1 language at Microsoft",
+          "I have a theory that software drives people insane",
+          "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A rant about phishing: It's not the user's fault (and not DNS either)",
+          "Rust Is Tier-1 Language at Microsoft",
+          "Xteink X4 Pro review"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "44c63ec2f46a5909f9acddd4ff5dd3eac1dfe212d30cf08901482138f0b7b845",
+  "prev": "d7ef4a9c5ad9d05f2ea4c0be960dd744a98e00a6028400197be2f68371870042",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d6bc29ae3bb280c7882001b1bc65bce949749334f56c8dcda9dd023ab212d7dd"
+}
