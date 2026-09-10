@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 107,
+  "utc": "2026-09-10T06:24:44.395Z",
+  "payload": {
+    "tick": 880,
+    "tick_frame": "63bf18e1c11e7906e8c73edfa9fe5409f4144f40acd69309c3c6cba536526d67",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-10T06:24:44.395Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "iPhone Duo",
+          "Show HN: What if the speed of light was 5 km/h?",
+          "Version Control Second Coming"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Apple Event for September 9th, 2026",
+          "I Don’t Want to Interact With Stochastic Parrots",
+          "ID design and primary keys"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a359ee6e6b6eb9be4816ef3eba47c2ff5cd530c12f40fe56b76646a890ac63fc",
+  "prev": "be144d6af88f1c97390d6d405ebab7e0ef60878efc62b24b7cd5fac825c8b6cb",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3420ef6ab357e7dae2d9ad96525b0e9e1bfce327b66d86740d9d414d42cc893d"
+}
