@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 108,
+  "utc": "2026-09-10T11:41:00.129Z",
+  "payload": {
+    "tick": 881,
+    "tick_frame": "2bf88282f2ffe0f6b2589ac0aa07b7de0c8534ff191ce0143fb69e411a37607f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-10T11:41:00.129Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+          "What algorithm did Windows XP use to choose your initial user picture?",
+          "DeepSeek v4.1 Flash"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Apple Event for September 9th, 2026",
+          "Review a pull request by booting it",
+          "I Don’t Want to Interact With Stochastic Parrots"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "cdbd8519c4f1e6047004e00a6748662da56db158a6907716c2a696c26b60beb8",
+  "prev": "a359ee6e6b6eb9be4816ef3eba47c2ff5cd530c12f40fe56b76646a890ac63fc",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "92b672c26225b5f114e8bfb885f6d4dff0364327a8ac761028e81e440943ced4"
+}
