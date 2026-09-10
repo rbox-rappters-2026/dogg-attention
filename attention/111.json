@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 111,
+  "utc": "2026-09-10T21:45:24.732Z",
+  "payload": {
+    "tick": 884,
+    "tick_frame": "aff61bd9430f045a093e16a7bd58c425a4cf798e2085d11c3f667ce080eb05e0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-10T21:45:24.732Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "More questions about whether researchers can trust OpenAI with unpublished math",
+          "The part of Navier-Stokes no one is talking about"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A rant about phishing: It's not the user's fault (and not DNS either)",
+          "Rust Is Tier-1 Language at Microsoft",
+          "Xteink X4 Pro review"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "659aab05452c8023e989947f6155b1186a62e0671da814366ec99196d6699c45",
+  "prev": "44c63ec2f46a5909f9acddd4ff5dd3eac1dfe212d30cf08901482138f0b7b845",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ddd9e27887b7d81b0cf60b04c5f19984b56ea2ea1a8325f6ce853f41a0194fd3"
+}
