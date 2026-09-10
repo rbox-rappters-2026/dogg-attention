@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 109,
+  "utc": "2026-09-10T15:57:41.147Z",
+  "payload": {
+    "tick": 882,
+    "tick_frame": "f862c423cc980e0b25676e90fca6d56545752e6ca31ef5e1000ffb6e1a82f40a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-10T15:57:41.147Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Shopify moves back to Native from React Native",
+          "Rust Is Tier-1 Language at Microsoft",
+          "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Review a pull request by booting it",
+          "It Breaks a Village: Bevy's 6th Birthday",
+          "Rust Is Tier-1 Language at Microsoft"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d7ef4a9c5ad9d05f2ea4c0be960dd744a98e00a6028400197be2f68371870042",
+  "prev": "cdbd8519c4f1e6047004e00a6748662da56db158a6907716c2a696c26b60beb8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "623cf5efab124fd7e75db17cd686b81566492f1de24807680bc29e7052ad4970"
+}
