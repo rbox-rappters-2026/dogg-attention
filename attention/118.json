@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 118,
+  "utc": "2026-09-11T22:18:07.768Z",
+  "payload": {
+    "tick": 892,
+    "tick_frame": "74ac10dbf932a61412834c515e764f6ffbec3b08d195791e879ad0522f00b5ad",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-11T22:18:07.768Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "A misalignment of AI in mathematics",
+          "GrapheneOS' rewritten Messages app is released",
+          "I spent $220 on Google app ads and 60% of the installs were robots"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Feeling sad about AI",
+          "Power grab",
+          "A Severe Misalignment of AI in Mathematics"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Barry_Melrose",
+          "Drew_Lock",
+          "Charlie_Kirk",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f4edffaed22577c592eab2b6848c4908a66065f4d2dbb17518719a2eed11d0bb",
+  "prev": "56b3b1c0fcea4aad60ef6f86573162cc85568060789285eeb0a8d8f456ed9cdf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9e15307120805aee3f693f7dda27983dcdf6ec708a29b5c61a48fd50aeb3fc69"
+}
