@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 114,
+  "utc": "2026-09-11T08:15:57.861Z",
+  "payload": {
+    "tick": 888,
+    "tick_frame": "4c1efbf0db42f4428d0499579316bb19d970ecb51baa2dd7ed5cd5bc4a641eee",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-11T08:15:57.861Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Shopify is moving from React Native back to Swift and Kotlin",
+          "The Gemini app is now available for Windows",
+          "Nine coding harnesses vs. your laptop"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A rant about phishing: It's not the user's fault (and not DNS either)",
+          "Rust Is Tier-1 Language at Microsoft",
+          "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Barry_Melrose",
+          "Drew_Lock",
+          "Charlie_Kirk",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "66d24871b71fb51642328083cabe2195701e2d44ee83b622bd4b864090dd4e60",
+  "prev": "e1044013c291da21845517944ac0fcb4aa4db27607194035a556db276dfecb5e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "562380bfa7214ce0a60c996e880652853dfbb0e4138f8c64340661744d7ca4a8"
+}
