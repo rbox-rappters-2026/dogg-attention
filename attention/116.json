@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 116,
+  "utc": "2026-09-11T16:57:40.310Z",
+  "payload": {
+    "tick": 890,
+    "tick_frame": "973bbdc7d0ed5ef521483a78448c1cfea39e9877d8e2f36200ca65879fae7eda",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-11T16:57:40.310Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Global Glacier Extinction Explorer",
+          "Godot and Rust based multiplexer (terminal panes and more)",
+          "Logo Programming Language"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Feeling sad about AI",
+          "A rant about phishing: It's not the user's fault (and not DNS either)",
+          "Power grab"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Barry_Melrose",
+          "Drew_Lock",
+          "Charlie_Kirk",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "534145699d2ea602e2f192b2ab9183e0c44c3738a1e16ab579c4158e5391d1bd",
+  "prev": "6946c5b49fdaa6e969a6e85497e5c4f3fa0c5c877e59c64c5aa6d8e6302e2586",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6b0de16d77338d526ebb21fed9d635f5473a216eeef5d8af68f3e2680411b1d7"
+}
