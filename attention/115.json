@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 115,
+  "utc": "2026-09-11T12:56:32.662Z",
+  "payload": {
+    "tick": 889,
+    "tick_frame": "707c86d67f799f96cb1875f01e77d70c168aa382cb338bb8c17f0a22ebb1e675",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-11T12:56:32.662Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Waymo effect: how AI is quietly making research less collaborative",
+          "RTK reports token savings, but our cost benchmarks disagree",
+          "Cherenkov Radiation - traveling faster than light"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A rant about phishing: It's not the user's fault (and not DNS either)",
+          "Rust Is Tier-1 Language at Microsoft",
+          "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Barry_Melrose",
+          "Drew_Lock",
+          "Charlie_Kirk",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6946c5b49fdaa6e969a6e85497e5c4f3fa0c5c877e59c64c5aa6d8e6302e2586",
+  "prev": "66d24871b71fb51642328083cabe2195701e2d44ee83b622bd4b864090dd4e60",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4b7f122e91d62c1645846a736e4f31e0c2d6f1bd3a134f0501ba1f3c5b55118f"
+}
