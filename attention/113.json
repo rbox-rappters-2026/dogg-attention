@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 113,
+  "utc": "2026-09-11T03:27:47.661Z",
+  "payload": {
+    "tick": 887,
+    "tick_frame": "d6e7a028d2febd7ba6d9cced4aaef9d15f8d29567bda5175071a202845102cab",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-11T03:27:47.661Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Shopify is moving from React Native back to Swift and Kotlin",
+          "More questions about whether researchers can trust OpenAI with unpublished math",
+          "OpenAI Agents API"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A rant about phishing: It's not the user's fault (and not DNS either)",
+          "Rust Is Tier-1 Language at Microsoft",
+          "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Barry_Melrose",
+          "Drew_Lock",
+          "Charlie_Kirk",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e1044013c291da21845517944ac0fcb4aa4db27607194035a556db276dfecb5e",
+  "prev": "55693dfd5759d7eb4c14bdab85775c8cbe250055809844218ce1cf204965385f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2c4569fdb7f295d4c044355ee2f294b0fdad69e42adf80532dd657a41471561c"
+}
