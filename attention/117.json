@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 117,
+  "utc": "2026-09-11T19:32:09.377Z",
+  "payload": {
+    "tick": 891,
+    "tick_frame": "a9c7a16644610ac3b74646bfe308dde4664d292b80ec54539314d7ed09a97f33",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-11T19:32:09.377Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "A misalignment of AI in mathematics",
+          "Λ Snap – An inviting programming language for kids and adults for CS study",
+          "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Feeling sad about AI",
+          "Power grab",
+          "A rant about phishing: It's not the user's fault (and not DNS either)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Barry_Melrose",
+          "Drew_Lock",
+          "Charlie_Kirk",
+          "Killing_of_the_Clancy_children"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "56b3b1c0fcea4aad60ef6f86573162cc85568060789285eeb0a8d8f456ed9cdf",
+  "prev": "534145699d2ea602e2f192b2ab9183e0c44c3738a1e16ab579c4158e5391d1bd",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a2755e60958f55a9a036ca5c54e57661bb0cd4d9496232e5b3f35208c2b18e05"
+}
