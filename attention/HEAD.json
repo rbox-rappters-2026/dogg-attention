@@ -1,8 +1,8 @@
 {
-  "count": 122,
+  "count": 123,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
-  "head_frame": "5c2328f6830f0b9f7d1f621a6883ff52d14798e6309ac19465b469704b8ae8a2",
-  "updated": "2026-09-12T09:03:38.898Z"
+  "head_frame": "342abb2114ff74243ef7122833a022757c0b1a047a927e8a56218ae2b8f02fd7",
+  "updated": "2026-09-12T13:00:39.286Z"
 }

@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 122,
+  "utc": "2026-09-12T13:00:39.285Z",
+  "payload": {
+    "tick": 896,
+    "tick_frame": "d41d9cfcbdb56a41fc4c32993063fa01fcf6af3445c293eccae9e3a1034525e4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-12T13:00:39.285Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Fuck it, make it anyway",
+          "IKEA made a mod for Skyrim [video]",
+          "Retrospectively Reverse-Engineering Apple's Neural Engine"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Feeling sad about AI",
+          "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "A Severe Misalignment of AI in Mathematics"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "September_11_attacks",
+          "Wikipedia:Featured_pictures",
+          "United_Airlines_Flight_93",
+          "Elena_Rybakina",
+          "American_Airlines_Flight_11"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6ae5c3d07d28c09fd6f54886a057f0eb0be97f3e2ebdbae40e11ed7c42c7caa8",
+  "prev": "45c5d4fa5041e37d997855bebc5111519ab26b22e7c6611f69b90063099bf8ae",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "342abb2114ff74243ef7122833a022757c0b1a047a927e8a56218ae2b8f02fd7"
+}
