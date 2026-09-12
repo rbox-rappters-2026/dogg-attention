@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 119,
+  "utc": "2026-09-12T00:28:17.244Z",
+  "payload": {
+    "tick": 893,
+    "tick_frame": "7033c2a979e8d0a1b99d4b6c3e20e30d477de8c514a0b40c4bde64578cddff78",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-12T00:28:17.244Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "A misalignment of AI in mathematics",
+          "I spent $220 on Google app ads and 60% of the installs were robots"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Feeling sad about AI",
+          "Power grab",
+          "A Severe Misalignment of AI in Mathematics"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "041ab698a38b67596b0c059ab50952cc4142781c418e7acc440a430386d89768",
+  "prev": "f4edffaed22577c592eab2b6848c4908a66065f4d2dbb17518719a2eed11d0bb",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "120c0fa2158d55745b89c65681d9d201543bcf319143973e109c5be697227d92"
+}
