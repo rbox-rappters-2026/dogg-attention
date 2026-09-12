@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 123,
+  "utc": "2026-09-12T16:25:49.539Z",
+  "payload": {
+    "tick": 897,
+    "tick_frame": "3af91e5ca6c5c7fee613f0830899308e3f7e3360c7fba54fb2b935df5f5c39a0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-12T16:25:49.539Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Nvidia is the central bank of AI",
+          "A Mathematical Framework for Transformer Circuits (2021)",
+          "IKEA made a mod for Skyrim [video]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Feeling sad about AI",
+          "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "I made a build profiler to understand Bun’s compile times"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "September_11_attacks",
+          "Wikipedia:Featured_pictures",
+          "United_Airlines_Flight_93",
+          "Elena_Rybakina",
+          "American_Airlines_Flight_11"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "38c1e75ff74c55f8a64d3c5ad203825382e0f6e91dd04090ffe890d7bb644707",
+  "prev": "6ae5c3d07d28c09fd6f54886a057f0eb0be97f3e2ebdbae40e11ed7c42c7caa8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4974806c56ea13cd6ddc13b43a46678533b920cce40f2f8cc01f7a25c5114c32"
+}
