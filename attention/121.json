@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 121,
+  "utc": "2026-09-12T09:03:38.897Z",
+  "payload": {
+    "tick": 895,
+    "tick_frame": "1808ac1899fdfe14476446adf0eace2dbf35d69d4f3f4a5596af86a97e20edd2",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-12T09:03:38.897Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Retrospectively Reverse-Engineering Apple's Neural Engine",
+          "A misalignment of AI in mathematics",
+          "google.com/goto: Google's anti-scraping update"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Feeling sad about AI",
+          "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "A Severe Misalignment of AI in Mathematics"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "September_11_attacks",
+          "Wikipedia:Featured_pictures",
+          "United_Airlines_Flight_93",
+          "Elena_Rybakina",
+          "American_Airlines_Flight_11"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "45c5d4fa5041e37d997855bebc5111519ab26b22e7c6611f69b90063099bf8ae",
+  "prev": "272a97a1619cf51ab59138a913af21beacfe1bb5608bd558cb29aa10c0265d18",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5c2328f6830f0b9f7d1f621a6883ff52d14798e6309ac19465b469704b8ae8a2"
+}
