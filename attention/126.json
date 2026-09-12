@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 126,
+  "utc": "2026-09-12T23:10:11.656Z",
+  "payload": {
+    "tick": 901,
+    "tick_frame": "00ac25483ecc72a1f65cd855722d0bfb8fef2e572572f787cc08f71f718c2538",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-12T23:10:11.656Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Make your first edit to OpenStreetMap",
+          "Nvidia is the central bank of AI",
+          "Apple iPod Engraver (2019)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I made a build visualizer to understand Bun’s compile times",
+          "Linux Zoom Client Proactively Reads X11 Clipboard",
+          "Feeling sad about AI"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "September_11_attacks",
+          "Wikipedia:Featured_pictures",
+          "United_Airlines_Flight_93",
+          "Elena_Rybakina",
+          "American_Airlines_Flight_11"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ae1d736c420f432fdc82d8f2c19b127d8724896b2fcb3842494dd41e9924d5e8",
+  "prev": "113b545b6c1dd6b5e9f1d8d2a67e63838efd1483586c91e464ac3b7c6ac94ea4",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "0376476fb17d0009dc29330ea9d8fc08510247c8ab0edd9ef4d8aa75f3c85ca0"
+}
