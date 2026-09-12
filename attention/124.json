@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 124,
+  "utc": "2026-09-12T18:36:11.874Z",
+  "payload": {
+    "tick": 898,
+    "tick_frame": "7f6c84664a5aef22651640977cfc3f57c498e667285276efd2ed6fdcc0938e96",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-12T18:36:11.874Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+          "Make your first edit to OpenStreetMap",
+          "Nvidia is the central bank of AI"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Feeling sad about AI",
+          "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "Linux Zoom Client Proactively Reads X11 Clipboard"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "September_11_attacks",
+          "Wikipedia:Featured_pictures",
+          "United_Airlines_Flight_93",
+          "Elena_Rybakina",
+          "American_Airlines_Flight_11"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a4af256f0e7b59b9aa800a82d69d7a39636a4accb31f05b6d2a43388da770fc3",
+  "prev": "38c1e75ff74c55f8a64d3c5ad203825382e0f6e91dd04090ffe890d7bb644707",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e47fe3a93f555584ed6c642428328a6cb46efe083ead2a69f274688fcac4dc4f"
+}
