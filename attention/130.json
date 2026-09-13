@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 130,
+  "utc": "2026-09-13T16:51:45.527Z",
+  "payload": {
+    "tick": 905,
+    "tick_frame": "ee52710f6f521876c241bf63c00021b698e689fcd52b860b8a443614a0ee33b8",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-13T16:51:45.527Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Astra and Fable still hack on simple variants of alignment evals from 2025",
+          "JetKVM Mini",
+          "CUDA for AMD on Windows"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I made a build visualizer to understand Bun’s compile times",
+          "From Git to Fossil (2025)",
+          "Don't call yourself an artisanal programmer"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "September_11_attacks",
+          "Elena_Rybakina",
+          "Michael_Polansky"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2da938f937ec3b6cd8356fb1cad7d9eae4d6a83086bb2b2cb82ba51b8c65312f",
+  "prev": "d6d967a71dc82e97c5c592c490fc45900ec04c48e6149887a42597482ce58463",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b72a5fdf5c30755653f96a716d50aa5d00a0d20e7e1c8034aaaa7c45667692c1"
+}
