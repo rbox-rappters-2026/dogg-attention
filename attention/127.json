@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 127,
+  "utc": "2026-09-13T01:19:17.138Z",
+  "payload": {
+    "tick": 902,
+    "tick_frame": "1500fd035caf221481815ea530a4f778989aca1963bd9b350f1de267b49f70ac",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-13T01:19:17.138Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Make your first edit to OpenStreetMap",
+          "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "Nvidia is the central bank of AI"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I made a build visualizer to understand Bun’s compile times",
+          "Linux Zoom Client Proactively Reads X11 Clipboard",
+          "Feeling sad about AI"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "f41febca20c87bf9d464ecc0e78ed9f1e1c65115d94df8d758fc5658c6ce3c4f",
+  "prev": "ae1d736c420f432fdc82d8f2c19b127d8724896b2fcb3842494dd41e9924d5e8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9b4382f160dc7ffd4d842e0d813d46ba1d3ad0530760631451a312b6ba0f64b8"
+}
