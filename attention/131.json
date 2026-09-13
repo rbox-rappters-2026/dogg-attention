@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 131,
+  "utc": "2026-09-13T19:12:58.389Z",
+  "payload": {
+    "tick": 906,
+    "tick_frame": "5a7caf0fa62239ea552de4b05a3b05b6ada09751ef491f5d685af72042c3a64e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-13T19:12:58.389Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Why is Google still serving dodgy ads?",
+          "Astra and Fable still hack on simple variants of alignment evals from 2025",
+          "I'm being cyberattacked by Tesla, Inc"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+          "what if my git host were a static site generator?",
+          "I made a build visualizer to understand Bun’s compile times"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "September_11_attacks",
+          "Elena_Rybakina",
+          "Michael_Polansky"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2a51ae32ba0006c178c7cfb9c991936e409d1520ee0ba35ad5f829534eb22728",
+  "prev": "2da938f937ec3b6cd8356fb1cad7d9eae4d6a83086bb2b2cb82ba51b8c65312f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3bc3ae89d3a2ba40fd985745d565eb7896680fe06be482f6b562e361214956c7"
+}
