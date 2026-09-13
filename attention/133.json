@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 133,
+  "utc": "2026-09-13T23:54:54.844Z",
+  "payload": {
+    "tick": 908,
+    "tick_frame": "77721d6de87ae441d3650aafdd6a86c7ed68e00d9753a0f6b193a899edddd1d0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-13T23:54:54.844Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "The Contagion of Fear",
+          "Why is Google still serving dodgy ads?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+          "what if my git host were a static site generator?",
+          "Golang developers should try Odin"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "September_11_attacks",
+          "Elena_Rybakina",
+          "Michael_Polansky"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "19d71f579b88771b201e0c6f081376b87b0c188ec381196cb4b0d486d84384fc",
+  "prev": "c6c47b30b368244411af49e0517a6b857bc9644866e5c43b4816b31f7ddd4481",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8a0504346af8f77c6546344aef84d7fc4919c77c92efa54e78ba820f30a41294"
+}
