@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 132,
+  "utc": "2026-09-13T21:34:37.027Z",
+  "payload": {
+    "tick": 907,
+    "tick_frame": "48215e658065843d18db6bef5f5da544644109515c94a562354041b60343c78b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-13T21:34:37.027Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Why is Google still serving dodgy ads?",
+          "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+          "Julia 1.13 Highlights"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+          "what if my git host were a static site generator?",
+          "Golang developers should try Odin"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "September_11_attacks",
+          "Elena_Rybakina",
+          "Michael_Polansky"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c6c47b30b368244411af49e0517a6b857bc9644866e5c43b4816b31f7ddd4481",
+  "prev": "2a51ae32ba0006c178c7cfb9c991936e409d1520ee0ba35ad5f829534eb22728",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5c0a67b919564e7d70f3fa20e65dc17759f0b6367df099a0c8f6bfc60e664526"
+}
