@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 128,
+  "utc": "2026-09-13T06:36:07.537Z",
+  "payload": {
+    "tick": 903,
+    "tick_frame": "5bac2944004d8d781aa3a00b3404bafcdcee570aaa5dd1fedb345c56a60cbedd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-13T06:36:07.537Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Interim Computer Museum",
+          "Make your first edit to OpenStreetMap",
+          "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I made a build visualizer to understand Bun’s compile times",
+          "Linux Zoom Client Proactively Reads X11 Clipboard",
+          "Feeling sad about AI"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "September_11_attacks",
+          "Elena_Rybakina",
+          "Michael_Polansky"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7abc67f0b44b24fc3d07f42c59ac7873064f62e20fb5069634565b4bd5f048c8",
+  "prev": "f41febca20c87bf9d464ecc0e78ed9f1e1c65115d94df8d758fc5658c6ce3c4f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9dba5a0eb8e8c5f9d8136818b87be443284ca24db792d67fe3463447342e49c1"
+}
