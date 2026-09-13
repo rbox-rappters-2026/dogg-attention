@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 129,
+  "utc": "2026-09-13T12:34:51.966Z",
+  "payload": {
+    "tick": 904,
+    "tick_frame": "37b65b1d80d42ac8b33717235ee83c8f60983d9d1810ac5e0bb1dd9b1884247c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-13T12:34:51.966Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "JetKVM Mini",
+          "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+          "Why are AI agents lying, cheating and coordinating?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I made a build visualizer to understand Bun’s compile times",
+          "From Git to Fossil (2025)",
+          "Linux Zoom Client Proactively Reads X11 Clipboard"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "September_11_attacks",
+          "Elena_Rybakina",
+          "Michael_Polansky"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d6d967a71dc82e97c5c592c490fc45900ec04c48e6149887a42597482ce58463",
+  "prev": "7abc67f0b44b24fc3d07f42c59ac7873064f62e20fb5069634565b4bd5f048c8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "33f7af4bd6dac62f2c7eabd964b28f4e3b5861626d20550ba0a9a64c021057eb"
+}
