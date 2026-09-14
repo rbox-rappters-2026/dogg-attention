@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 138,
+  "utc": "2026-09-14T23:19:07.045Z",
+  "payload": {
+    "tick": 914,
+    "tick_frame": "dc7435b6330b538cc03b19b5a92f50a288c0006c6b792f19a8132458c56b7d04",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-14T23:19:07.045Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pion, an agent designed to run any company autonomously",
+          "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+          "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The contagion of fear",
+          "What blog posts influenced your thinking the most?",
+          "How can you not be romantic about UNIX domain sockets?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Sitee",
+          "Alexander_Zverev",
+          "Elena_Rybakina",
+          "Ben_Shelton"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a75bcd138a7cd165399e50938f943f16a9abde63f131565f0a26c7751a40cfce",
+  "prev": "6366843be0e41bbb98ee1118ca5e251cac738a98378de13ea12db310e11ecf06",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1c028cdd57d1be20c324f6ae7e8b845caf62c11ebddb0ea078288f2285e65e91"
+}
