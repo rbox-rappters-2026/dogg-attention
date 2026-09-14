@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 137,
+  "utc": "2026-09-14T20:24:36.097Z",
+  "payload": {
+    "tick": 913,
+    "tick_frame": "b6d5bf914b246e054c7d479b2b436cbfc38104e7f72a99661fcfdb3fa3e407d4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-14T20:24:36.097Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "Neo Emacs – Emacs from the Future",
+          "Distributed Systems Classics (2017)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The contagion of fear",
+          "What blog posts influenced your thinking the most?",
+          "The case against JPEG XL"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Sitee",
+          "Alexander_Zverev",
+          "Elena_Rybakina",
+          "Ben_Shelton"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6366843be0e41bbb98ee1118ca5e251cac738a98378de13ea12db310e11ecf06",
+  "prev": "cd135c61f5d143da31ee1966c34cf5f980e464a89358a3ce3295d2923d3bd64f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a0d8f627539203297d2a568a378186a424884ba80262b85155118ed9a5b349e7"
+}
