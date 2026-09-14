@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 136,
+  "utc": "2026-09-14T16:12:06.914Z",
+  "payload": {
+    "tick": 911,
+    "tick_frame": "e75d3a19985e775c9653850bae3b89d6108ddab574be7dc9b8f6126e910d58b5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-14T16:12:06.914Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+          "RubyGems Open Source Supply Chain Security and OpenAI",
+          "Jabber/XMPP: How Do We Gain Traction?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The case against JPEG XL",
+          "Anecdotally, programmers dislike \"reduce\"",
+          "Mergiraf: A syntax-aware git merge driver for a growing collection of programming language"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Sitee",
+          "Alexander_Zverev",
+          "Elena_Rybakina",
+          "Ben_Shelton"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "cd135c61f5d143da31ee1966c34cf5f980e464a89358a3ce3295d2923d3bd64f",
+  "prev": "9042ae799cb20e51dccae19f2f367974c675eb02e54bc2e0c3de94886dd7c278",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "baf5207cbb0cc1a4a0983f8a5df9e22e91cac3755418e534ca7c7e8e3f54b48e"
+}
