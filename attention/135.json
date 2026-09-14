@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 135,
+  "utc": "2026-09-14T09:38:41.982Z",
+  "payload": {
+    "tick": 910,
+    "tick_frame": "d3ab15dd4bd87a692c53221512abdd7b1149588772ed953d6839fe152f30e1b2",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-14T09:38:41.982Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "EuroBirdPortal – Live bird movements across Europe",
+          "A 386 PC for Your RP2350"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Anecdotally, programmers dislike \"reduce\"",
+          "The case against JPEG XL",
+          "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Sitee",
+          "Alexander_Zverev",
+          "Elena_Rybakina",
+          "Ben_Shelton"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9042ae799cb20e51dccae19f2f367974c675eb02e54bc2e0c3de94886dd7c278",
+  "prev": "2d595ac528c8090d996391a59e74b8945b5b437bed6ade9dabe3fea83b8b4ed7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d0d368df842d56a9454daffda277a7c92900800fcfb0ae6642814062539ec233"
+}
