@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 144,
+  "utc": "2026-09-15T23:28:08.480Z",
+  "payload": {
+    "tick": 920,
+    "tick_frame": "616aad5afc56af005d33edb762f3e48e99dafcacdbb0e385fad2f2015ff86ab4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-15T23:28:08.480Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Introducing System One Models and Jev",
+          "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "German Rheinmetall open-sources its Battlesuite connected weapon system protcol"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "GEFS on OpenBSD: A very early preview",
+          "\"Do You Still Read the Code?\"",
+          "Coreutils - rejected feature requests"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "John_Tuggle",
+          "Alexander_Zverev",
+          "2026_Swedish_general_election",
+          "Lanterns_(TV_series)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "982ed00fc75e067bf465c2aed0a45e89178533ee995af4c64cfed5c84ce95475",
+  "prev": "451410862c343ae7929f50d20dfcf953f6ef839071dcde6eee2a2386cbc2f782",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b4b419edffd3b058bc1bcd55245c50bcf952f5ea47f65f624a7beb3f9f2f085c"
+}
