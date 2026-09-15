@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 139,
+  "utc": "2026-09-15T01:44:40.834Z",
+  "payload": {
+    "tick": 915,
+    "tick_frame": "1e93d4f7f99545a4aae3813ad0f8a6ebdd2458c8846fee221a309bb9a237de6d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-15T01:44:40.834Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "iOS 27, iPadOS 27, and macOS 27",
+          "Pion, an agent designed to run any company autonomously",
+          "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The contagion of fear",
+          "What blog posts influenced your thinking the most?",
+          "How can you not be romantic about UNIX domain sockets?"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "36929add9b749a88ab79fbf269f034a5c64f7919baa1535b1316eddf7c4dc669",
+  "prev": "a75bcd138a7cd165399e50938f943f16a9abde63f131565f0a26c7751a40cfce",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "fda72f09ae42c604b51e6658c7c56d1ef869a6a64c2ce9bdeac610d356fb518e"
+}
