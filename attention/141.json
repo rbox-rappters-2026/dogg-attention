@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 141,
+  "utc": "2026-09-15T12:48:00.214Z",
+  "payload": {
+    "tick": 917,
+    "tick_frame": "be3e5fe04331c07d0cb0176a92045a483dd3ea13d6f5bd2dfc1abd8cc53d1e54",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-15T12:48:00.214Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "I can't stop thinking about Papua New Guinea",
+          "Suspected sabotage causes major Netherlands rail disruption",
+          "Alternatives to MinIO for single-node local S3"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The contagion of fear",
+          "\"Do You Still Read the Code?\"",
+          "What blog posts influenced your thinking the most?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "John_Tuggle",
+          "Alexander_Zverev",
+          "2026_Swedish_general_election",
+          "Lanterns_(TV_series)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "0292e9b6392fc21895b06f776d3ca2133bb040c22de9f277bbba750f0dbb98b6",
+  "prev": "89a2da0e10a63151c0b11a74bcd23b6d6d1aebf2e6b64235e2c628d16280fe61",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d1ee825366847ed86b6a5f373237b6bc2c9d63a46ac977116694a1646c3740d5"
+}
