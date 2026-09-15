@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 143,
+  "utc": "2026-09-15T20:56:36.012Z",
+  "payload": {
+    "tick": 919,
+    "tick_frame": "714c2656d2b30f180c856b02058eb4a15558031859037a70bd26dfbf74da1bc0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-15T20:56:36.012Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Introducing System One Models and Jev",
+          "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "An Update on Wayback Machine Access"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "GEFS on OpenBSD: A very early preview",
+          "\"Do You Still Read the Code?\"",
+          "The contagion of fear"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "John_Tuggle",
+          "Alexander_Zverev",
+          "2026_Swedish_general_election",
+          "Lanterns_(TV_series)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "451410862c343ae7929f50d20dfcf953f6ef839071dcde6eee2a2386cbc2f782",
+  "prev": "62f59fc290746b588806df9277d614377833a7a4c0333ef43c2f91a67e9c7b7e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "af17249b63ae9651e26ccb7c98e7b518c3791ff86d0781d5b34b2635106842be"
+}
