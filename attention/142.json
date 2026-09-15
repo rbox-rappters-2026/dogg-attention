@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 142,
+  "utc": "2026-09-15T17:30:16.011Z",
+  "payload": {
+    "tick": 918,
+    "tick_frame": "f7f3dd7122dbcfee3faab4093fcf76c4dd48794d447e526c4a782c7369be3ed3",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-15T17:30:16.011Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+          "I can't stop thinking about Papua New Guinea"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The contagion of fear",
+          "\"Do You Still Read the Code?\"",
+          "Coreutils - rejected feature requests"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "John_Tuggle",
+          "Alexander_Zverev",
+          "2026_Swedish_general_election",
+          "Lanterns_(TV_series)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "62f59fc290746b588806df9277d614377833a7a4c0333ef43c2f91a67e9c7b7e",
+  "prev": "0292e9b6392fc21895b06f776d3ca2133bb040c22de9f277bbba750f0dbb98b6",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9a847afe3bfdbbb39906724894630ac9432f1b94c57f8d618491b82f694a1853"
+}
