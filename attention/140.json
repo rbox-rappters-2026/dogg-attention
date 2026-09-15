@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 140,
+  "utc": "2026-09-15T07:18:49.487Z",
+  "payload": {
+    "tick": 916,
+    "tick_frame": "8ff67bef45ba6ee74c3e48ab55015b9de1b9b1862a3e2c417d24c6e0249fba70",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-15T07:18:49.487Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "iOS 27, iPadOS 27, and macOS 27",
+          "Linux from Scratch",
+          "OpenArm: An open-source 7DOF humanoid arm"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The contagion of fear",
+          "\"Do You Still Read the Code?\"",
+          "What blog posts influenced your thinking the most?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "John_Tuggle",
+          "Alexander_Zverev",
+          "2026_Swedish_general_election",
+          "Lanterns_(TV_series)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "89a2da0e10a63151c0b11a74bcd23b6d6d1aebf2e6b64235e2c628d16280fe61",
+  "prev": "36929add9b749a88ab79fbf269f034a5c64f7919baa1535b1316eddf7c4dc669",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "01e96d7d0617f1cb43e898c25b680e91fbf780ea5c2097bb9bca154e10f45365"
+}
