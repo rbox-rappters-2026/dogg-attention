@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 148,
+  "utc": "2026-09-16T17:30:40.417Z",
+  "payload": {
+    "tick": 924,
+    "tick_frame": "71c116d8020fbb1a2dbc862cda8aa560a4282d6690bde7634127187115c0b840",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-16T17:30:40.417Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+          "Small Programming Tricks",
+          "Mistral X Mozilla: Private, Multilingual AI Browsing"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A/I Shuts Down",
+          "Ubuntu 26.10 completes transition to Rust-based coreutils",
+          "Forgery of C2PA on a Pixel 10"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "european_election_2014",
+          "Widow's_Bay",
+          "Matthew_Rhys",
+          "John_Tuggle"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5f16edbbdcee1f572b2d91940d673c5bf11604cc76a21c5322c68226d8e0c6f6",
+  "prev": "3d1a83373e9efa139cecf641385d6c1732e39bcf6d867bde9b562467506a2187",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "13d5c75ffdb30ba3330560c45016907098d55e04b21455cd1c5c483f473be9c1"
+}
