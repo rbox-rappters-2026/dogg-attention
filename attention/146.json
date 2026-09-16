@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 146,
+  "utc": "2026-09-16T07:20:38.276Z",
+  "payload": {
+    "tick": 922,
+    "tick_frame": "8a14a3f137297e7a84d1d0f1d576293ec8f58b236d98fe3706d2d2e9b9ce10c9",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-16T07:20:38.276Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Introducing System One Models and Jev",
+          "Apple Reference Image: A New Approach for Verified Photography",
+          "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "GEFS on OpenBSD: A very early preview",
+          "Small Programming Tricks",
+          "Some things Veloren does differently"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "european_election_2014",
+          "Widow's_Bay",
+          "Matthew_Rhys",
+          "John_Tuggle"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c34d3ef55aa094a502c77e1f5798898872ecf175b91831f67c236d6d2db587f6",
+  "prev": "4ab9ae337c6fe49a5d37a8359f42561f2693245a93956e730eb782969970e6a9",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c39d9021209bda6882e8b164e25dc0d7e6b170f6a88fe80e727003d3f8e41415"
+}
