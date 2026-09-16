@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 149,
+  "utc": "2026-09-16T20:58:03.499Z",
+  "payload": {
+    "tick": 925,
+    "tick_frame": "03829f019bc3cc1f35bc883456ea6b2b11bc6be7992ae6d3e55842e104c613d8",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-16T20:58:03.499Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Training a 4B model to produce 81% faster query plans than Postgres",
+          "Vectorized and performance-portable Quicksort (2022)",
+          "Xiami Mimo 2.6 Live Training Dashboard"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A/I Shuts Down",
+          "The end of verygoodsoftwarenotvirus.ru",
+          "Forgery of C2PA on a Pixel 10"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "european_election_2014",
+          "Widow's_Bay",
+          "Matthew_Rhys",
+          "John_Tuggle"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "08bc7e184a6d453f16e502ad1155b06699ea8d4b3095dea2e53f3643017c6fc8",
+  "prev": "5f16edbbdcee1f572b2d91940d673c5bf11604cc76a21c5322c68226d8e0c6f6",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "07e3dabfef7cd1e399897f268d79e1fb3d6ac5d72bee79c4dee42f3d0930f113"
+}
