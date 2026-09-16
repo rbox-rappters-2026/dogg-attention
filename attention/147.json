@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 147,
+  "utc": "2026-09-16T12:44:31.158Z",
+  "payload": {
+    "tick": 923,
+    "tick_frame": "2b603287e8f2bcec9048f254220847d8bbab4f242c12f22e62477ba128c18078",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-16T12:44:31.158Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Google Play app review process now regularly takes longer than a week",
+          "EU chief opens door for Canada to become 'associate member'",
+          "Mistral X Mozilla: Private, Multilingual AI Browsing"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A/I Shuts Down",
+          "GEFS on OpenBSD: A very early preview",
+          "Ubuntu 26.10 completes transition to Rust-based coreutils"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "european_election_2014",
+          "Widow's_Bay",
+          "Matthew_Rhys",
+          "John_Tuggle"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3d1a83373e9efa139cecf641385d6c1732e39bcf6d867bde9b562467506a2187",
+  "prev": "c34d3ef55aa094a502c77e1f5798898872ecf175b91831f67c236d6d2db587f6",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6fa17c30ff8eb8ddff05b1041ba2a6b9b8e51bc070475968b3b9b4df77a4787d"
+}
