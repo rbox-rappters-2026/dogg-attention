@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 145,
+  "utc": "2026-09-16T01:34:46.294Z",
+  "payload": {
+    "tick": 921,
+    "tick_frame": "aed41ef52b934f85fc4f5ac5c07ac972371df3e8e12ca4a42ba4993c508e4705",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-16T01:34:46.294Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Introducing System One Models and Jev",
+          "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "An Update on Wayback Machine Access"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "GEFS on OpenBSD: A very early preview",
+          "Small Programming Tricks",
+          "Coreutils - rejected feature requests"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "4ab9ae337c6fe49a5d37a8359f42561f2693245a93956e730eb782969970e6a9",
+  "prev": "982ed00fc75e067bf465c2aed0a45e89178533ee995af4c64cfed5c84ce95475",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e39ff64cc45bc186b9c720fc705649eb9099104cdc212434ae269bdba107ada1"
+}
