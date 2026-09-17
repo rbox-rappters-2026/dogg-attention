@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 153,
+  "utc": "2026-09-17T14:23:24.565Z",
+  "payload": {
+    "tick": 929,
+    "tick_frame": "37e46b1f1ce214dadd52aff37e213e0c9537d4120ea1f08ea7bb3421d51bfb85",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-17T14:23:24.565Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+          "Show HN: I built a new version of my fun spatial 3D online meeting app",
+          "The American Religion of Self-Storage Facilities"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The end of verygoodsoftwarenotvirus.ru",
+          "Introducing GNOME 51",
+          "I expected better from Google"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Macklemore",
+          "Robert_Kraft",
+          "Lizzie_Borden",
+          "Ed_Sheeran"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ce28e79fb940f489416c22aeb5b60a6dc6c0a52adf95c652d7b6392a80c1f2cc",
+  "prev": "cd2bd661352ce2b94be15e4542d0a48dc52b5e2f3664251558fc2b514200e156",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "125b2af26ee107bfd414042eb4e41c1206e2dc78bec7c857a871df26b2e2a692"
+}
