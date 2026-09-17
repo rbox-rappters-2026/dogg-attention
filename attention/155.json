@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 155,
+  "utc": "2026-09-17T21:37:33.101Z",
+  "payload": {
+    "tick": 931,
+    "tick_frame": "59cd5850868c390662f506b0d27e21eba2f9123789c269e6e687424a3f8561e3",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-17T21:37:33.101Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Astra for Law",
+          "Bend",
+          "Hister: A private search engine for the pages you visit and the files you keep"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I Don't Like LLMs",
+          "I expected better from Google",
+          "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Macklemore",
+          "Robert_Kraft",
+          "Lizzie_Borden",
+          "Ed_Sheeran"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a0ce5082002b529f6f6ad15527050493634e9f9e8686ccc5aed113a78aa42877",
+  "prev": "b529eee7155b414e4a5361401f1136210bbcd2fc45c4d572761fe438a9ab8622",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a12c0c10a5755cf2646eaa1ab8c5aeec437decbc130093027b523c1d1fe9314e"
+}
