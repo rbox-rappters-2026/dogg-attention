@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 156,
+  "utc": "2026-09-17T23:56:25.432Z",
+  "payload": {
+    "tick": 933,
+    "tick_frame": "4f0ee9a489f506e7957673cdd9dcadf3d75830652b3156e0aac20a18eb7e1431",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-17T23:56:25.432Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Astra for Law",
+          "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+          "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I Don't Like LLMs",
+          "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+          "I expected better from Google"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Macklemore",
+          "Robert_Kraft",
+          "Lizzie_Borden",
+          "Ed_Sheeran"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "09aed45babe2805613e559e9a9e4f990c530c27cda4a28be6c56c50e1ad5828f",
+  "prev": "a0ce5082002b529f6f6ad15527050493634e9f9e8686ccc5aed113a78aa42877",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "639eab50a9bf1e82d71727509b473b8e576bffa6e2568dc86b9a66de5f80e664"
+}
