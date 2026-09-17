@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 152,
+  "utc": "2026-09-17T09:16:10.002Z",
+  "payload": {
+    "tick": 928,
+    "tick_frame": "79982435ba93f8749af984b397461a29e2fcedcbd17d922bea12cbb951a0729f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-17T09:16:10.002Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "One Year of Sponsored Servo Development",
+          "Nvidia announces native GPU programming in Rust",
+          "Keys Not Included: recovering the signing keys for US driver's license barcodes"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The end of verygoodsoftwarenotvirus.ru",
+          "Introducing GNOME 51",
+          "A/I Shuts Down"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Macklemore",
+          "Robert_Kraft",
+          "Lizzie_Borden",
+          "Ed_Sheeran"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "cd2bd661352ce2b94be15e4542d0a48dc52b5e2f3664251558fc2b514200e156",
+  "prev": "5b6df2445f6ce72081541260db0fe22cacca9bd56b9992aae905d04e6498d7e1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3984bc358d7b6176a34b0b8d7ca3cdc9869bce16cd3aadeb3f48f24aa4a012d0"
+}
