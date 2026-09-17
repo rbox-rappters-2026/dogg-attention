@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 151,
+  "utc": "2026-09-17T03:50:36.912Z",
+  "payload": {
+    "tick": 927,
+    "tick_frame": "bec87e57420a49cc91b61ae799739b3d33a534e4f4d48246c135da097ef42612",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-17T03:50:36.912Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Nvidia announces native GPU programming in Rust",
+          "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+          "Training a 4B model to produce 81% faster query plans than Postgres"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The end of verygoodsoftwarenotvirus.ru",
+          "A/I Shuts Down",
+          "Introducing GNOME 51"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Macklemore",
+          "Robert_Kraft",
+          "Lizzie_Borden",
+          "Ed_Sheeran"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5b6df2445f6ce72081541260db0fe22cacca9bd56b9992aae905d04e6498d7e1",
+  "prev": "5e752cc13549104330c4cc4d5f48ab4d63597ad37d380c8a99e3475ffbe31b39",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "70f53039a6f45b5ba302c79d3c037b92a0a7c69310281ec497cdf3612f679f62"
+}
