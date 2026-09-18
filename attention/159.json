@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 159,
+  "utc": "2026-09-18T13:43:58.370Z",
+  "payload": {
+    "tick": 936,
+    "tick_frame": "e954ec19c33bed5eef1d9c178bb63e3225c445eb7050d996e63277712aedacb1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-18T13:43:58.370Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Bend 2 and the Vibe-Coding Trap",
+          "An Empirical Study of Harness Design for Coding Agents",
+          "OpenJev"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I Don't Like LLMs",
+          "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+          "What is still exciting in tech?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "Chicxulub_crater"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "237e20684b5e9432cb84c4fe1fd2ef81f34d33a2dafbe15d2cf9f74bcf9bfa1a",
+  "prev": "7614731d2985481c68712b3465f40ed19403df100652e861d8a812a42cf95c7a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "14c8809c98c7b234dd37224d9899d47acbd529fbcff1eb18b8d112d9c37584af"
+}
