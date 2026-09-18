@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 157,
+  "utc": "2026-09-18T04:01:54.525Z",
+  "payload": {
+    "tick": 934,
+    "tick_frame": "2a7e7ae1bf9b0d12bf97942203d634e8ac5e1167888b1914f4067b0a48aa337f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-18T04:01:54.525Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Astra for Law",
+          "Hacking OpenAI",
+          "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I Don't Like LLMs",
+          "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+          "I expected better from Google"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "Chicxulub_crater"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7670c0dd16dca180ef98dd0232f5cc7d33f1da0b604fccaa62a57e15b78e9c55",
+  "prev": "09aed45babe2805613e559e9a9e4f990c530c27cda4a28be6c56c50e1ad5828f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "93dcbba0ffecdf45bffb38b60c6f0a8d621a7066457fef381c6246f76826ff0a"
+}
