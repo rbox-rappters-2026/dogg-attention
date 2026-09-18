@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 161,
+  "utc": "2026-09-18T20:32:24.531Z",
+  "payload": {
+    "tick": 938,
+    "tick_frame": "5fc7747e9e4e47940cd2fe0717e487abffcd8f7ed520b938d72ab94c48fc6e8e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-18T20:32:24.531Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "Korea raises data breach fines to 10% of revenue",
+          "Cloudflare Quick Tunnels"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Typst makes big strides",
+          "I don't like passkeys",
+          "What is still exciting in tech?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "Chicxulub_crater"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b851234f0ac41d22833c9c5c81b3678de9ec0decc0ef9dd19d7502d7122e57fa",
+  "prev": "967179a8ac14b9b3dd6e34b99af764356c8f3d0a085742a9cfa2952c45cad8ce",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "44c36f384f409a3756f4ace1e011561cbec449f0d7751c0d29ee6ee7ed2b09f0"
+}
