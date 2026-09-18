@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 158,
+  "utc": "2026-09-18T09:07:24.860Z",
+  "payload": {
+    "tick": 935,
+    "tick_frame": "9cf09e6864361fe7f9918cd7bd65b421d4a570e629e6051ae46bf4905a40091a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-18T09:07:24.860Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Jemalloc 5.4.0",
+          "The scourge of x86 emulation",
+          "Astra for Law"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I Don't Like LLMs",
+          "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+          "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "Chicxulub_crater"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7614731d2985481c68712b3465f40ed19403df100652e861d8a812a42cf95c7a",
+  "prev": "7670c0dd16dca180ef98dd0232f5cc7d33f1da0b604fccaa62a57e15b78e9c55",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3f108460ab98cf88c5cd8e49c4eda5bbe1cc0e8c2c5aa68bf9f09bfef8fe28d3"
+}
