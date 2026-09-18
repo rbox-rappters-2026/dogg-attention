@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 162,
+  "utc": "2026-09-18T23:04:56.210Z",
+  "payload": {
+    "tick": 939,
+    "tick_frame": "7d19a439979da601dc7c51dd7c852d11a7d5c7822a3120e3b8276507bc9720ba",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-18T23:04:56.210Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "Saving another 100TB of RAM"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Typst makes big strides",
+          "I don't like passkeys",
+          "What is still exciting in tech?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "Chicxulub_crater"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "af3571d182ab41ef63526eeb94b34419f1c352a1166cc5b97e441e2a7ad13688",
+  "prev": "b851234f0ac41d22833c9c5c81b3678de9ec0decc0ef9dd19d7502d7122e57fa",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c7b38845362e7c16197f1b7e3740482b61a2f57130e50d819f3f79316678ee85"
+}
