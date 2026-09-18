@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 160,
+  "utc": "2026-09-18T17:33:18.302Z",
+  "payload": {
+    "tick": 937,
+    "tick_frame": "187a62e429f494d298604f093527f3971c8463289884d0eaa26a592c5d0ecb84",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-18T17:33:18.302Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "There's no point at which turning your brain off will work",
+          "Cloudflare Quick Tunnels",
+          "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Typst makes big strides",
+          "I don't like passkeys",
+          "What is still exciting in tech?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "Chicxulub_crater"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "967179a8ac14b9b3dd6e34b99af764356c8f3d0a085742a9cfa2952c45cad8ce",
+  "prev": "237e20684b5e9432cb84c4fe1fd2ef81f34d33a2dafbe15d2cf9f74bcf9bfa1a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "64a3f4922e57dad1ab4ad916c70a7e668ccb0b66428dc46216d7482672565269"
+}
