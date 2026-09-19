@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 169,
+  "utc": "2026-09-19T22:24:16.991Z",
+  "payload": {
+    "tick": 947,
+    "tick_frame": "0d3f3847d83132f7aa6a274b30099fa18f0e265a37c3d2dc9ae1a504a50ee3dd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-19T22:24:16.991Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "English: A vs. An",
+          "I built non-autoregressive decision models with RL a year ago",
+          "AI-generated posters don’t have to be horrible"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "AI Is an Elite Crime Spree",
+          "Don’t Let Architecture Astronauts Scare You (2001)",
+          "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Br"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Duncan_Sheik",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9fa17099e32e0432769de7f8b7686f66f1075cfb3f1c3cc416b34928f0cf8291",
+  "prev": "bf83d924e37dce4025ec9e99cb7116ef585da184376e715ca41307f6e095b346",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "0da11366de4272622f82e5bdc990b1d679b85770206a10958b9d2917656c44a5"
+}
