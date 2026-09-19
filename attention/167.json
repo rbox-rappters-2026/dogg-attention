@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 167,
+  "utc": "2026-09-19T17:48:50.098Z",
+  "payload": {
+    "tick": 945,
+    "tick_frame": "db4f7e31029bb949b7bf04912c400bdc9864eec9c61adbb56804679e80da84f3",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-19T17:48:50.098Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+          "AI-generated posters don’t have to be horrible",
+          "Human brain is two separate organs, Stanford Medicine-led research finds"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Don’t Let Architecture Astronauts Scare You (2001)",
+          "kicking the tires on jev (TypeSafe's System One model) with 2048",
+          "The scourge of x86 emulation"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Duncan_Sheik",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f7b64b39d6425599d908a8e0a51e76a313eec367c4959fde07c63298c2798844",
+  "prev": "703e766892a266dd89bf3d998997e8757d0daa6e77138bc58fd4584bad523b1f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ff15db332a459f21288c8f0a12c587598a22a2dd00d5feee861f98b242e1844e"
+}
