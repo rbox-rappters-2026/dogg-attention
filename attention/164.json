@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 164,
+  "utc": "2026-09-19T06:22:01.479Z",
+  "payload": {
+    "tick": 942,
+    "tick_frame": "2c31efccfb2bbbb6915a993d625f1b9d435b4085fd96d88ffe91cd0fcf56d23a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-19T06:22:01.479Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "San Francisco Onion Futures Company",
+          "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "Human brain is two separate organs, Stanford Medicine-led research finds"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Typst makes big strides",
+          "I don't like passkeys",
+          "There's no point at which turning your brain off will work"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Duncan_Sheik",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "1c355e7b2912e1beb6c75fba83857a1e24a7c2802c0ff58ba18aa01bffb1a5e5",
+  "prev": "f2e90e1c7012b620a91e384fd072cf93e4c3cdfa867886af080764132485e6c3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "31ec71e534e6db99f664791d8ae43eb95969c889955dad3f0c1c579badfec7ef"
+}
