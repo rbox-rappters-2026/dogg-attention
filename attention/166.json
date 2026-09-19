@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 166,
+  "utc": "2026-09-19T14:40:11.087Z",
+  "payload": {
+    "tick": 944,
+    "tick_frame": "082ce4be64a179c6457b3e9d504704248f9afc47307ca7c7cb1ea848b5fafcff",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-19T14:40:11.087Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Laya the open source version of Jev",
+          "What Zig felt like, coming from Rust",
+          "AI-generated posters don’t have to be horrible"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The scourge of x86 emulation",
+          "Typst makes big strides",
+          "Don’t Let Architecture Astronauts Scare You (2001)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Duncan_Sheik",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "703e766892a266dd89bf3d998997e8757d0daa6e77138bc58fd4584bad523b1f",
+  "prev": "ec88fd27086dd80ef7dbb369b75556aefdcf6da574eabbb19d384a3d6df3be99",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ec8b8096def32c04ee8317b56833c08d746240d42badac0c0b59fdd246c55ce9"
+}
