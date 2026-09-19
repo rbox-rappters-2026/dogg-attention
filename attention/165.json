@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 165,
+  "utc": "2026-09-19T11:21:02.005Z",
+  "payload": {
+    "tick": 943,
+    "tick_frame": "9d5aafdd23d9175824ae41614810963b34aa96b62951b680db8990840f4a960c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-19T11:21:02.005Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Human brain is two separate organs, Stanford Medicine-led research finds",
+          "AI-generated posters don’t have to be horrible",
+          "If math is more than proof, we need to better celebrate the rest of it"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Typst makes big strides",
+          "The scourge of x86 emulation",
+          "I don't like passkeys"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Duncan_Sheik",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ec88fd27086dd80ef7dbb369b75556aefdcf6da574eabbb19d384a3d6df3be99",
+  "prev": "1c355e7b2912e1beb6c75fba83857a1e24a7c2802c0ff58ba18aa01bffb1a5e5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4f493bafa686a635eb36d67f5cf786c72063a2b0ccc5a0aea08f72abdada9903"
+}
