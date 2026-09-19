@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 163,
+  "utc": "2026-09-19T01:25:26.039Z",
+  "payload": {
+    "tick": 941,
+    "tick_frame": "9b74ba112c687d86c049cb707a5fe3962ad72bba4333a1bbabe702028c0035a9",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-19T01:25:26.039Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "Cloudflare Quick Tunnels",
+          "Saving another 100TB of RAM"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Typst makes big strides",
+          "I don't like passkeys",
+          "There's no point at which turning your brain off will work"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "f2e90e1c7012b620a91e384fd072cf93e4c3cdfa867886af080764132485e6c3",
+  "prev": "af3571d182ab41ef63526eeb94b34419f1c352a1166cc5b97e441e2a7ad13688",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c6e245b5f2cb2e53b770ce53609e91b5c5b65835a2b24f41f2e6fc36893a6cc7"
+}
