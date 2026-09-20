@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 172,
+  "utc": "2026-09-20T09:58:23.518Z",
+  "payload": {
+    "tick": 950,
+    "tick_frame": "2c873564ee87ea9cd9377639af934f553b18be7cd1a7e00e601eea6718ef849c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-20T09:58:23.518Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Exfiltrate Your Weights",
+          "Weeping whales: Stillborn humpback whale grieving documented",
+          "Step 5 Preview: Advancing the Pareto Frontier"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "AI Is an Elite Crime Spree",
+          "Thoughts on the Future of Web Browsers",
+          "we have a year to fix security everywhere"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "d91aaf77d8f89a93478686dc6dff24517ec35b5ac8f21e9012f3cce1d35d3eeb",
+  "prev": "19a8e8a0d727370ed464a83239b819f036195a4e0dd8bb2a50fbaec21f045518",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3a13d5d655e8ce3a71adaa2108f331c6f84a766de4a7b3c87d356082dc547657"
+}
