@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 170,
+  "utc": "2026-09-20T00:16:01.086Z",
+  "payload": {
+    "tick": 948,
+    "tick_frame": "18a9151d5f7c22c17e17fce6d76a97dea43e4764db6830870e1cf1cd92aefcc7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-20T00:16:01.086Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+          "Exfiltrate Your Weights",
+          "I built non-autoregressive decision models with RL a year ago"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "AI Is an Elite Crime Spree",
+          "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Br",
+          "Don’t Let Architecture Astronauts Scare You (2001)"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "ebfb8818a3459a2a1724cbdc3d23d0e7f99a62954c2e70e7cc4aca447528e7a0",
+  "prev": "9fa17099e32e0432769de7f8b7686f66f1075cfb3f1c3cc416b34928f0cf8291",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f4dcc871bb82b443be9226142cd6c90f916d8faad68d27ab7b352e18a0ae3a4c"
+}
