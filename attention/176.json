@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 176,
+  "utc": "2026-09-20T22:38:33.042Z",
+  "payload": {
+    "tick": 954,
+    "tick_frame": "44a16802ece69e7c38f7d09ad6c39b4377af73570c5b2ee06d7b90f73b0da806",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-20T22:38:33.042Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+          "ChatGPT now knows what you do on other websites via ad collector",
+          "Qwen Image 2.1"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Software sandboxing: The basics (2025)",
+          "Lambda MicroEgg",
+          "An actively maintained and updated Motif fork actually exists"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "3bb86924eb4bedf92a0427a816a9b3cff4cb0a50c23a3940a2f89c866341bb2b",
+  "prev": "bd040bb91372d91d238c1be78ba86f853b97960f21eb3805ce1e7a9c836e7b12",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "cdfe8b0c86496bf5087029834eb5055913c6b3a69575cee3f6c2c00e2224cc29"
+}
