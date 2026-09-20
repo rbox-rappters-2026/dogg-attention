@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 174,
+  "utc": "2026-09-20T17:34:30.810Z",
+  "payload": {
+    "tick": 952,
+    "tick_frame": "4499afc933a1ab571f89fc6a2bfdb34f7c574b79bac4487869b0ec23d0214aec",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-20T17:34:30.810Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pirate Face Rescues LLM Models from Deletion",
+          "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "Sherline Tools Is Going Out of Business"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Software sandboxing: The basics (2025)",
+          "Thoughts on the Future of Web Browsers",
+          "Beyond jj: config & tools ecosystem"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "8173fd2ebf65035f9d7489a8390913752ce09c39fb5ac8a0436533a3a0b8fd2f",
+  "prev": "a09697574647041b8037a7cfc1a8d34f2c69e8324ee6f8cfe9129fa5bec90b13",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4bd23658ea2db5e03f5b85f05e2da8f4a6d3a57b74ca1b444063054756c2f457"
+}
