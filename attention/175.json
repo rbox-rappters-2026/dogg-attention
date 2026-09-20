@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 175,
+  "utc": "2026-09-20T20:26:49.139Z",
+  "payload": {
+    "tick": 953,
+    "tick_frame": "96d74b0b1479f4778a37a3b982fe8c7f1e6a1387a7216a5248ed7e3f14589360",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-20T20:26:49.139Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+          "ChatGPT now knows what you do on other websites via ad collector",
+          "Pirate Face Rescues LLM Models from Deletion"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Software sandboxing: The basics (2025)",
+          "Lambda MicroEgg",
+          "Beyond jj: config & tools ecosystem"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "bd040bb91372d91d238c1be78ba86f853b97960f21eb3805ce1e7a9c836e7b12",
+  "prev": "8173fd2ebf65035f9d7489a8390913752ce09c39fb5ac8a0436533a3a0b8fd2f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c8573e5028ebb534ecf4566219c9da69c622a4de945d94910c945bf6ab1b79d0"
+}
