@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 179,
+  "utc": "2026-09-21T12:33:18.753Z",
+  "payload": {
+    "tick": 957,
+    "tick_frame": "ccd43a45a21b8076408a6fe6560fd34f9d100a04f3568212a145dc4fd3f40e8c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-21T12:33:18.753Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "ZuckOff Know when a camera is in the room",
+          "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+          "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What Sun got wrong",
+          "What happened to the Snowden archive",
+          "Software sandboxing: The basics (2025)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "UFC_331"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b41c52b5af1cb5437d4eaef14b013daea39cef9d03c9ca5a0865677a04954f40",
+  "prev": "12933ac1b70a058b35cc4b5a1e57f3c591e6c3ad194c5b8cd1a053f13d549d23",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1f445b2282b0b6892a8b86d30c2e4bbf0c35a543c228afc5ee47102245cd0c5a"
+}
