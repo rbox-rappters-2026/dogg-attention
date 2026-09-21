@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 181,
+  "utc": "2026-09-21T22:28:24.568Z",
+  "payload": {
+    "tick": 960,
+    "tick_frame": "aa08179b8f361beccd41673e2a0c3800d2186dd67c3daf233abe4eb5425e1940",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-21T22:28:24.568Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Xiaomi MiMo v2.6",
+          "The NASA/ESA Mars Sample Return mission has been canceled",
+          "Transformers Explained Visually"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What Sun got wrong",
+          "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
+          "Self-Hosting Behind CGNAT"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "UFC_331"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ca67c8f88bfc7660f037997dbfd443c4fdc4ff07dd981db7ee792a680cce08d3",
+  "prev": "5ebf57b1eaf9f5bf37e5764d1623c2202bb2deb034a87559322998f2b8127dc4",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "0da94d9eb3cba0947e1f09d625acfae339fe4fbb6a7f7a500f567e177eae6c30"
+}
