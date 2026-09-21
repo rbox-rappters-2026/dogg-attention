@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 177,
+  "utc": "2026-09-21T00:52:48.125Z",
+  "payload": {
+    "tick": 955,
+    "tick_frame": "d75234b716b0a9db3d0bc0ac6314a3e50a49179102d26368267af75dd50be1f0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-21T00:52:48.125Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google's Open Agentic Orchestrator",
+          "What happened to the Snowden archive",
+          "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Software sandboxing: The basics (2025)",
+          "Lambda MicroEgg",
+          "Beyond jj: config & tools ecosystem"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "f0aa9737fae3fd6aa3442ccd3198941e14ddee2c721ce140e6a21da323e6ebe3",
+  "prev": "3bb86924eb4bedf92a0427a816a9b3cff4cb0a50c23a3940a2f89c866341bb2b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bc4e7097b2c8d4b28f6d081bf62170d966f73610611235cbf9431fc383b1aa25"
+}
