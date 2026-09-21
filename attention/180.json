@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 180,
+  "utc": "2026-09-21T18:30:37.504Z",
+  "payload": {
+    "tick": 958,
+    "tick_frame": "01b1af25f16311a003a6fcce23bd0de092f63411401fa757c333d6feacd496e4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-21T18:30:37.504Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "What Sun got wrong",
+          "Attention is all you have",
+          "Grok 4.7"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What Sun got wrong",
+          "Do you use :visited on links?",
+          "Creating a Blog in Gemini://"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "UFC_331"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5ebf57b1eaf9f5bf37e5764d1623c2202bb2deb034a87559322998f2b8127dc4",
+  "prev": "b41c52b5af1cb5437d4eaef14b013daea39cef9d03c9ca5a0865677a04954f40",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bd5c8709b734399523a5ed866a1fa709d42bd8b0e00aaaceada5cd137717697f"
+}
