@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 178,
+  "utc": "2026-09-21T05:57:12.803Z",
+  "payload": {
+    "tick": 956,
+    "tick_frame": "9045781552dd91082bd5640c53b6cb1d67fd0361517a9aed7f8d2ce0617910c4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-21T05:57:12.803Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AX – Google’s Open Agentic Orchestrator",
+          "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+          "Winning the Visa Lottery"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Software sandboxing: The basics (2025)",
+          "An actively maintained and updated Motif fork actually exists",
+          "Lambda MicroEgg"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Resident_Evil_(2026_film)",
+          "Monster:_The_Lizzie_Borden_Story",
+          "UFC_331"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "12933ac1b70a058b35cc4b5a1e57f3c591e6c3ad194c5b8cd1a053f13d549d23",
+  "prev": "f0aa9737fae3fd6aa3442ccd3198941e14ddee2c721ce140e6a21da323e6ebe3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2659401cacf47deef3b5a2ba859ef853452ed97bf9a21a94596713f10dc64136"
+}
