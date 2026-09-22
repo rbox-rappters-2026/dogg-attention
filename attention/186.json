@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 186,
+  "utc": "2026-09-22T20:23:24.137Z",
+  "payload": {
+    "tick": 965,
+    "tick_frame": "9469a437c6d6e1e0805c9d129e48752a046bff4dea14ae84cd2890997d547267",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-22T20:23:24.136Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-6 Sol and Luna",
+          "Claude Opus 5.5",
+          "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Looking forward to Git 2.56 - and 3.0",
+          "Plain-text files are at risk",
+          "Fearless SIMD v1.0 is here"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Cindy_Crawford",
+          "Rande_Gerber",
+          "Kaia_Gerber"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "023728da01fd274461b0d6f24a983f224465bbff4934cee53b083c28cbb4638d",
+  "prev": "b854092f4acd964ca6891b2c2c73e49435ad6b3ada10c99b01533f78f52f3cb5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "21008101f3c79058dbbf5975bf79fc00d5235f4c0f8af67cbfcb971e9a9f53b9"
+}
