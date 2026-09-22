@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 184,
+  "utc": "2026-09-22T12:24:41.976Z",
+  "payload": {
+    "tick": 963,
+    "tick_frame": "af759941bdcb386917205cfcfbea1daf48e5c2703adcbbe968ff0d84e77ce7c5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-22T12:24:41.976Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AMD's random number generator can't generate a 0?",
+          "Type Punning in C and C++",
+          "Can gzip be a language model?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I said no and Apple said yes",
+          "Self-Hosting Behind CGNAT",
+          "Looking forward to Git 2.56 - and 3.0"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Cindy_Crawford",
+          "Rande_Gerber",
+          "Kaia_Gerber"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "abc4e2727e45746336aa283a72e4fa48b018a989e5452cc5de1fbcde0172d6b9",
+  "prev": "4d7bd12ec85222576bb0bddec30e0d2255dc169606644502ca7ab69c98600c86",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "84a4103127c122f8ca09367834dd0a1862d2b91208c5b2010392937d03abb78f"
+}
