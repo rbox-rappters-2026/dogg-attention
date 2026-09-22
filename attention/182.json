@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 182,
+  "utc": "2026-09-22T01:04:04.484Z",
+  "payload": {
+    "tick": 961,
+    "tick_frame": "e04879c2f6d7915235123445c3da20c6cfb1d4a347f56cec456c1317f731d046",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-22T01:04:04.484Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Xiaomi MiMo v2.6",
+          "Spymarks, Not Watermarks",
+          "NASA’s Mars Sample Return mission is dead"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What Sun got wrong",
+          "Self-Hosting Behind CGNAT",
+          "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "9533806a5c8ab9066dbf493c34256a30639af5a5cc671e23434f216454951599",
+  "prev": "ca67c8f88bfc7660f037997dbfd443c4fdc4ff07dd981db7ee792a680cce08d3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "fea25b758b0e8da440c6d21e5fe8c987f1ec2765ca0575e45fa90416a9447589"
+}
