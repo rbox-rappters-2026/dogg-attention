@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 185,
+  "utc": "2026-09-22T17:10:30.508Z",
+  "payload": {
+    "tick": 964,
+    "tick_frame": "aa5afbe5e2ec45a9a619a65242e3756ca32f124e1d6f2ac5d80eecd5caed2c4e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-22T17:10:30.508Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Opus 5.5",
+          "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+          "OpenAI is well positioned to fast-follow Jev"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Looking forward to Git 2.56 - and 3.0",
+          "Fearless SIMD v1.0 is here",
+          "Arguing about arguments"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "Cindy_Crawford",
+          "Rande_Gerber",
+          "Kaia_Gerber"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b854092f4acd964ca6891b2c2c73e49435ad6b3ada10c99b01533f78f52f3cb5",
+  "prev": "abc4e2727e45746336aa283a72e4fa48b018a989e5452cc5de1fbcde0172d6b9",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8b96011d81b4db76be6741579b2dd8183466e93c3a3e7fc5ac149c2f6b2349c5"
+}
