@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 183,
+  "utc": "2026-09-22T06:36:26.668Z",
+  "payload": {
+    "tick": 962,
+    "tick_frame": "f7aa09385986bf5c95245425aa50ea6a34e05dcc8c6d805a81e514ce6b337992",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-22T06:36:26.668Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Apple Music to open concert venue in Battersea Power Station",
+          "MiMo v2.6",
+          "Spymarks, Not Watermarks"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Self-Hosting Behind CGNAT",
+          "What Sun got wrong",
+          "rift - a tiling window manager for macos"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "4d7bd12ec85222576bb0bddec30e0d2255dc169606644502ca7ab69c98600c86",
+  "prev": "9533806a5c8ab9066dbf493c34256a30639af5a5cc671e23434f216454951599",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8393eb318693e722ee5cfa58406d75dbd7a8431944be6f9f886f56372038afa8"
+}
