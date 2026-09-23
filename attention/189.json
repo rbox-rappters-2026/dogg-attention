@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 189,
+  "utc": "2026-09-23T07:27:33.886Z",
+  "payload": {
+    "tick": 968,
+    "tick_frame": "454dcf365f2dcd85b1f79c88c763bc60631eb499e1658f7601d48c54f101eaee",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-23T07:27:33.886Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-6 Sol and Luna",
+          "Claude Opus 5.5",
+          "Transit rewards"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Plain-text files are at risk",
+          "That About Wraps It Up for Stock Mac UI",
+          "No Sloptober"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "2026_Asian_Games",
+          "Aileen_Wuornos",
+          "Monster:_The_Lizzie_Borden_Story"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c1397e6869b66bb0cbd52fa701a4477ffed1813a4b6db5211b0eb94fec01094d",
+  "prev": "33e56beca80d877a9ab80b373db6c499a96ae3014c22684abc2e79eb5e1f7879",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "187667b8c08bea7dc09ad5b3e95198975cc37aca463c6473e0ab6f582c6ba137"
+}
