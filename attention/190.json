@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 190,
+  "utc": "2026-09-23T12:57:12.485Z",
+  "payload": {
+    "tick": 969,
+    "tick_frame": "f205486142eef1e4382bac35d9651c19764fd8116138f84f9b37cb60cfd9fedb",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-23T12:57:12.485Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Code reads AGENTS.md only when telemetry is on",
+          "Jev in 25 Lines of Python",
+          "Z80 REPL"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The GNOME LLM Policy That I Want",
+          "Plain-text files are at risk",
+          "No Sloptober"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "2026_Asian_Games",
+          "Aileen_Wuornos",
+          "Monster:_The_Lizzie_Borden_Story"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e5e5fefe25589b8f5b68ae0f892dafcc7f6d3afea524ad921434500efc53154b",
+  "prev": "c1397e6869b66bb0cbd52fa701a4477ffed1813a4b6db5211b0eb94fec01094d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "082db174d47a6ab92e4d72c20b3ebd425dae18e05d75df0a633f2ad31718b840"
+}
