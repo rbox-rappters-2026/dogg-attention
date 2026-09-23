@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 193,
+  "utc": "2026-09-23T23:52:28.773Z",
+  "payload": {
+    "tick": 1002,
+    "tick_frame": "e95d4c850984c3b10fae7d7c7dcbf9117ea6b03b4b011a4f8169113ab259f6ee",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-23T23:52:28.773Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "Linux support is coming to Snapdragon X2 Series",
+          "VSCode's SSH Agent Is Bananas (2025)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "I want my mesh networks to be signed, not encrypted",
+          "The GNOME LLM Policy That I Want"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Lizzie_Borden",
+          "Wikipedia:Featured_pictures",
+          "2026_Asian_Games",
+          "Aileen_Wuornos",
+          "Monster:_The_Lizzie_Borden_Story"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2c51e4d8e4ba150d9ec69147904d596939b07320573a2e01cba7911b09dfaefa",
+  "prev": "fbf6bb26d049bd2423392ab5d1bb139a7ab5ea7c5990e61397523087d66490af",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4127d93bd31ac96231020d2944e82c0f56f9f4c85d95313f23165abb0b95a7fd"
+}
