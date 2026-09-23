@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 188,
+  "utc": "2026-09-23T01:39:49.608Z",
+  "payload": {
+    "tick": 967,
+    "tick_frame": "2fa2226a331fcc0f67ffb3202bdf6443bf51199395fb1135f112775495abf8cd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-23T01:39:49.608Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT-6 Sol and Luna",
+          "Claude Opus 5.5",
+          "'We hacked the FBI:' Hackers say they have data on all FBI employees"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Plain-text files are at risk",
+          "Looking forward to Git 2.56 - and 3.0",
+          "Fearless SIMD v1.0 is here"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "33e56beca80d877a9ab80b373db6c499a96ae3014c22684abc2e79eb5e1f7879",
+  "prev": "08109d686c820084026b5059639e816b3507f1a13cd7d13d9177b860ac7f0ced",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "15377c65fe039cca033e6fe4e810568b8a685dd97af18336002dff5eb3eb5ae8"
+}
