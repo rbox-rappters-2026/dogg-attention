@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 197,
+  "utc": "2026-09-24T18:34:27.711Z",
+  "payload": {
+    "tick": 1112,
+    "tick_frame": "2dcfe74009847f294ed79a6bf9382fe974afb04780bb917b99f48625b30b8a68",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-24T18:34:27.711Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "F-Droid 2.0",
+          "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+          "Rails World 2026 Opening Keynote [video]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Story of Mel",
+          "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+          "Breaking Up with Google Play: Why Conversations Is Now Free"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Elizabeth_Holmes",
+          "2026_Asian_Games",
+          "Aileen_Wuornos"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "619b3289a4e89ae5a1930a17ca0bc685e62499210dccd140c7700d23f76b84d4",
+  "prev": "b9a11a48835133fb8fa7009c282eecec31271a51dfb504986bdebcbcc47df010",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "63919855ef700f1565336585c1b1f09ec945c310d8c0d4545cd1b24e27fe9dbe"
+}
