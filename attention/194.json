@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 194,
+  "utc": "2026-09-24T03:34:55.596Z",
+  "payload": {
+    "tick": 1024,
+    "tick_frame": "19670e3d2cae4a649609a168581796ca8c3aaaba8aaf8382a613985ce761d703",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-24T03:34:55.596Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Feds Target AI Critics as \"Foreign Agents\"",
+          "Linux support is coming to Snapdragon X2 Series",
+          "Claude discovers a novel enzyme system with CRISPR-like repeats"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "I want my mesh networks to be signed, not encrypted",
+          "The GNOME LLM Policy That I Want"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Elizabeth_Holmes",
+          "2026_Asian_Games",
+          "Aileen_Wuornos"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a8ea28d765075c939b1f79bc0fd7d8643ed8c1cac600ce79ad86e0e07992364a",
+  "prev": "2c51e4d8e4ba150d9ec69147904d596939b07320573a2e01cba7911b09dfaefa",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "93a7171679eb4ba87bc73f11a78cbc64e6ed723ed56e874f14ed81f5b9ed6cc1"
+}
