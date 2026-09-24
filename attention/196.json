@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 196,
+  "utc": "2026-09-24T14:18:40.668Z",
+  "payload": {
+    "tick": 1087,
+    "tick_frame": "dce2f0789e32aa97650e1fc048e70da6f8a9ed26a0368200a50ded1f28ce90fc",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-24T14:18:40.668Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+          "Nokia Design Archive (2025)",
+          "Linux support is coming to Snapdragon X2 Series"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "The Story of Mel",
+          "Ideas on modernizing the open-source desktop"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Elizabeth_Holmes",
+          "2026_Asian_Games",
+          "Aileen_Wuornos"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b9a11a48835133fb8fa7009c282eecec31271a51dfb504986bdebcbcc47df010",
+  "prev": "22450d98dd1ce37751d80c1e6ca6a6b454a1dc02747d938af22fcc0b7fabfce7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "fa45c852b089f4df74fd861076e7e2b5b936c83c4ce13331684c13ce949874bd"
+}
