@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 198,
+  "utc": "2026-09-24T22:02:23.970Z",
+  "payload": {
+    "tick": 1133,
+    "tick_frame": "7434aa90f7f580677bece5b191e9d0dbeddaf88170e246a1ee5dfaad8dc121fd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-24T22:02:23.970Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "F-Droid 2.0",
+          "Show HN: Make cursed fonts like Times New Bastard",
+          "Opus 5.5 is good at explainer videos"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "We Have Named Arguments at Home",
+          "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Elizabeth_Holmes",
+          "2026_Asian_Games",
+          "Aileen_Wuornos"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6a1cbf06658e981fa43ee866d68d68a3705406dcdde32e0cff470632c9c559ce",
+  "prev": "619b3289a4e89ae5a1930a17ca0bc685e62499210dccd140c7700d23f76b84d4",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d302350f7023e0746d898f6ac39875cae7041b513546c71f2c5aa432218cce91"
+}
