@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 195,
+  "utc": "2026-09-24T09:03:28.894Z",
+  "payload": {
+    "tick": 1056,
+    "tick_frame": "40161d634ecb2c0b2cb2304cfb025b4f91e10c25eec01b19aa3fa536893dbbd1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-24T09:03:28.894Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+          "Linux support is coming to Snapdragon X2 Series",
+          "Claude discovers a novel enzyme system with CRISPR-like repeats"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "The Story of Mel",
+          "I want my mesh networks to be signed, not encrypted"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Elizabeth_Holmes",
+          "2026_Asian_Games",
+          "Aileen_Wuornos"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "22450d98dd1ce37751d80c1e6ca6a6b454a1dc02747d938af22fcc0b7fabfce7",
+  "prev": "a8ea28d765075c939b1f79bc0fd7d8643ed8c1cac600ce79ad86e0e07992364a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "80e29d8064de5150e508d896baa368a14208092ff2079c77be28fd628ad625fd"
+}
