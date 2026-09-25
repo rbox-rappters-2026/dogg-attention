@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 200,
+  "utc": "2026-09-25T05:55:02.297Z",
+  "payload": {
+    "tick": 1179,
+    "tick_frame": "b0cde47f42b25f7a280d81a158dc250a0efab0d2e4eecefe8185be9d98980fe7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-25T05:55:02.297Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Goodbye Google",
+          "F-Droid 2.0",
+          "Show HN: Make cursed fonts like Times New Bastard"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+          "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "The_Paradise_(2026_Indian_film)",
+          "Elizabeth_Holmes",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a8660c58ef93a26383301155ad04a4c700645792ca658ec49d56849f39b6cc56",
+  "prev": "75e7c8b0f460f0a7ca67dda430ddf412ca806cb8b92b105f812d2ebbaf8f3145",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3212de0dc4d4e01991ccca356d26372b99eae577fc8a12789a66a534730fa025"
+}
