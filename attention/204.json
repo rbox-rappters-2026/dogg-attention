@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 204,
+  "utc": "2026-09-25T23:08:28.280Z",
+  "payload": {
+    "tick": 1278,
+    "tick_frame": "ecad6b7f17eef4ab06e41652e82fde45b64ce8598eca622ba7af0b237859a584",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-25T23:08:28.280Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Ollaya – Ollama for open-source, Jev-style decision models",
+          "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "What Even Is an OS Now?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Goodbye Google",
+          "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+          "What About Rails?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "The_Paradise_(2026_Indian_film)",
+          "Elizabeth_Holmes",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3f5aceadc07fd4e96ee44f6f34753d457c9bc51c2fbc63084734097550dd8626",
+  "prev": "8bdde04ff12e2b73a9e8f23dc0ba16e352e23b81ca89a0990b7c3c67a2f28692",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "fea4fefe2ed710744bcd186ed4747143766b387774dbc052258cc90b5d76884c"
+}
