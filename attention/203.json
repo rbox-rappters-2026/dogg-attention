@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 203,
+  "utc": "2026-09-25T19:52:54.023Z",
+  "payload": {
+    "tick": 1261,
+    "tick_frame": "37fa77045a91c2f09f5360d3c0b9ca8fe89397c7dd316f19fb42e4422032d609",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-25T19:52:54.023Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Ollaya – Ollama for open-source, Jev-style decision models",
+          "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+          "Advice to a Beginning Graduate Student (2001)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+          "Goodbye Google",
+          "LLM Policies: Progress At All Costs"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "The_Paradise_(2026_Indian_film)",
+          "Elizabeth_Holmes",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "8bdde04ff12e2b73a9e8f23dc0ba16e352e23b81ca89a0990b7c3c67a2f28692",
+  "prev": "febcce5d2397b0cbb86da9a790bd94a28931d1da7011787c2a963079c1bfde82",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3cbb00370b1923f8b54cf6b9bac088a504c35e06e34543796eed35b6285c47a6"
+}
