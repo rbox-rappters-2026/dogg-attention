@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 201,
+  "utc": "2026-09-25T11:21:00.804Z",
+  "payload": {
+    "tick": 1211,
+    "tick_frame": "cc34b45bdc6fb22b9b697e0bc9e4145a23d444e7ba81ff2a4d96b0a9535605a6",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-25T11:21:00.804Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Dutch governments builds alternative for Microsoft based on NixOS",
+          "The Mafia may be keeping fentanyl out of Italy",
+          "Ink and Switch Interactive Homepage"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+          "SourceHut account takeover via build logs (XSS in ansi2html.py)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "The_Paradise_(2026_Indian_film)",
+          "Elizabeth_Holmes",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "809707c19267d5745a1cc55fd7f7eb47e16ce799721ced1d163acdae821cb564",
+  "prev": "a8660c58ef93a26383301155ad04a4c700645792ca658ec49d56849f39b6cc56",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "7100ed20bd0aae787f195c05e193a7b7c7169d0bb33a7c47f723564b8743c9b8"
+}
