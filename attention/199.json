@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 199,
+  "utc": "2026-09-25T00:40:55.307Z",
+  "payload": {
+    "tick": 1148,
+    "tick_frame": "ab7a16a5f5c76606e67bb33df37f3c1fa1cb20665e6f79ec51e5ecd9b18d57a7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-25T00:40:55.306Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "F-Droid 2.0",
+          "Show HN: Make cursed fonts like Times New Bastard",
+          "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+          "F-Droid 2.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "75e7c8b0f460f0a7ca67dda430ddf412ca806cb8b92b105f812d2ebbaf8f3145",
+  "prev": "6a1cbf06658e981fa43ee866d68d68a3705406dcdde32e0cff470632c9c559ce",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9609c50dfc5b14108eee4c268e23ca85c291c17742a436c092d06f292a46b399"
+}
