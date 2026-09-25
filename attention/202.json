@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 202,
+  "utc": "2026-09-25T15:54:03.758Z",
+  "payload": {
+    "tick": 1238,
+    "tick_frame": "a9501c7ed763e8568667545f947dfd4b52c636fbccee1e86b186eafdec806a52",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-25T15:54:03.758Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "Platform-Independent SIMD in Go",
+          "Git-bug: Distributed, offline-first bug tracker embedded in Git"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+          "Goodbye Google",
+          "LLM Policies: Progress At All Costs"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "The_Paradise_(2026_Indian_film)",
+          "Elizabeth_Holmes",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "febcce5d2397b0cbb86da9a790bd94a28931d1da7011787c2a963079c1bfde82",
+  "prev": "809707c19267d5745a1cc55fd7f7eb47e16ce799721ced1d163acdae821cb564",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "7fca65f93b00e0d5a85f43bf326a88f53378317aca0b27d07758d3f97e0a2e72"
+}
