@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 209,
+  "utc": "2026-09-26T19:33:19.054Z",
+  "payload": {
+    "tick": 1391,
+    "tick_frame": "923d634db21b7e3d9c72158539b645e8f5e510fbb983b1190f7f91e7ae8e8adc",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-26T19:33:19.054Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "PipePipe: NewPipe hard fork implementing SponsorBlock",
+          "Drawgent: Coding agent on a live Excalidraw canvas",
+          "The Lost Atomic Update on Loongson CPU"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "If we do not stop to help each other, what do we become?",
+          "Infecting the Steam Link with NixOS",
+          "Commodified Intelligence"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Google_Chrome",
+          "Wikipedia:Featured_pictures",
+          "Charlie_Kirk",
+          "ChatGPT",
+          "One_Battle_After_Another"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ac26065dca7d057156be9c30c809548f904289f723c21b3900341f71702d12ff",
+  "prev": "9ef33248eed6d0436e85dcdb18437f7957ab69e1f047835ebd856d28d30518f4",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "756cd86ed292c8ff788e057d82cbb7cfe114c474439636d50c47f432b7e5eb5e"
+}
