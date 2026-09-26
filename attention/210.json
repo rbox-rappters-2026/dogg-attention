@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 210,
+  "utc": "2026-09-26T22:25:54.479Z",
+  "payload": {
+    "tick": 1407,
+    "tick_frame": "4e4195e5f92e5521bd2033b8235a421b7ed4440a896a66ca68a04a8f34ad8e9e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-26T22:25:54.479Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "DeepSeek Elastic Compute (DSec)",
+          "PipePipe: NewPipe hard fork implementing SponsorBlock",
+          "Show HN: Reladraw – A diagram language where you decide where to place things"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Infecting the Steam Link with NixOS",
+          "If we do not stop to help each other, what do we become?",
+          "Commodified Intelligence"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Google_Chrome",
+          "Wikipedia:Featured_pictures",
+          "Charlie_Kirk",
+          "ChatGPT",
+          "One_Battle_After_Another"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "0ffb913479fc7a3dff977fdb6b6a4cbf0d913a18b3cce601829ce1025068a3de",
+  "prev": "ac26065dca7d057156be9c30c809548f904289f723c21b3900341f71702d12ff",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b3cab059109a1f008c1eada15b100027ac7b1b0f08d41538b5fcce7c6fed0cb9"
+}
