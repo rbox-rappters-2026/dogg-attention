@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 205,
+  "utc": "2026-09-26T01:49:13.079Z",
+  "payload": {
+    "tick": 1290,
+    "tick_frame": "575a506f420977011c9f524a15d6d8c68dc9c8ce606f23df757a23e159478efb",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-26T01:49:13.079Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "Ollaya – Ollama for open-source, Jev-style decision models",
+          "Show HN: Jev Plays Pokémon Red"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Commodified Intelligence",
+          "What About Rails?",
+          "Goodbye Google"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Google_Chrome",
+          "Wikipedia:Featured_pictures",
+          "Charlie_Kirk",
+          "ChatGPT",
+          "One_Battle_After_Another"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ff7ee44181adbb8408c04356a47a5a24a924ce23a6e7384087ca7f6f03dffc4f",
+  "prev": "3f5aceadc07fd4e96ee44f6f34753d457c9bc51c2fbc63084734097550dd8626",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4067382823148bd8339c20a620ca7ce725656bd421497d542f41490cea9f9ac6"
+}
