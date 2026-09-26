@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 206,
+  "utc": "2026-09-26T07:09:20.441Z",
+  "payload": {
+    "tick": 1320,
+    "tick_frame": "10241fd4f82424e2b7589dbb133c1b46b57e2d5652e629580455e0291d31b4cc",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-26T07:09:20.441Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "A single function Jev-like wrapper for LLMs, including vision models",
+          "Plan mode is dead"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Commodified Intelligence",
+          "What About Rails?",
+          "Goodbye Google"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Google_Chrome",
+          "Wikipedia:Featured_pictures",
+          "Charlie_Kirk",
+          "ChatGPT",
+          "One_Battle_After_Another"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e2b4ade54fc95dbd821f1e8fd727a86b4f8b26dcd5159887409dc13d6f4a84b1",
+  "prev": "ff7ee44181adbb8408c04356a47a5a24a924ce23a6e7384087ca7f6f03dffc4f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "508de4ae57efa3b7aed0fc592d79c714d2db8624de6c3a482f5b44b3aa483981"
+}
