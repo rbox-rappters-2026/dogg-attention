@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 214,
+  "utc": "2026-09-27T17:10:04.938Z",
+  "payload": {
+    "tick": 1513,
+    "tick_frame": "1e4bf7170fefc5e8a31f6705fb7433cdca7b1fc18a014541804d533098852fc0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-27T17:10:04.938Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Normalization of Inexplicable Failures",
+          "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+          "Replacing the old battery on rechargeable bike lights"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "“They had no concept of a duty of care to their users.”",
+          "One month without AI",
+          "Ten Lines Of Code That Changed My World"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "Roblox",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6201fdd6a1d809197d42561f721e421acd7d5670b84bf31b6dbe3764a9b58390",
+  "prev": "e779b02c59e486859942fe041c3002a74b0aba6eb9769844873b0bad17992e26",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ecc13ffda120339d04f0bde8d24dab8b851a0cef955a08e47d01349f3087f41c"
+}
