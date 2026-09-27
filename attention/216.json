@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 216,
+  "utc": "2026-09-27T23:16:41.293Z",
+  "payload": {
+    "tick": 1545,
+    "tick_frame": "6da4ddde17127f43e4136587140e3761727d21d139ba75c547b15cc4f93c4354",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-27T23:16:41.293Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "When did Google get so weird?",
+          "Ember-1",
+          "Lunar Terminator Paradox"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "“They had no concept of a duty of care to their users.”",
+          "postmarketOS rebrands as Nura",
+          "Ten Lines Of Code That Changed My World"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "Roblox",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "073c7e2428f8a5593a3e920947d8ff7d36c466bef6834d3212cb19d8821692a4",
+  "prev": "32742c3a7ca86945c7730dbc4d88c65bd27ee3e53746c1d249ebe93f8de3ed78",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "366bed8c2173252a9ad8c0abfb03fd7d0fc78dd12fe3f8b103e8850a1ca69d64"
+}
