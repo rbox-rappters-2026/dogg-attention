@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 212,
+  "utc": "2026-09-27T06:20:48.549Z",
+  "payload": {
+    "tick": 1452,
+    "tick_frame": "25d518a21b8899686cfd11239fcaa307c52d4401e53068ed07dad0b546ec1e90",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-27T06:20:48.549Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "OpenAI agents tried to bruteforce a UN website's API fields",
+          "Go Concurrency Distilled",
+          "PipePipe: NewPipe hard fork implementing SponsorBlock"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Infecting the Steam Link with NixOS",
+          "If we do not stop to help each other, what do we become?",
+          "Rusty thoughts on \"Parse, don't validate\""
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "Roblox",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9fed032effbff465ea301272de95d2dbcda6bf1fa345544e511eecf881af5ed5",
+  "prev": "3605087bda467c67098d7369ce968ca0387818159992e52a3aa889f31b8b36aa",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b7836ee6b2d4a370ce22d77dc74bc5d87d17bd1d87b7b4e3b090b3b92a38942d"
+}
