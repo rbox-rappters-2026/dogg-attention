@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 215,
+  "utc": "2026-09-27T20:18:38.301Z",
+  "payload": {
+    "tick": 1529,
+    "tick_frame": "9cfb9ebed26f94e4d58f3cbfd9ad03ebc17ecd1403392a511ee81a9202002d8a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-27T20:18:38.301Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Ember-1",
+          "The state of SIMD in Rust in 2026",
+          "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "“They had no concept of a duty of care to their users.”",
+          "Ten Lines Of Code That Changed My World",
+          "One month without AI"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "Roblox",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "32742c3a7ca86945c7730dbc4d88c65bd27ee3e53746c1d249ebe93f8de3ed78",
+  "prev": "6201fdd6a1d809197d42561f721e421acd7d5670b84bf31b6dbe3764a9b58390",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d3f1e46944622e5baf0b5edf02aab67338571948a503c40a0287e99881807ae6"
+}
