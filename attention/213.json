@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 213,
+  "utc": "2026-09-27T12:19:21.381Z",
+  "payload": {
+    "tick": 1486,
+    "tick_frame": "05ab2e2d99f21ed122be73bfcea0b9fa0ed42f59c4957f79c74228a6fde16827",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-27T12:19:21.381Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "Flip Fluid on Flip Dots",
+          "Does Georgism work? Five years later"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "One month without AI",
+          "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+          "Rusty thoughts on \"Parse, don't validate\""
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "Roblox",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e779b02c59e486859942fe041c3002a74b0aba6eb9769844873b0bad17992e26",
+  "prev": "9fed032effbff465ea301272de95d2dbcda6bf1fa345544e511eecf881af5ed5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "56d0270d4e049d419c332f026c7f18e6a4be4f63db9e426337b8271542864666"
+}
