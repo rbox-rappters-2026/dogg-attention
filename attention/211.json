@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 211,
+  "utc": "2026-09-27T00:47:34.941Z",
+  "payload": {
+    "tick": 1420,
+    "tick_frame": "6ddf4821bf0ab5fd28b90e6f48157fb49ac1c03ca984938f98777a815550882b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-27T00:47:34.941Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Does Georgism work? Five years later",
+          "DeepSeek Elastic Compute (DSec)",
+          "PipePipe: NewPipe hard fork implementing SponsorBlock"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Infecting the Steam Link with NixOS",
+          "If we do not stop to help each other, what do we become?",
+          "Go concurrency distilled"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "3605087bda467c67098d7369ce968ca0387818159992e52a3aa889f31b8b36aa",
+  "prev": "0ffb913479fc7a3dff977fdb6b6a4cbf0d913a18b3cce601829ce1025068a3de",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "964f208c6002bef1c44a420cce199397076e2ccd1bd0d5383b9162db06042790"
+}
