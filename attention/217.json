@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 217,
+  "utc": "2026-09-28T01:53:06.991Z",
+  "payload": {
+    "tick": 1560,
+    "tick_frame": "599e7859e0508a59d5a952dd7e2e1220918911e8c87da496a8d58ca16d9ba511",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-28T01:53:06.990Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Self-parking car using genetic algorithm (2021)",
+          "Ember-1",
+          "When did Google get so weird?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "“They had no concept of a duty of care to their users.”",
+          "postmarketOS rebrands as Nura",
+          "Ten Lines Of Code That Changed My World"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "d549d50fa5f7a4755740475d72b30f0ae727a7c86d9a7ec7786bafaf376f0108",
+  "prev": "073c7e2428f8a5593a3e920947d8ff7d36c466bef6834d3212cb19d8821692a4",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "881078e0329d31f54349780b081a00096e30027f62d54812e8d0743433b21ebb"
+}
