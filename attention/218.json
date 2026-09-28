@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 218,
+  "utc": "2026-09-28T08:20:27.338Z",
+  "payload": {
+    "tick": 1596,
+    "tick_frame": "d56cd23c24b8840d70dbe4c76233b1301ad81127532edbb2ba4027f633efb01f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-28T08:20:27.338Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Owed a billion dollars in Nvidia stock",
+          "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "Ember-1"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "“They had no concept of a duty of care to their users.”",
+          "postmarketOS rebrands as Nura",
+          "Don't couple your Go code to GitHub"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "Justin_Verlander",
+          "Kate_Upton"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3f37a4726aca4cf56be727d1f6b416eee7054990eac568b05c96175ce611231e",
+  "prev": "d549d50fa5f7a4755740475d72b30f0ae727a7c86d9a7ec7786bafaf376f0108",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "53280a86bbcbc149f5d6e758f62cb701cae58af6962191dbf1c10e1dd27d2dcd"
+}
