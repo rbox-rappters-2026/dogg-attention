@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 219,
+  "utc": "2026-09-28T16:54:46.061Z",
+  "payload": {
+    "tick": 1642,
+    "tick_frame": "87514827357e861b4385e1178a8ddc62bd085922d085335c90b1db0e57767a2e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-28T16:54:46.061Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The problem is not the AI code, but nobody knows anything anymore",
+          "Pirating the Pirates",
+          "Parley: Federated, decentralised chat that speaks plain IRC"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Yes, no AI is now a feature",
+          "Hijacking the PS5's RTMP Stream",
+          "Leaving them behind"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "Justin_Verlander",
+          "Kate_Upton"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "652ca88820424205bdaf8f43c9724df8282565180659da66ef7fa10c233bdf19",
+  "prev": "3f37a4726aca4cf56be727d1f6b416eee7054990eac568b05c96175ce611231e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4e5b501544e88855dd0db8a14e9a875d0e26fd61d05e77030a6e53014814ad64"
+}
