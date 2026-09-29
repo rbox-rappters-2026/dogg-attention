@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 225,
+  "utc": "2026-09-29T23:53:19.425Z",
+  "payload": {
+    "tick": 1809,
+    "tick_frame": "cd0149b432f7dd3a60ee687476026f6d466f29f59a6c5334264a6d1d06282236",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-29T23:53:19.425Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Livenerf: Has Opus 5.5 been nerfed yet?",
+          "U.S. postal inspectors shut down website selling counterfeit postage labels",
+          "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "CoW — a stacking window manager for Wayland",
+          "Pining for Arc Downcasting in Rust",
+          "Aho-Corasick Algorithm"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Pac_(wrestler)",
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "2026_Asian_Games_medal_table"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "04976983a4bbc2fc6ba7febfddf20542d94f98169c73b984b904e1bafb36b50b",
+  "prev": "2e3b55a9c215b56959a0d12942a32cb35ad19f6bea6037ebe1c56d3d4a710237",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9ef42720996129c2ea1216722eef05e99ddf4f242b74d09a6403fe3125eb2f45"
+}
