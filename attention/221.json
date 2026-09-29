@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 221,
+  "utc": "2026-09-29T02:12:03.468Z",
+  "payload": {
+    "tick": 1686,
+    "tick_frame": "cdd1f84beebc1fa42dfbd6bd16395eb2d27acd4db014161800828dcd2e94d2cb",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-29T02:12:03.468Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "Pirating the Pirates",
+          "12,000-year-old Göbeklitepe burials explain scattered bones"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Bill Gates tries to install Movie Maker",
+          "Yes, no AI is now a feature",
+          "What Would A Serious AI Product Look Like?"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "f949ab87bc3f77e95dca08ee1e8fe5d0968c4b4c552b65853a0b0b4d9aa8e2de",
+  "prev": "2e315b458f1f71989ad3f2c607f0188565daa91c1d58402d5ebe003b1d8a34b0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "adfba524c3ba2d03c7336f7aa1d634069ca160961929464ae81654643894d176"
+}
