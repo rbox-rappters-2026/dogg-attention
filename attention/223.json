@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 223,
+  "utc": "2026-09-29T15:25:36.400Z",
+  "payload": {
+    "tick": 1762,
+    "tick_frame": "58c690544bc1c2a5d2f4121083cecd88be6efce3536d75640562de7237abfe27",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-29T15:25:36.400Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude partial outage",
+          "macOS Golden Gate Is a Buggy Mess",
+          "How Delhi Cut Electricity Loss from 50 to 5 Percent"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "CoW — a stacking window manager for Wayland",
+          "Bill Gates tries to install Movie Maker",
+          "My experience writing automated tests for a SPA"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Pac_(wrestler)",
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "2026_Asian_Games_medal_table"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "481384084dfb6d005d477602eb8c1b9cc0f33d9592f9706aa32c70cd00ce45cf",
+  "prev": "4647105ac9113486d7243123a720415df8d35d4a23a6d27ab2c96289436d9c50",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f73eaa14081d253e88ebca92ecbf28875beac8f2dced4060be8610da097bbf4a"
+}
