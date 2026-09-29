@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 224,
+  "utc": "2026-09-29T20:08:43.218Z",
+  "payload": {
+    "tick": 1789,
+    "tick_frame": "539466fb68289abb3a84950c14d9f7e1abd3b95f9ea41e0c96d3cc0b9a2d609b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-29T20:08:43.218Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "Tcl/Tk 9.1 Released",
+          "Nicholas Polson has authored 258 academic papers in 2026 (so far)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "CoW — a stacking window manager for Wayland",
+          "Pining for Arc Downcasting in Rust",
+          "Aho-Corasick Algorithm"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Pac_(wrestler)",
+          "Wikipedia:Featured_pictures",
+          "Lizzie_Borden",
+          "Ted_Kaczynski",
+          "2026_Asian_Games_medal_table"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2e3b55a9c215b56959a0d12942a32cb35ad19f6bea6037ebe1c56d3d4a710237",
+  "prev": "481384084dfb6d005d477602eb8c1b9cc0f33d9592f9706aa32c70cd00ce45cf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c09b3104d7b92d23c0b460dea956100f482fdb33743094094e15a7ffa34e04b1"
+}
