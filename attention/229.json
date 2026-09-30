@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 229,
+  "utc": "2026-09-30T21:16:03.860Z",
+  "payload": {
+    "tick": 1912,
+    "tick_frame": "a63464f624d43bc9387c6d9ac1a6d76d891f75b0efde0a743b239fa925cae7c5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-30T21:16:03.860Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Gemini 4 Argon",
+          "Gitea 28.0.0 Is Released",
+          "Surprisingly Complex Waves Reveal the Brain's Inner Workings"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Cuckoo's Egg",
+          "What TLA+ can and can't check",
+          "Tcl/Tk 9.1"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Case_Keenum",
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "2026_Asian_Games_medal_table",
+          "Dennis_Haskins"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9e524be37475a84a31cf820452ad003cc8f87f954adf6cc7ef518a0f09088424",
+  "prev": "bd5ba37509e97dbc64678a6983b1ba918072979c8e77b96ff0015c04c1b40a39",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "218492f359105adcc64d279c2423db9b2dc0fce8f5047a889b296e147d8257fc"
+}
