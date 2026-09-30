@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 227,
+  "utc": "2026-09-30T10:40:20.366Z",
+  "payload": {
+    "tick": 1860,
+    "tick_frame": "9ba59de86f18de891a4262dd0c8663f47de6384581e6a41dc2989daacb9c0066",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-30T10:40:20.366Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pi.dev: You Said No MCP",
+          "Livenerf: Has Opus 5.5 been nerfed yet?",
+          "Solving Factorio Quality"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "OpenBSD's ports tree keeps GPL coreutils and rejects uutils (Rust rewrite)",
+          "CoW — a stacking window manager for Wayland",
+          "Pining for Arc Downcasting in Rust"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Case_Keenum",
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "2026_Asian_Games_medal_table",
+          "Dennis_Haskins"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f49ddc5893a48a1a730af0237a36c3df876ba640f720bd4166e6bc28b016a87a",
+  "prev": "cfb123c1d78fc4108fe70a74b6256e411c7a6c94c32974c024318c96b7df51f6",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "88b11d0518291eb5594bdaf0ca0483521ba33562c4718d7254e6917461471ec8"
+}
