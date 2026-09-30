@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 228,
+  "utc": "2026-09-30T16:42:06.068Z",
+  "payload": {
+    "tick": 1893,
+    "tick_frame": "3f11dc829dd90e73b2a7ecba83fba3f87a5ef2f4da438f991c1b7f3a34c78aae",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-30T16:42:06.068Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The AI Race Just Got Awkward",
+          "You Said No MCP",
+          "A Brief History of the Bloomberg Terminal"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Cuckoo's Egg",
+          "Differences between `foldl` and `foldr`",
+          "How to speed up the Rust compiler in September 2026"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Case_Keenum",
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "2026_Asian_Games_medal_table",
+          "Dennis_Haskins"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "bd5ba37509e97dbc64678a6983b1ba918072979c8e77b96ff0015c04c1b40a39",
+  "prev": "f49ddc5893a48a1a730af0237a36c3df876ba640f720bd4166e6bc28b016a87a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "fdfbfb68c2ce0935918ce24709e14b58d13fb023a472d5b56f67f79674ec0bc0"
+}
