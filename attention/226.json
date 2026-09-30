@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 226,
+  "utc": "2026-09-30T04:26:18.085Z",
+  "payload": {
+    "tick": 1828,
+    "tick_frame": "38777f7bd479838bbd4332689cdf932e38109040f6b2445a1044e685d28fd867",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-09-30T04:26:18.085Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Livenerf: Has Opus 5.5 been nerfed yet?",
+          "PSSA: A non-transformer language model written from scratch in Rust",
+          "Dots: Always-on agents"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "CoW — a stacking window manager for Wayland",
+          "Pining for Arc Downcasting in Rust",
+          "Aho-Corasick Algorithm"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Case_Keenum",
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "2026_Asian_Games_medal_table",
+          "Dennis_Haskins"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "cfb123c1d78fc4108fe70a74b6256e411c7a6c94c32974c024318c96b7df51f6",
+  "prev": "04976983a4bbc2fc6ba7febfddf20542d94f98169c73b984b904e1bafb36b50b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bbd2b55bf3bdc52a47cf8851465b820a2a3cbda9b9bd39c57e1db41994a05423"
+}
