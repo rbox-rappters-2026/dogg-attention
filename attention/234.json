@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 234,
+  "utc": "2026-10-01T23:43:39.669Z",
+  "payload": {
+    "tick": 2039,
+    "tick_frame": "0dc2f545e71d3c033346942ccf9d43adb0c84de17d6555dda8f83f0b56707c50",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-01T23:43:39.669Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pi 1.0",
+          "Clef: Open-weight decision models, and new RL fine-tuning platform",
+          "SvelteKit 3"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "IANA's email about why example.com changed",
+          "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+          "Reducing the cognitive load of AI changes"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "51cd37e4059b74545ee29695c079b28866bb028312db509f0dca1080c5bdd061",
+  "prev": "19ef135b5b35fdb190f0799d00f0700450e1dbbacc57b907c1a8be6771706a18",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5920cff9433a0210cf20da348fc24bfd4e66eccc26deb16c55521bd980751a9d"
+}
