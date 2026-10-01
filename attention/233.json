@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 233,
+  "utc": "2026-10-01T19:42:29.270Z",
+  "payload": {
+    "tick": 2018,
+    "tick_frame": "d7e3c1d7f41f0e596c1c80b97e79001bd5bab367af43ad81031c977ab6872870",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-01T19:42:29.270Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Clef: Open-source decision models, and new RL fine-tuning platform",
+          "RIP, vector database",
+          "StreetComplete on iOS is now in public beta"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "IANA's email about why example.com changed",
+          "Reducing the cognitive load of AI changes",
+          "Announcing Rust 1.99.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "19ef135b5b35fdb190f0799d00f0700450e1dbbacc57b907c1a8be6771706a18",
+  "prev": "303444c76855a94e9c5f8c7f84c2cfa6ef3545c736fc9d4b7421fbb4af94e473",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4393eafce06d873aed8ffdf24f34b003b17e16b9b283c19647a26c8c7d4c6cde"
+}
