@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 230,
+  "utc": "2026-10-01T00:42:19.704Z",
+  "payload": {
+    "tick": 1927,
+    "tick_frame": "2203996d9dfbf7ebad8622dbb05088da5962c2c066ddf89f26ba8504379ee244",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-01T00:42:19.704Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Gemini 4 Argon",
+          "The top secret URSALA, RAQUEL, and FARRAH satellites",
+          "Surprisingly complex waves reveal the brain's inner workings"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Cuckoo's Egg",
+          "What TLA+ can and can't check",
+          "Tcl/Tk 9.1"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "2f66e240301c6cd5295ea8f57d0107973c1d13bfdd3ced1b543ddaff16318466",
+  "prev": "9e524be37475a84a31cf820452ad003cc8f87f954adf6cc7ef518a0f09088424",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9a6235ede9e6935043b4f8270b3ab976831940da9b8cd985882e18d397214dfa"
+}
