@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 232,
+  "utc": "2026-10-01T14:19:05.797Z",
+  "payload": {
+    "tick": 1987,
+    "tick_frame": "6233dd9944acaeb5e714d0ba6a250077ef5da0e0ef311307dee47bd3709d151b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-01T14:19:05.796Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "StreetComplete on iOS is now in public beta",
+          "How to speed up the Rust compiler in September 2026",
+          "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "IANA's email about why example.com changed",
+          "Who's hiring? Q4 2026",
+          "Reducing the cognitive load of AI changes"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "303444c76855a94e9c5f8c7f84c2cfa6ef3545c736fc9d4b7421fbb4af94e473",
+  "prev": "08e6ed89d59d4a2e9b49be49772d69990af0ecdb8874999df63e9f2c231e8dc5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "85bae3417f1672bd9cd30bf4e21d60f75b97cac29b8cf2a695c1e7f250e97252"
+}
