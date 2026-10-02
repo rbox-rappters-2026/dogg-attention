@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 235,
+  "utc": "2026-10-02T04:29:48.193Z",
+  "payload": {
+    "tick": 2066,
+    "tick_frame": "0631754641be172e9cfa636293abc63fd3e160d40fb9a567941bbc7d943b2958",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-02T04:29:48.193Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pi 1.0",
+          "Several vulnerabilities have been discovered in the Linux kernel",
+          "DeepSeek Harness Desktop for macOS and Windows"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "IANA's email about why example.com changed",
+          "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+          "Reducing the cognitive load of AI changes"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "404.php",
+          "Hooverville",
+          "Luke_Cage",
+          "AMGTV",
+          "Proyecto_40"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "cfd726a53467344cecd7cc7512c3b2bda37435a2ae87f9a3720eb2e3b89a61e2",
+  "prev": "51cd37e4059b74545ee29695c079b28866bb028312db509f0dca1080c5bdd061",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b34faea9539110387775ee3b4f317e49a008d527401620c27a19e3c9a262599c"
+}
