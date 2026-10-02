@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 236,
+  "utc": "2026-10-02T10:41:43.543Z",
+  "payload": {
+    "tick": 2100,
+    "tick_frame": "37fc3691f10e8e6db3af12505e1ba9754f5d47e6c92f43fba3c3c8d07ac56765",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-02T10:41:43.543Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pi 1.0",
+          "Shimano Bicycle Museum Review",
+          "Several vulnerabilities have been discovered in the Linux kernel"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+          "IANA's email about why example.com changed",
+          "Waterfox 6.7.5 Adds a Built-in Feed Reader"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "404.php",
+          "Hooverville",
+          "Luke_Cage",
+          "AMGTV",
+          "Proyecto_40"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "45e56a49d6cd000d82fa06ac9f1ca4835cb291c7d1a03b91305780d8c30f7a81",
+  "prev": "cfd726a53467344cecd7cc7512c3b2bda37435a2ae87f9a3720eb2e3b89a61e2",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "59a9d69223a51fe9e3967ca2fceae968b86d60654a3248e9c47d4e91c4dd2032"
+}
