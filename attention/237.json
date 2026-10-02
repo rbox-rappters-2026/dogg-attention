@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 237,
+  "utc": "2026-10-02T16:31:40.484Z",
+  "payload": {
+    "tick": 2134,
+    "tick_frame": "4d101ce25bfe9aa7522f35534ea69acdf617ff650346a47f25cd9818d282c3db",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-02T16:31:40.484Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Big Tech ruined the cloud, so we're renaming ours",
+          "Supabase Is Acquiring Turso",
+          "The Legend of von Neumann [pdf]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Waterfox 6.7.5 Adds a Built-in Feed Reader",
+          "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+          "What are you doing this weekend?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "404.php",
+          "Hooverville",
+          "Luke_Cage",
+          "AMGTV",
+          "Proyecto_40"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "69d9e618deae547d17d9188fa42ad779710f66fc02a32e889bd6fe07cf102e97",
+  "prev": "45e56a49d6cd000d82fa06ac9f1ca4835cb291c7d1a03b91305780d8c30f7a81",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1d0f3737c707c64c63b546ab483d6b426ec00d978852491caceeed9df603b2b4"
+}
