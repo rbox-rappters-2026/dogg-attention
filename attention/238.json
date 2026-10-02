@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 238,
+  "utc": "2026-10-02T21:11:21.964Z",
+  "payload": {
+    "tick": 2161,
+    "tick_frame": "49aa85c830a772bf9dfeb66efa1a635512d25f5916374e5fc306937f9aa57cdb",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-02T21:11:21.964Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Apple Pass Designer",
+          "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+          "A 12-year sequence of telescope images of a star and four planets orbiting"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Actual RFC1149 packet being auctioned",
+          "The forgetful CPU (Linux on M4)",
+          "Waterfox 6.7.5 Adds a Built-in Feed Reader"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "404.php",
+          "Hooverville",
+          "Luke_Cage",
+          "AMGTV",
+          "Proyecto_40"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b0bf52912275ad3eb180353f5e33ea950087b98019f279183f6cd11f9da0b5da",
+  "prev": "69d9e618deae547d17d9188fa42ad779710f66fc02a32e889bd6fe07cf102e97",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3a31d337fb68f088b1f560fa5c43870156492c94fb24cf3335f3ac3dac27ff96"
+}
