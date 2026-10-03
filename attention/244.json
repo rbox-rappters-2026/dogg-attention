@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 244,
+  "utc": "2026-10-03T22:19:29.843Z",
+  "payload": {
+    "tick": 2308,
+    "tick_frame": "a0e3c1931fbcb903e694595a36f67f40331ce6fd8dda9fed7eefc057f7a20ab1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-03T22:19:29.843Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Hole Punch: Sling your spaceship around gravitational fields",
+          "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "Celebrating the 100th birthday of the kidney donated to him as a teenager"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I got targeted: Trying to get your credentials via a git post-checkout hook",
+          "The Era of Software Quality, or the Era of Ostriches?",
+          "Zig 0.17.0 Release Notes"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "2026_Asian_Games_medal_table",
+          "Gypsy-Rose_Blanchard",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "11d47afbcceb1739f77101687c02b8c3c45941da603a9d61c2f78a2d5b9628a7",
+  "prev": "18a5fc253cebab385b98ec06aa63cf27bad0645eda862832b30a9579bf3ff4da",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "339da31d875b5b226cd060612d23219b786a3ca96425f1c7ae027bc1edb484b2"
+}
