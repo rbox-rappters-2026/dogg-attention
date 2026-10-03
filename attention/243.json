@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 243,
+  "utc": "2026-10-03T19:03:17.283Z",
+  "payload": {
+    "tick": 2289,
+    "tick_frame": "a71a98b0e0527053bf1a61db2e2908f33c54880af4e3f1c52c0e6ac8fce2eb9f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-03T19:03:17.283Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "ADHD, autism or complex trauma? [pdf]",
+          "Kolibri – Tech Report [pdf]",
+          "Hole Punch: Sling your spaceship around gravitational fields"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I got targeted: Trying to get your credentials via a git post-checkout hook",
+          "The Era of Software Quality, or the Era of Ostriches?",
+          "Zig 0.17.0 Release Notes"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "2026_Asian_Games_medal_table",
+          "Gypsy-Rose_Blanchard",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "18a5fc253cebab385b98ec06aa63cf27bad0645eda862832b30a9579bf3ff4da",
+  "prev": "c1e2c27925c750fba635b8ad6d818ec9912decc00be100b38e8ed37d09042a78",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4a77cf1a5b1f1a8eac3a4ffbcf9d8f73d4cee19f0dca16f96677b93f25700294"
+}
