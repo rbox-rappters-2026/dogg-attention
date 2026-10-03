@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 242,
+  "utc": "2026-10-03T15:51:06.428Z",
+  "payload": {
+    "tick": 2271,
+    "tick_frame": "c895b743f63e3cc8073d380d074cef9728c0866abe4c4f8e06d753dc1a8a357d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-03T15:51:06.428Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+          "Woking Electrical Control Room (2016)",
+          "Kolibri Has Landed: A Sovereign Open-Weight Model"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I got targeted: Trying to get your credentials via a git post-checkout hook",
+          "Zig 0.17.0 Release Notes",
+          "Lobsters Interview with Sjamaan"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "2026_Asian_Games_medal_table",
+          "Gypsy-Rose_Blanchard",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c1e2c27925c750fba635b8ad6d818ec9912decc00be100b38e8ed37d09042a78",
+  "prev": "f5e3887f433e4427a1d22d432b1d1e1bebc997d8215a6d9a9920c9164a5d5d45",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "486a79470799dcd7c3f2dec222f6f7eda9af747bde077f48f1b9eceff1268a81"
+}
