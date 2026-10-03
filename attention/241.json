@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 241,
+  "utc": "2026-10-03T11:54:12.492Z",
+  "payload": {
+    "tick": 2248,
+    "tick_frame": "4b49f976549604e820ac1d7a710cac31cb2616f85182a9a286a9eee2acc5c5ae",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-03T11:54:12.492Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GitHub's new dashboard experience now the default",
+          "Newgrounds.com – A community of games, music, and art",
+          "Court agrees with EFF: Utah's VPN law demands a technical impossibility"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I got targeted: Trying to get your credentials via a git post-checkout hook",
+          "Zig 0.17.0 Release Notes",
+          "Lobsters Interview with Sjamaan"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "2026_Asian_Games_medal_table",
+          "Gypsy-Rose_Blanchard",
+          "India_at_the_2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f5e3887f433e4427a1d22d432b1d1e1bebc997d8215a6d9a9920c9164a5d5d45",
+  "prev": "77cc85e2bf0123a2297f57ad7d2b2b6f9a5fb6537dba0490977528eba2872e57",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c3ca039afe744af67453871755fdc97b8a6d91822903bbf957c4a941c639daea"
+}
