@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 245,
+  "utc": "2026-10-04T01:51:19.049Z",
+  "payload": {
+    "tick": 2329,
+    "tick_frame": "2078a0ed2cd6ba7fb9b131316a5337f0e62f12f8c189cf4ddcece08006e52f61",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-04T01:51:19.049Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "We're going to need default hard budget caps on pretty much everything",
+          "Hole Punch: Sling your spaceship around gravitational fields",
+          "Treachery in the Rodin Museum 3D scan verdict"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I got targeted: Trying to get your credentials via a git post-checkout hook",
+          "The Era of Software Quality, or the Era of Ostriches?",
+          "Why don’t more developers \"use the platform\"?"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "860b587891de0786cd739a9ff7a2f59b779b657df22ab18cfb9f092f349de4cc",
+  "prev": "11d47afbcceb1739f77101687c02b8c3c45941da603a9d61c2f78a2d5b9628a7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c917d97b4c8848788a1eafc6b5ad551cf2101aa57d6e6a31d08f8b9330d2a98e"
+}
