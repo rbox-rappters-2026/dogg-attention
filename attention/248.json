@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 248,
+  "utc": "2026-10-04T18:01:01.695Z",
+  "payload": {
+    "tick": 2423,
+    "tick_frame": "364fa70410eecee2d92dbaa949b91017e5a7c0f2a4436ea61b5ec1594b9bb319",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-04T18:01:01.695Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "A Map of Every Lighthouse on the Planet",
+          "Car is a smartphone on wheels. Here's who's listening"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Rust's derive often implies inline",
+          "Why don’t more developers \"use the platform\"?",
+          "grubby: static site generator for git repos written in Ruby"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "2026_Asian_Games_medal_table",
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "India_at_the_2026_Asian_Games",
+          "2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "0c5a918d994629443d8ef4361d78268b0fadd7fa154166280f38b30bbd8aae5e",
+  "prev": "30bd428623338fd2ff7b8f654d3b4bf9bda8f72e49605ac39f1d6de2ea44182e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "aa020d63cd28eb5bd9d3c6c2b4a756d4292409c029de1aad46a6519fcf1bab4e"
+}
