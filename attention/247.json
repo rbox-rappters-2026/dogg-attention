@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 247,
+  "utc": "2026-10-04T13:45:40.974Z",
+  "payload": {
+    "tick": 2399,
+    "tick_frame": "25f1abb412ecddffd3065372fefea55b17a9cad3881fbdb4536447142b4be254",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-04T13:45:40.974Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+          "Glashütte Trash Clock – A 30-minute pendulum clock made from trash"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Rust's derive often implies inline",
+          "Why don’t more developers \"use the platform\"?",
+          "We’re going to need default hard budget caps on pretty much everything"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "2026_Asian_Games_medal_table",
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "India_at_the_2026_Asian_Games",
+          "2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "30bd428623338fd2ff7b8f654d3b4bf9bda8f72e49605ac39f1d6de2ea44182e",
+  "prev": "73d58d3d5c80647e9453078be1c95cac54d3d9ebbfbd294f7a9ed8eb3a902618",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8fef9f4b325033803b97571e8a9c7e88861e48dbab9ba53e9707e5d5cb5f55dc"
+}
