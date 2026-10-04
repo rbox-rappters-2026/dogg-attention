@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 246,
+  "utc": "2026-10-04T07:51:53.988Z",
+  "payload": {
+    "tick": 2364,
+    "tick_frame": "ab30a1df01ae1e519f74a363d07b227a83424b01f63b0e0505b6e9bcf36b504b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-04T07:51:53.988Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Why don't more developers “use the platform”?",
+          "Tell HN: Bob Cringely has died",
+          "So you think you could be an electrician?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Why don’t more developers \"use the platform\"?",
+          "Rust's derive often implies inline",
+          "I got targeted: Trying to get your credentials via a git post-checkout hook"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "2026_Asian_Games_medal_table",
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "India_at_the_2026_Asian_Games",
+          "2026_Asian_Games"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "73d58d3d5c80647e9453078be1c95cac54d3d9ebbfbd294f7a9ed8eb3a902618",
+  "prev": "860b587891de0786cd739a9ff7a2f59b779b657df22ab18cfb9f092f349de4cc",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "812651e54e6947c7ff20b3bd973a1c5976751e0b1e611a1ee5098107b64e17c6"
+}
