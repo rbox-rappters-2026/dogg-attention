@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 252,
+  "utc": "2026-10-05T15:08:18.361Z",
+  "payload": {
+    "tick": 2546,
+    "tick_frame": "d384b53c15addee618efa731dd7371268675a89dfd0aff9d3a816e23088b9fe1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-05T15:08:18.361Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+          "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "Denmark Data Breach Exposes 8.8M People's Personal Data"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Flirt is now Open-Source",
+          "Friendship ended with Deno, now Node is my best friend",
+          "ncdu: NCurses Disk Usage (an updated fork)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          ".xxx",
+          "Dakota_Johnson",
+          "Drishyam:_The_Conclusion"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "592ce8b59ab9e7a0d2f41aab89a439baa0732d59f76f3142d5c9927deb0e4520",
+  "prev": "ff91d07d047df67222fef01decc4827e55ec2206442c45b77095b7fdaaf7e32b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "471cb511050ce2cf6a1ae2f09a7c397dbd973b41005149e1053016fba8a23c97"
+}
