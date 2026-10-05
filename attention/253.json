@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 253,
+  "utc": "2026-10-05T22:07:52.317Z",
+  "payload": {
+    "tick": 2587,
+    "tick_frame": "912f33b3603cf4a9d4658f0c889e58396905b8b40b30760d33dc9bf2f5acf80b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-05T22:07:52.317Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Beam: Reflection's 501B open-weight model",
+          "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "Dust: Pretraining Transformers Without Backpropagation"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Gleam doesn't compile to Erlang source anymore",
+          "Flirt is now Open-Source",
+          "Friendship ended with Deno, now Node is my best friend"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          ".xxx",
+          "Dakota_Johnson",
+          "Drishyam:_The_Conclusion"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7658f28f3e4bdc2c92eca067cc0894fa67b3452f87ef9e3b5da251cb1566d412",
+  "prev": "592ce8b59ab9e7a0d2f41aab89a439baa0732d59f76f3142d5c9927deb0e4520",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4d772f7229a05d3c58c23cad8ee30126a0b5eea7761a707a418773cd1da38e00"
+}
