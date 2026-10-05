@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 251,
+  "utc": "2026-10-05T06:07:49.483Z",
+  "payload": {
+    "tick": 2494,
+    "tick_frame": "8d30ffb16028a11541dd6f278da3fe9c9776d7418f46958869300b062a9f6eb0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-05T06:07:49.483Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "In the wake of closure, a digital archive of animated materials appears online",
+          "Nearly 200 people under observation after Irkutsk lab worker dies from plague"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "ncdu: NCurses Disk Usage (an updated fork)",
+          "Rust's derive often implies inline",
+          "Refinement E-Graphs"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          ".xxx",
+          "Dakota_Johnson",
+          "Drishyam:_The_Conclusion"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ff91d07d047df67222fef01decc4827e55ec2206442c45b77095b7fdaaf7e32b",
+  "prev": "7a0fc3880447709395339faf990abd6f5e01e361f2270134722200a64db78b9e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "851f844fc0dca45a88facac07979d25d71ac0571911cbbcc9beeb414ba398f55"
+}
