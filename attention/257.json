@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 257,
+  "utc": "2026-10-06T21:07:29.567Z",
+  "payload": {
+    "tick": 2721,
+    "tick_frame": "4e521893aa3389f5e2cfe56719113ce0709e406ee028a6321b223234f8df5af0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-06T21:07:29.566Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Mistral Large 4",
+          "Nobel Prize in Physics 2026: Francis Halzen",
+          "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Email Self Hosters - what are you using?",
+          "Brut, the Brutal Router for Unix Tools",
+          "A sustainable web career, for when all this blows over"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "Wikimedia_Foundation",
+          "2026_Brazilian_general_election",
+          "Digger_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "4e878595699d78c1cad0efc00f0a538304e7effe620cd45f918d7397fa15d050",
+  "prev": "83773022ece55a83fd5cc55011698e141d123ca0a5bf5e3601288df9c2c6e7f0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "047e91b638a59a9ed86633886cc1087814beee7135a39a4448112b7cdfb8c2ad"
+}
