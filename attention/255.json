@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 255,
+  "utc": "2026-10-06T09:14:35.203Z",
+  "payload": {
+    "tick": 2652,
+    "tick_frame": "9cad56fc5886220953d343dbea60460da64b845873a56c7ae0c6e3e0a6b1e026",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-06T09:14:35.203Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "DOOM, simulated and rendered inside the Firebird SQL database using WASM",
+          "Beam: Reflection's 501B open-weight model",
+          "Accountability mechanisms can be joyful (2024)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Async Rust: Where does the scheduler live?",
+          "Gleam doesn't compile to Erlang source anymore",
+          "Email Self Hosters - what are you using?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "Wikimedia_Foundation",
+          "2026_Brazilian_general_election",
+          "Digger_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "061fabd916e41ff33be884166e2bf839e0939992f791f551267299b830a4b60c",
+  "prev": "57ad05c0f08196d7c3d6bf22930ab2a2a26bec0a7488cceb2b768a1548416d47",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d733ab1d2cc1e9ab5b4ca7b1cd7f79861c4cc24ec0c20d32f913c78b9ba7ba59"
+}
