@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 254,
+  "utc": "2026-10-06T02:24:44.862Z",
+  "payload": {
+    "tick": 2612,
+    "tick_frame": "b151cc016f146572c1f70a9a981b5dc05181ff28741128e9876d577b6318de65",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-06T02:24:44.862Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "Beam: Reflection's 501B open-weight model",
+          "Find the flattest route between any two points in SF"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Gleam doesn't compile to Erlang source anymore",
+          "Async Rust: Where does the scheduler live?",
+          "Flirt is now Open-Source"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "57ad05c0f08196d7c3d6bf22930ab2a2a26bec0a7488cceb2b768a1548416d47",
+  "prev": "7658f28f3e4bdc2c92eca067cc0894fa67b3452f87ef9e3b5da251cb1566d412",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "922a851c30155b9823e595127dee16840fea494ba3768fc3ce8317faff792ca2"
+}
