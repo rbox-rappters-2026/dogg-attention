@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 261,
+  "utc": "2026-10-07T20:04:39.952Z",
+  "payload": {
+    "tick": 2754,
+    "tick_frame": "3ad5cd8b57896c14785fac9dc253fedaea55cea434654c9bbaa8f5f154d1e06d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-07T20:04:39.952Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Haiku 5.5",
+          "GPT‑6 and Intelligent UI for everyone",
+          "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Anti-Patterns in Software Blogging",
+          "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+          "C for Rust Programmers"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Steve_Gleason",
+          "Wikimedia_Foundation",
+          "Christa_Pike",
+          "Jeffrey_Archer"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e10002b02eba1224d1d1763b088eb3abfbb78f3c28c4d080d09be78326d037a8",
+  "prev": "88f4e847f11c1f8ee1f9223b2ebc02ced6cc590d7de3ebdc66eaf81ce810b987",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f01f1dfedefa300c99225d93694580cb337916f30c92777a7251ae6fe13e9a19"
+}
