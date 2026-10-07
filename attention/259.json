@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 259,
+  "utc": "2026-10-07T06:54:21.711Z",
+  "payload": {
+    "tick": 2752,
+    "tick_frame": "30f7a57b15611a9d28da922349666b5671cfd6c09fe3e95f6fa65496fd26ad0b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-07T06:54:21.711Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Sharing AI progress in mathematics",
+          "Strands Decider 2B: a small, open-source, decision model",
+          "Decisions API is in public beta"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "That Time I Worked With a Laptop Thief (2025)",
+          "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+          "Brut, the Brutal Router for Unix Tools"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Steve_Gleason",
+          "Wikimedia_Foundation",
+          "Christa_Pike",
+          "Jeffrey_Archer"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "30a8c444521d3a38255518fdea7f45e25d099a6ae2e2e953a38489acb0988b53",
+  "prev": "97cfb7a4df353e1a2b8b387f0c3bdb3bbaa3c5edcdaca79823213e115dd438e0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ddfc859ae260d77a6afca27c33a3a31608cbcf0d507aed4d127143fbfa623974"
+}
