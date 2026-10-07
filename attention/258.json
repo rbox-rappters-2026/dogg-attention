@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 258,
+  "utc": "2026-10-07T00:54:59.473Z",
+  "payload": {
+    "tick": 2743,
+    "tick_frame": "c393039579bea6a54dcd7aba1399acfc2d73d82d4fc0a683e479490b06870693",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-07T00:54:59.473Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Sharing AI progress in mathematics",
+          "Mistral Large 4",
+          "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Brut, the Brutal Router for Unix Tools",
+          "A sustainable web career, for when all this blows over",
+          "Email Self Hosters - what are you using?"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "97cfb7a4df353e1a2b8b387f0c3bdb3bbaa3c5edcdaca79823213e115dd438e0",
+  "prev": "4e878595699d78c1cad0efc00f0a538304e7effe620cd45f918d7397fa15d050",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "68d8885496ff92da206acae58999aa95984893af8ec5c451c6cf4d31e773c03f"
+}
