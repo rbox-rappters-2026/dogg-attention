@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 260,
+  "utc": "2026-10-07T14:15:46.248Z",
+  "payload": {
+    "tick": 2753,
+    "tick_frame": "1f989e3462bfccd227f055dfbe5ca7e5fc7663ab164214f00ad5515e117bd974",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-07T14:15:46.248Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Shipping JPEG XL in Chrome",
+          "A font recreated from photographs of classic Commodore 64 keycaps",
+          "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+          "That Time I Worked With a Laptop Thief (2025)",
+          "Reasons to dislike AI coding"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Steve_Gleason",
+          "Wikimedia_Foundation",
+          "Christa_Pike",
+          "Jeffrey_Archer"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "88f4e847f11c1f8ee1f9223b2ebc02ced6cc590d7de3ebdc66eaf81ce810b987",
+  "prev": "30a8c444521d3a38255518fdea7f45e25d099a6ae2e2e953a38489acb0988b53",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f854ca0ed603fd3dce6d458db8110ce360b7301682c04bd2cd2a828f5f49ebd1"
+}
