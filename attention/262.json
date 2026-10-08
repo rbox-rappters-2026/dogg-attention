@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 262,
+  "utc": "2026-10-08T00:19:44.591Z",
+  "payload": {
+    "tick": 2755,
+    "tick_frame": "26d4552228b957cdc1fed6e91275e8035c9bf9b3300ddb66c98cfc938e680b2e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-08T00:19:44.591Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Haiku 5.5",
+          "Margaret Hamilton has died",
+          "GPT‑6 and Intelligent UI for everyone"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Anti-Patterns in Software Blogging",
+          "Software developers are not okay",
+          "Margaret Hamilton, computing pioneer who led software development for the Apollo program, "
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "91798dc48e26c974f7209114b47a7e18c9f3d2e28641c010db81850c5d0b6bdb",
+  "prev": "e10002b02eba1224d1d1763b088eb3abfbb78f3c28c4d080d09be78326d037a8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4056fbeb658af9052dbe0655f4bec563b8f436ba38632afb0504c5f5dceb7989"
+}
