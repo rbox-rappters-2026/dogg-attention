@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 265,
+  "utc": "2026-10-08T19:43:50.099Z",
+  "payload": {
+    "tick": 2758,
+    "tick_frame": "df57d13178def1a62678f64bcaeaec2ee1a74872521f47cd667fc0c666748fce",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-08T19:43:50.099Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Whistle: Speech to Text in 16.9 MB",
+          "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+          "The value of not getting to the point (2015)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Margaret Hamilton, computing pioneer who led software development for the Apollo program, ",
+          "The people holding up the internet",
+          "I've Been Deindexed by Google"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "Eva_Marie_Saint",
+          "Nidal_Hasan",
+          "Digger_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b8b9e29021a639b589e1f9a2c61b3cac94c4158d7568145e0fbf920e7561292d",
+  "prev": "d17782c69245ef2c700a360fb6c785545f7a329a4f01a044a645ed6d4573f8ce",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f7f82fd8030a798d46e5e2af0f4b79698bb693e7e56c52e1cfffc968d51e1798"
+}
