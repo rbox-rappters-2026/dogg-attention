@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 264,
+  "utc": "2026-10-08T13:55:59.386Z",
+  "payload": {
+    "tick": 2757,
+    "tick_frame": "b931671e7b34fb3d0c57bc2bce2912a78fa602b3f204a3a4bd8a7c4f40d94007",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-08T13:55:59.386Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+          "“Math 2.0” will need to value mathematical progress more holistically",
+          "The Slow Formation of Durable Software"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Margaret Hamilton, computing pioneer who led software development for the Apollo program, ",
+          "Anti-Patterns in Software Blogging",
+          "Software developers are not okay"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "Eva_Marie_Saint",
+          "Nidal_Hasan",
+          "Digger_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d17782c69245ef2c700a360fb6c785545f7a329a4f01a044a645ed6d4573f8ce",
+  "prev": "143961826d1402dbad0945a085d5b743b69784454a89681bac8a6b874ca70ea6",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "95874a3a674cd50c50320edc6fc11e6daf32b52678ceb98d919293cf596d4bb1"
+}
