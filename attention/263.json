@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 263,
+  "utc": "2026-10-08T06:29:22.023Z",
+  "payload": {
+    "tick": 2756,
+    "tick_frame": "c0e76487db13447f07bf486f036ac3a91c5c3efda19a8ee73f0583799457a1fe",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-08T06:29:22.023Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Terence Tao Responds to the OpenAI Math Drop",
+          "Claude Haiku 5.5",
+          "Living off-grid: Hundred Rabbits"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Anti-Patterns in Software Blogging",
+          "Software developers are not okay",
+          "Margaret Hamilton, computing pioneer who led software development for the Apollo program, "
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Christa_Pike",
+          "Wikipedia:Featured_pictures",
+          "Eva_Marie_Saint",
+          "Nidal_Hasan",
+          "Digger_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "143961826d1402dbad0945a085d5b743b69784454a89681bac8a6b874ca70ea6",
+  "prev": "91798dc48e26c974f7209114b47a7e18c9f3d2e28641c010db81850c5d0b6bdb",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "55e1dd933571657e8f499128f01198a7d10d8050e51471a3e9dce08ace2eac46"
+}
