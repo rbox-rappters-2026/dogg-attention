@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 266,
+  "utc": "2026-10-09T00:10:25.022Z",
+  "payload": {
+    "tick": 2759,
+    "tick_frame": "0e56f3ad63baf45b02aaa94877ef464f4bdfbebed3c2f072f5cdf3093c942067",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-09T00:10:25.022Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Whistle: Speech to Text in 16.9 MB",
+          "Theranos.world",
+          "OpenAI, the Partition Principle, and Mathematics"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The people holding up the internet",
+          "Margaret Hamilton, computing pioneer who led software development for the Apollo program, ",
+          "I've Been Deindexed by Google"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "3e800f7c3410057b7512f3486d00d0c62e3a2c5231bccd1c116699301098c16a",
+  "prev": "b8b9e29021a639b589e1f9a2c61b3cac94c4158d7568145e0fbf920e7561292d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3b38cdb831c617e1f95ff56468944d81011d74d68665eb60662458b11a061977"
+}
