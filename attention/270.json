@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 270,
+  "utc": "2026-10-09T23:50:55.981Z",
+  "payload": {
+    "tick": 2763,
+    "tick_frame": "a8816d223ee53a4ad0b7148f77dec717360d0bc0cb2a7281b55651d199f7611c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-09T23:50:55.981Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Cloudflare acquires Deno",
+          "Triple-A Minesweeper",
+          "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Programming Isn’t Special",
+          "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL,",
+          "Why Are Coding Agents So Dumb?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Nana_Patekar",
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "Anne_Carson",
+          "Nidal_Hasan"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c09f7137a01eefa909cb873baa1e48ebff5b39d2e02027250aa5a9edd960c15a",
+  "prev": "3327e83577f703272c0ff0817d8191343d6cc8c156eb34a60aa99c8b8f899b11",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bf2ff7279ad0998d26f534c9bd5f7318c96a5d2e2f836dc204431e785eb3999e"
+}
