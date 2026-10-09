@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 267,
+  "utc": "2026-10-09T06:30:34.383Z",
+  "payload": {
+    "tick": 2760,
+    "tick_frame": "cc49ca50a3bdb989e700c63b72f851253a2ef782e05f88547e909a7f1595366d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-09T06:30:34.383Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: Quake ported to safe Rust, playable in browser",
+          "Reducing undefined behavior in the C language",
+          "Why isn't the industry freaking out about DeepSeek 4.1 Flash?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The people holding up the internet",
+          "Bevy 0.20",
+          "Ending the Casuarina Linux Experiment"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Nana_Patekar",
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "Anne_Carson",
+          "Nidal_Hasan"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6fba8faff028cd69bcb39175ac68bbc749f2e6fe2fb4ce7f41a14af2440e520a",
+  "prev": "3e800f7c3410057b7512f3486d00d0c62e3a2c5231bccd1c116699301098c16a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6b08eaba4b59a51ceb7098562f56485f3337969c6c3608dd20e2dc7b0a4b163c"
+}
