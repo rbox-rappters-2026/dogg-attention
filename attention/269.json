@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 269,
+  "utc": "2026-10-09T19:37:48.960Z",
+  "payload": {
+    "tick": 2762,
+    "tick_frame": "044547b3256bf91e86f1b11673252de1a90fe9fbf768cab6a0fd85fbffd25ff8",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-09T19:37:48.960Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Cloudflare acquires Deno",
+          "Typesafe AI raises $870M at $7.5B",
+          "Our $445M Series D"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Deno is joining Cloudflare",
+          "Programming Isn’t Special",
+          "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL,"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Nana_Patekar",
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "Anne_Carson",
+          "Nidal_Hasan"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3327e83577f703272c0ff0817d8191343d6cc8c156eb34a60aa99c8b8f899b11",
+  "prev": "5c584a4b3211089e928b9fcb737e07f77849bf1cfe3adc648c64e0c4ecb47006",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "0c37803cc8bacdff90e8018967c2f36f76cf19bb4948a8ed61050fc516791248"
+}
