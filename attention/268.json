@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 268,
+  "utc": "2026-10-09T14:10:48.603Z",
+  "payload": {
+    "tick": 2761,
+    "tick_frame": "85e04fc58be7d396f7a2eebb9027e3291952a6f4904dd72ed3916bdf86dab56c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-09T14:10:48.603Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Deno Is Joining Cloudflare",
+          "Our $445M Series D",
+          "Let your AI agents paint big arrows, boxes and text on your screen"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Programming Isn’t Special",
+          "Deno is joining Cloudflare",
+          "Bevy 0.20"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Nana_Patekar",
+          "Wikipedia:Featured_pictures",
+          "Christa_Pike",
+          "Anne_Carson",
+          "Nidal_Hasan"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5c584a4b3211089e928b9fcb737e07f77849bf1cfe3adc648c64e0c4ecb47006",
+  "prev": "6fba8faff028cd69bcb39175ac68bbc749f2e6fe2fb4ce7f41a14af2440e520a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1eb766d0981d219d3ae396e2226066ce113f202c36c72df2c9455b7729ffc024"
+}
