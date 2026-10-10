@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 273,
+  "utc": "2026-10-10T16:11:24.064Z",
+  "payload": {
+    "tick": 2766,
+    "tick_frame": "114be8d4dd1268dcf671ca1209c00401ba8194cfcb80c2069263be8eeea00c2b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-10T16:11:24.064Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Bitwarden Dual License Model",
+          "Knuth Reward Check",
+          "Talorys – A self-hosted personal AI agent on Cloudflare's free tier"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "oh, apparently it's not possible to portably check for string-to-float conversion errors i",
+          "No Man Is an Island",
+          "There's little that's \"inevitable\" about AI"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "538219e45b8b6bbff76be9dbec161fca0c44447f50633919c1dbe3ac8b7b9a5b",
+  "prev": "a3b3561dffe7a2e1bb57b78d8ad824fd8283e158d8362076d6977930868e1919",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2c1e57134de180a4abe4d6c12adc99cea3ba28817bc733cde8f860e073693490"
+}
