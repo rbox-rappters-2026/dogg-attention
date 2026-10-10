@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 275,
+  "utc": "2026-10-10T23:43:18.247Z",
+  "payload": {
+    "tick": 2768,
+    "tick_frame": "8c3c4dbe5e49dcb13a465e5c09659556a15266cee684c0fa0aa94b4edb0493dc",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-10T23:43:18.247Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Build your own decision model",
+          "2D Vehicles",
+          "A city-building game in which the city would prefer you didn't"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "oh, apparently it's not possible to portably check for string-to-float conversion errors i",
+          "No Man Is an Island",
+          "There's little that's \"inevitable\" about AI"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "fc139f46c045a14952ad5ed232ceb6c59644488db86291d03e00bf857e3f612d",
+  "prev": "07978fe8ea613a7939dd2ee83af5f9c9e83b4ed727a3cb23b65bebef5dbe5076",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "abc1b06c76f137123381a46b9f88d13c0276fabe2755a4aa54f8e192e335ee6f"
+}
