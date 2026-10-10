@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 274,
+  "utc": "2026-10-10T20:13:36.522Z",
+  "payload": {
+    "tick": 2767,
+    "tick_frame": "9e88a5f4cd0aaea8c34c3a5eaaf4be25bed978a670e1791f235878e233da7d4e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-10T20:13:36.522Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "2D Vehicles",
+          "Knuth reward check",
+          "Why DuckDB 2.0 is faster"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "oh, apparently it's not possible to portably check for string-to-float conversion errors i",
+          "No Man Is an Island",
+          "There's little that's \"inevitable\" about AI"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "07978fe8ea613a7939dd2ee83af5f9c9e83b4ed727a3cb23b65bebef5dbe5076",
+  "prev": "538219e45b8b6bbff76be9dbec161fca0c44447f50633919c1dbe3ac8b7b9a5b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1acd4326cf5574b862516e29c0cdd8fc78be9805fefb71adbe715e905b8ecb14"
+}
