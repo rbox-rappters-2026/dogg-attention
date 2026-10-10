@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 271,
+  "utc": "2026-10-10T04:45:52.837Z",
+  "payload": {
+    "tick": 2764,
+    "tick_frame": "f923c2bffe98d6f87ad11005854f8378d6bf5af47fd34ff09b74db67e6c69777",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-10T04:45:52.837Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "REA Reverse – Engineer Anything",
+          "Cloudflare acquires Deno",
+          "Triple-A Minesweeper"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Programming Isn’t Special",
+          "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL,",
+          "Why Are Coding Agents So Dumb?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "4627d449318873de3f1aa33b93da5f711af5d889d38a288ca398c668f13042d2",
+  "prev": "c09f7137a01eefa909cb873baa1e48ebff5b39d2e02027250aa5a9edd960c15a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a38057dc10fb61fb8f9d1daf3682e789c563148293c78f55bc73fe10ab53c9a6"
+}
