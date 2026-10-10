@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 272,
+  "utc": "2026-10-10T10:59:12.330Z",
+  "payload": {
+    "tick": 2765,
+    "tick_frame": "9b01a1c77e0ab8f786cd2917316cd808f5b1a79e8c8581d979f019b62c3e7093",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-10T10:59:12.330Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "`123456' password used in Danish CPR data breach",
+          "REA Reverse – Engineer Anything",
+          "Telegram Desktop vulnerability allowed any user's file to be stolen"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "oh, apparently it's not possible to portably check for string-to-float conversion errors i",
+          "No Man Is an Island",
+          "Programming Isn’t Special"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ben_Shelton",
+          "Killing_of_the_Clancy_children",
+          "Elizabeth_Holmes",
+          "Emma_Navarro"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a3b3561dffe7a2e1bb57b78d8ad824fd8283e158d8362076d6977930868e1919",
+  "prev": "4627d449318873de3f1aa33b93da5f711af5d889d38a288ca398c668f13042d2",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "61e988e67c7c6c4d6c8cfce01bcd08bbe69868500c104d4de2f8e306d8b80c05"
+}
