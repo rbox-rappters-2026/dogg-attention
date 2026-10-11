@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 276,
+  "utc": "2026-10-11T04:31:01.488Z",
+  "payload": {
+    "tick": 2769,
+    "tick_frame": "a0ad2ddbb77fec4555e91ea307bfed15714a2da3e34ba9d875eea363820481db",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-11T04:31:01.488Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "WallHop – 12ft.io is gone, so I built a replacement",
+          "Build your own decision model",
+          "2D Vehicles"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "oh, apparently it's not possible to portably check for string-to-float conversion errors i",
+          "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+          "No Man Is an Island"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Mathematics",
+          "List_of_equations",
+          "Nidal_Hasan",
+          "Mike_Ditka"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "043d514aaa8efd2c1e9bde13d5d8c76c07d5e228d22f309c060f98b6f4007d03",
+  "prev": "fc139f46c045a14952ad5ed232ceb6c59644488db86291d03e00bf857e3f612d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "eb8b4c09937c78dbff7b0cff60e664d023433b7526dd68af51d9b41c5ebf07ec"
+}
