@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 278,
+  "utc": "2026-10-11T16:42:40.802Z",
+  "payload": {
+    "tick": 2771,
+    "tick_frame": "da8037560468281554e85ab2a15f3ba8c554123b74ed27790ec757b045617f77",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-11T16:42:40.802Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "I paid people to try and follow my README",
+          "The tilde in your PATH may not be your HOME",
+          "Bot traffic from Yandex"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What's Wrong with GitHub",
+          "Valen's Memory Safety: A New Kind of Borrow Checking",
+          "LineageOS 24.0 released"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Mathematics",
+          "List_of_equations",
+          "Nidal_Hasan",
+          "Mike_Ditka"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "39a6dc79aa802225177688d015a6b6bfca1d0a1ea5c48c6021e103fb15cd339a",
+  "prev": "0e4f03801b93ae49d5bc64d98a4624159b17d71580b202f41a4d907958a74961",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6e4e43e5b849e92086e7d2dc7da5ded37e964d382e460c06ca10a2f36c6e4d44"
+}
