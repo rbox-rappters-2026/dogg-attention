@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 279,
+  "utc": "2026-10-11T20:49:09.335Z",
+  "payload": {
+    "tick": 2772,
+    "tick_frame": "ddc9aa87806689d860901479fdc52028204848249baea147840805c76c5f7006",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-11T20:49:09.335Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Total Annihilation, rebuilt for modern computers",
+          "Cartographers of North Korea",
+          "Chapter 1 of Ways of Seeing by John Berger"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What's Wrong with GitHub",
+          "I'm still around.. I'm just not writing here",
+          "Valen's Memory Safety: A New Kind of Borrow Checking"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Mathematics",
+          "List_of_equations",
+          "Nidal_Hasan",
+          "Mike_Ditka"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "0c006a53de123a494fcb0b9c370fbe163391628441dce2cb748732355aa9f776",
+  "prev": "39a6dc79aa802225177688d015a6b6bfca1d0a1ea5c48c6021e103fb15cd339a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1b7a5fe5d787801d421a56e081bd3e1c01e64288e9194cad330480c9a7e33e63"
+}
