@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 277,
+  "utc": "2026-10-11T11:16:04.062Z",
+  "payload": {
+    "tick": 2770,
+    "tick_frame": "b804ba3f4ab740f267d6bd830eb0e470dbe85d3c9127d870a3bc02264daea977",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-11T11:16:04.062Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "IRCv3",
+          "LineageOS 24.0",
+          "Nitter: Update Oct 10th seeking funding and legal help"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "LineageOS 24.0 released",
+          "What's Wrong with GitHub",
+          "oh, apparently it's not possible to portably check for string-to-float conversion errors i"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Mathematics",
+          "List_of_equations",
+          "Nidal_Hasan",
+          "Mike_Ditka"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "0e4f03801b93ae49d5bc64d98a4624159b17d71580b202f41a4d907958a74961",
+  "prev": "043d514aaa8efd2c1e9bde13d5d8c76c07d5e228d22f309c060f98b6f4007d03",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "977e53d549ba49afba89f97975df4d9c7610489a858add0b739c2a3eed12fad4"
+}
