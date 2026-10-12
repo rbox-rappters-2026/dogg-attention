@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 283,
+  "utc": "2026-10-12T22:45:26.657Z",
+  "payload": {
+    "tick": 2776,
+    "tick_frame": "a157acfa6527b336db1e2f81067843d079f60488c3a0f262cc42023eac4fa63b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-12T22:45:26.657Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AI Is a Tool. Using It Well Takes Skill.",
+          "GLM-Legal",
+          "A Modern Web App in C"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Living in the Weimar era of Ruby",
+          "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+          "'AI' is Not a Tool"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Money_in_the_Bank_(2026)",
+          "Mathematics",
+          "List_of_equations",
+          "Carrie_(miniseries)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "33eb1836c2ebf944ccbc165c07daf36c02272327fbb1d3a17a4e7ade59629c3f",
+  "prev": "9d6e38f013c3e44d9f970da529b29eba0837dc6f96ba9de24c9605143b2ac27c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "280d71d3f201f1d42e6add95478cdda0299e861b3a6c37be55bc039c1e4f2c6f"
+}
