@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 280,
+  "utc": "2026-10-12T00:15:27.534Z",
+  "payload": {
+    "tick": 2773,
+    "tick_frame": "45c924becad980c3bc4bf90a1492301f9a38b04d8f7daff9f8ffe879fab715a5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-12T00:15:27.534Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Total Annihilation, rebuilt for modern computers",
+          "Whatever became of holography? (2011)",
+          "Cartographers of North Korea"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What's Wrong with GitHub",
+          "I'm sorry, but you still have to think",
+          "I'm still around.. I'm just not writing here"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "e6ff14216ca8e5130b671821b7ddd87d8c80af027cd36e82ee23efde0dea8e1f",
+  "prev": "0c006a53de123a494fcb0b9c370fbe163391628441dce2cb748732355aa9f776",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2b7d5b76e14a90efa3a789b68160b6c09b8bf21e5517983d984447e794d37a97"
+}
