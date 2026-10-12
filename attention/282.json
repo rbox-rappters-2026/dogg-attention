@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 282,
+  "utc": "2026-10-12T15:54:05.315Z",
+  "payload": {
+    "tick": 2775,
+    "tick_frame": "41c30b489823f91df9bc14ccc9ade0be821208607c2deb5581bf86a456487db1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-12T15:54:05.315Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+          "Incident with Actions, Pull Requests and Issues",
+          "Secret of Orange Cats Revealed After 60-Year Search"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "'AI' is Not a Tool",
+          "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+          "Living in the Weimar era of Ruby"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Money_in_the_Bank_(2026)",
+          "Mathematics",
+          "List_of_equations",
+          "Carrie_(miniseries)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9d6e38f013c3e44d9f970da529b29eba0837dc6f96ba9de24c9605143b2ac27c",
+  "prev": "6e0eb03dc7073951e35923a7c915c48534322a633fa01d88dcfc4c23a0ea09e7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8c0c37cb38feeced0aa20536e71513e99f4d945e95f16a86a3db4506951f81ad"
+}
