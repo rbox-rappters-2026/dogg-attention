@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 281,
+  "utc": "2026-10-12T06:19:42.928Z",
+  "payload": {
+    "tick": 2774,
+    "tick_frame": "e4c299d7c1f01af0624429ad2e0c3ce898b97b725bb8c80b3da26d3b9d7187c6",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-12T06:19:42.928Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Yandex bot traffic down 99% after data center attack",
+          "Type-safe HTML templating in Zig",
+          "Will Linux phones become a viable alternative to the Android/iOS duopoly?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I'm sorry, but you still have to think",
+          "I'm still around.. I'm just not writing here",
+          "'AI' is Not a Tool"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Money_in_the_Bank_(2026)",
+          "Mathematics",
+          "List_of_equations",
+          "Carrie_(miniseries)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6e0eb03dc7073951e35923a7c915c48534322a633fa01d88dcfc4c23a0ea09e7",
+  "prev": "e6ff14216ca8e5130b671821b7ddd87d8c80af027cd36e82ee23efde0dea8e1f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b113cedf1d289105e4cc3e45873bbd09d5f11b93f2796dc95bd4f7301d860480"
+}
