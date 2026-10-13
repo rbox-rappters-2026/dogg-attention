@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 286,
+  "utc": "2026-10-13T17:59:53.334Z",
+  "payload": {
+    "tick": 2779,
+    "tick_frame": "5f0eea47efbe79a0bdbfac318987a9137551a4e32959751bff7993df2d130e4a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-13T17:59:53.334Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Gemini 4 Argon",
+          "Apple HomeView",
+          "Cyberattack halts construction of tunnel between Denmark and Germany"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A plea not to use uv-build",
+          "Who is vfmaddrnd231pd??",
+          "Did Ente Locker copy my code without attribution?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "RJ_Mitte",
+          "Wikipedia:Featured_pictures",
+          "Selma_Blair",
+          "Mathematics",
+          "List_of_equations"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "06ebecb6dcaf7f690e9d4b56ae90c46ca36a049995459c7d53d81fd85148e8e6",
+  "prev": "9f31c88147e395c6eacae56778e1d51601bc046fccee09c039fc88ae6bdbcbef",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d2bd2b8598dd69cf462f4fee7f3edae4d34951148519a67eb096b0da25f5f055"
+}
