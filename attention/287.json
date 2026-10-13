@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 287,
+  "utc": "2026-10-13T22:36:44.122Z",
+  "payload": {
+    "tick": 2780,
+    "tick_frame": "88213e46faa19b9c04382d78f6e006932eef5a26e513ed13ccca44deb2a26784",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-13T22:36:44.122Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "OpenAI engineer arrested in bugging of executive conference room",
+          "Gemini 4 Argon",
+          "Show HN: Guitoro, a virtual guitar you strum with your keyboard"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A plea not to use uv-build",
+          "Did Ente Locker copy my code without attribution?",
+          "Who is vfmaddrnd231pd??"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "RJ_Mitte",
+          "Wikipedia:Featured_pictures",
+          "Selma_Blair",
+          "Mathematics",
+          "List_of_equations"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a4652525574dbd125536b7fd7f989fb2cb720a21c64f6632badc9a7669468723",
+  "prev": "06ebecb6dcaf7f690e9d4b56ae90c46ca36a049995459c7d53d81fd85148e8e6",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "72c09903a48b88136ef8a276acd74be5f45cd05a5f2096361a7a5cbcbf6646e1"
+}
