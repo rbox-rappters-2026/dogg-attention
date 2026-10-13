@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 284,
+  "utc": "2026-10-13T03:22:42.535Z",
+  "payload": {
+    "tick": 2777,
+    "tick_frame": "78a5e6eeb9e79407f0504d3b40f19aac46b601d62527354f567a9f61e68d9dd7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-13T03:22:42.535Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The baffling intelligence of a single cell (2024)",
+          "GLM-Legal",
+          "A Modern Web App in C"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Living in the Weimar era of Ruby",
+          "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+          "(Post-Quantum) Cryptographic Right Answers"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "RJ_Mitte",
+          "Wikipedia:Featured_pictures",
+          "Selma_Blair",
+          "Mathematics",
+          "List_of_equations"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "f646ea417b85de0ddd9c6ec5b77b93f7da0d1fc8efa6366ed9c9816bdcbc26db",
+  "prev": "33eb1836c2ebf944ccbc165c07daf36c02272327fbb1d3a17a4e7ade59629c3f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9bfef95aa60acb64076690856cf5b5445774864bddf8be3dbc437f704071b35f"
+}
