@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 285,
+  "utc": "2026-10-13T10:55:15.492Z",
+  "payload": {
+    "tick": 2778,
+    "tick_frame": "1f3a671dd006a2ca74cab6b1df5fd5a513118a9af9fe0b976a0b0e590487df72",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-13T10:55:15.492Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: Use your OpenAI subscription to create audiobooks",
+          "The baffling intelligence of a single cell (2024)",
+          "Hittite royal archive found in Turkey"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Vi Hart's Big Navier-Stokes Post",
+          "Who is vfmaddrnd231pd??",
+          "Living in the Weimar era of Ruby"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "RJ_Mitte",
+          "Wikipedia:Featured_pictures",
+          "Selma_Blair",
+          "Mathematics",
+          "List_of_equations"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9f31c88147e395c6eacae56778e1d51601bc046fccee09c039fc88ae6bdbcbef",
+  "prev": "f646ea417b85de0ddd9c6ec5b77b93f7da0d1fc8efa6366ed9c9816bdcbc26db",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9e16a83bcb6f6ae8587741230b8088d45bc90bbb5d6ae9bf1b940c59c7b11e31"
+}
