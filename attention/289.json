@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 289,
+  "utc": "2026-10-14T07:12:37.214Z",
+  "payload": {
+    "tick": 2783,
+    "tick_frame": "40233035651f536a000565c489cbce3289423ee06bab2c9b25cb47b50784a120",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-14T07:12:37.214Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+          "Felix Rieseberg Homepage",
+          "Gemini 4 Argon"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A plea not to use uv-build",
+          "Did Ente Locker copy my code without attribution?",
+          "Redesigning source control at Anthropic"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "RJ_Mitte",
+          "Katie_Zacharia",
+          "Wikipedia:Featured_pictures",
+          "Selma_Blair",
+          "Kimberly_Guilfoyle"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "677a1dc8775ba7e842c66978da73117fae05e4d748c6a155ce2feaed7b5fdcf3",
+  "prev": "236755a06277970f61dc20334c911e1706c1ae4200e12bc6532d2ec9ba1f7427",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6a87af15e98c60aa54721d60651cd8fbc8ed3d2924c3e68034dccc5cb075d7a9"
+}
