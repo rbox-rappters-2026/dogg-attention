@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 292,
+  "utc": "2026-10-14T21:25:04.512Z",
+  "payload": {
+    "tick": 2786,
+    "tick_frame": "f84e5a51b5ce0ab5383982744489d4696f947480e708495d9cbf9774aaf45b81",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-14T21:25:04.512Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Things to know when you get cancer – 2026 Edition",
+          "Yandex outage: data shows that instead of going dark, malicious bots moved",
+          "Anthropic's Scion is heavily inspired by Mononoke"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Introducing Firefox Enterprise",
+          "What I Self-Host | Aspirational Self Hosting Guide",
+          "Plasma 6.8 released (KDE's 30th birthday)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "RJ_Mitte",
+          "Katie_Zacharia",
+          "Wikipedia:Featured_pictures",
+          "Selma_Blair",
+          "Kimberly_Guilfoyle"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "625a312bd5ff40e88f716cf42f5c0e0fa4d20b2761f51eed3c5373e20ea32437",
+  "prev": "e3ffaf7486b5462703bdab77a1d1239f03f9e7cc171059af377571c9cd2c271e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "7b4f5c6398f9fd9514e75851d34cff2833a29927163f97bc74c57cd39850923f"
+}
