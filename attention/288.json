@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 288,
+  "utc": "2026-10-14T01:39:16.123Z",
+  "payload": {
+    "tick": 2781,
+    "tick_frame": "752c19a078fc877daacb72c4650fab334ed24fe0150400b5fe87438974cd8f5e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-14T01:39:16.123Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Gemini 4 Argon",
+          "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+          "Ledger confirms spy chip implant behind wallet crypto thefts"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A plea not to use uv-build",
+          "Did Ente Locker copy my code without attribution?",
+          "Who is vfmaddrnd231pd??"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "236755a06277970f61dc20334c911e1706c1ae4200e12bc6532d2ec9ba1f7427",
+  "prev": "a4652525574dbd125536b7fd7f989fb2cb720a21c64f6632badc9a7669468723",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "55fc87f8a3410747eac72b3ccdad4be6f3b16437773383ef38a2caa7822190e6"
+}
