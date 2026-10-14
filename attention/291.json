@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 291,
+  "utc": "2026-10-14T17:56:10.052Z",
+  "payload": {
+    "tick": 2785,
+    "tick_frame": "5464e109906da5ae343822b88370571365c7feaed7a131dd8d258e8a89501122",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-14T17:56:10.052Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Better HTTP/1 connection reuse in Go 1.27",
+          "Submarine cable resilience",
+          "Iosevka is an open-source, sans-serif and slab-serif monospace font"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Introducing Firefox Enterprise",
+          "Fancy Curl Sites",
+          "Plasma 6.8 released (KDE's 30th birthday)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "RJ_Mitte",
+          "Katie_Zacharia",
+          "Wikipedia:Featured_pictures",
+          "Selma_Blair",
+          "Kimberly_Guilfoyle"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e3ffaf7486b5462703bdab77a1d1239f03f9e7cc171059af377571c9cd2c271e",
+  "prev": "c90cb8cafe53225ae326acceb4c7c92724f5a808382edebbc39aa3a79ea7d02c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "23c35c951d8b4a363764c7051e8507a362510dae89a0340e1eea3e1860b7051f"
+}
