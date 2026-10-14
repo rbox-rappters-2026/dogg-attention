@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 290,
+  "utc": "2026-10-14T12:59:05.405Z",
+  "payload": {
+    "tick": 2784,
+    "tick_frame": "a6131d157fb95363403a0749e7be118ef06db590dd6b307bacec424adbe38f89",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-14T12:59:05.405Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+          "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+          "The Aaronson Oracle"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Introducing Firefox Enterprise",
+          "Fancy Curl Sites",
+          "A plea not to use uv-build"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "RJ_Mitte",
+          "Katie_Zacharia",
+          "Wikipedia:Featured_pictures",
+          "Selma_Blair",
+          "Kimberly_Guilfoyle"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c90cb8cafe53225ae326acceb4c7c92724f5a808382edebbc39aa3a79ea7d02c",
+  "prev": "677a1dc8775ba7e842c66978da73117fae05e4d748c6a155ce2feaed7b5fdcf3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "179986af4cbfce725f1ce67d4a83f53c108efcd687fc355e0f026facb6914ebc"
+}
