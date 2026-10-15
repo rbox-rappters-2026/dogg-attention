@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 298,
+  "utc": "2026-10-15T21:58:30.990Z",
+  "payload": {
+    "tick": 2792,
+    "tick_frame": "32f9a4f62c713dd76239798191d3c3dd0162ba217d47bf266a4d44fd6a4195d7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-15T21:58:30.990Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Muse Spark Open",
+          "What I Self-Host",
+          "Neural networks are clean"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Sunsetting decomp.dev",
+          "JPEG XL vs AVIF for web use-cases",
+          "My C23 Conventions"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Katie_Zacharia",
+          "Wikipedia:Featured_pictures",
+          "RJ_Mitte",
+          "Mathematics",
+          "List_of_equations"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "0c7d236efef944d181db620fc22ed93cc0a00b20b1f6caabd39f9fcadcc7468e",
+  "prev": "b6307f86b6208d4fa0d89c8b5694e0dbf8c7b17af42566b3247bb7dc73c68029",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "fd5b20c1425c3b494480b93fff0445e7512268c8cb92603eb3352cf0fdba0bdd"
+}
