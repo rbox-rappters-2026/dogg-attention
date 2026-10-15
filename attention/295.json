@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 295,
+  "utc": "2026-10-15T09:46:55.344Z",
+  "payload": {
+    "tick": 2789,
+    "tick_frame": "c354de3ee42f4eaa2bd9dba618962aeb3383c78abf00147a3e7b089115bc9835",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-15T09:46:55.344Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Things to know when you get cancer",
+          "Wanted to download an ISO, ended up writing a kernel exploit",
+          "Creating a Garmin \"MCP\""
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Anthropic's Scion is heavily inspired by Mononoke",
+          "Introducing Firefox Enterprise",
+          "What I Self-Host"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Katie_Zacharia",
+          "Wikipedia:Featured_pictures",
+          "RJ_Mitte",
+          "Mathematics",
+          "List_of_equations"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c21b7019fa62faf31d3742ec7aa627707e5962ed9b8886e4425c3c6a7aa292b9",
+  "prev": "82fc7697a4054cd0b1e97a787e03de933f8cb636b801f8d68f106c2b4a2664c0",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f32dd64156effd081ebfe6146b09fdb1fbea91b76d2fe5614af50e8f52567884"
+}
