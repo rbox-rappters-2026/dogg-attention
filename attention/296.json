@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 296,
+  "utc": "2026-10-15T14:42:39.735Z",
+  "payload": {
+    "tick": 2790,
+    "tick_frame": "0bf2f8841b0dbde39186a84479830fb43e7d723d81cb2e432bcbdd5828922167",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-15T14:42:39.735Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+          "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+          "C++26 Contracts: Introduction to Preconditions and Postconditions"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Anthropic's Scion is heavily inspired by Mononoke",
+          "Haxy on Haxy",
+          "Introducing Firefox Enterprise"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Katie_Zacharia",
+          "Wikipedia:Featured_pictures",
+          "RJ_Mitte",
+          "Mathematics",
+          "List_of_equations"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "53a740fa9d3822356b03ffeffdeb3c6fc9ec35a9cbdefb9471bb4a16dd0ff4eb",
+  "prev": "c21b7019fa62faf31d3742ec7aa627707e5962ed9b8886e4425c3c6a7aa292b9",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1f40c8aea0cdb4296faf49f5d2db9c5e5c9418f2a02ac36d3c7cf0a1801e1227"
+}
