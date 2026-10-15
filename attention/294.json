@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 294,
+  "utc": "2026-10-15T05:00:05.875Z",
+  "payload": {
+    "tick": 2788,
+    "tick_frame": "4a8bc1c225dd593113b285e5d08cb02abc4b1345dfaaf30cbf270c94aca30597",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-15T05:00:05.875Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Things to know when you get cancer",
+          "Future of Cancer Care Today (FCCT)",
+          "One in ten people are older than 65. Three in four live under a leader who is"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Anthropic's Scion is heavily inspired by Mononoke",
+          "Introducing Firefox Enterprise",
+          "What I Self-Host"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Katie_Zacharia",
+          "Wikipedia:Featured_pictures",
+          "RJ_Mitte",
+          "Mathematics",
+          "List_of_equations"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "82fc7697a4054cd0b1e97a787e03de933f8cb636b801f8d68f106c2b4a2664c0",
+  "prev": "00ced69b4a43073b01fb7213aab2dc1810501f3596df3105ae4e9fa07643abd8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "72a089674e92ad654e2cea3dd8eb7e4f0d69971b15214a583d35b592cc670406"
+}
