@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 304,
+  "utc": "2026-10-16T21:56:51.536Z",
+  "payload": {
+    "tick": 2799,
+    "tick_frame": "016cbb3f733469ef8525e960f4af82385a8234caf81618567fba5b5bb0080893",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-16T21:56:51.536Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Tesla Roadster",
+          "Claude reveals ECDSA curve origins",
+          "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "The road to iroh 1.0",
+          "Why are we even doing all this?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "GBU-43/B_MOAB",
+          "Katie_Zacharia",
+          "Jailer_2",
+          "Bigg_Boss_(Hindi_TV_series)_season_20"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "287bb93118ef8b9d33e35d7530e4a1b612f1e5a8c545ff5ec85cccb7317b7536",
+  "prev": "813cd88b5d64cde8963126db8f0ad608bca251e4b3a8221dc680ccef61352ee5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "997c1481e660bbc8d3b642ca38fe0bf4e197659f0754fc4b4464b4c8d3fc6e83"
+}
