@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 302,
+  "utc": "2026-10-16T14:36:16.925Z",
+  "payload": {
+    "tick": 2796,
+    "tick_frame": "27f8bc7693afa3d2698da71bc79ea1fe189184e70318d805a13b9a76516bc8a3",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-16T14:36:16.925Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "I Love Software Rendering",
+          "Yet another way to invoke functions without parentheses",
+          "Gyroscopes Got So Small [video]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Linus Torvalds on AI-assisted kernel contributions",
+          "JPEG XL vs AVIF for web use-cases",
+          "The road to iroh 1.0"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "GBU-43/B_MOAB",
+          "Katie_Zacharia",
+          "Jailer_2",
+          "Bigg_Boss_(Hindi_TV_series)_season_20"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e24b52f4841022df07c676e89862d340adaa345d99c2e2765f44b97f3da50187",
+  "prev": "a4403724b8ea192bd462d1be22b37f2e17f780118afd65b51c74589f3d5629d5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "28c594e0ec41753f53a429fec2e9c9793dda67770dd37e26132f208236f6ad76"
+}
