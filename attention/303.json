@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 303,
+  "utc": "2026-10-16T18:39:38.312Z",
+  "payload": {
+    "tick": 2797,
+    "tick_frame": "84ebc56c0fa59aa6d31d9e75a62d73323b8d814c0272c04b85272ed303857cf5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-16T18:39:38.312Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+          "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Linus Torvalds on AI-assisted kernel contributions",
+          "The road to iroh 1.0",
+          "Why are we even doing all this?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "GBU-43/B_MOAB",
+          "Katie_Zacharia",
+          "Jailer_2",
+          "Bigg_Boss_(Hindi_TV_series)_season_20"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "813cd88b5d64cde8963126db8f0ad608bca251e4b3a8221dc680ccef61352ee5",
+  "prev": "e24b52f4841022df07c676e89862d340adaa345d99c2e2765f44b97f3da50187",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e4ea7fdafbe1b0dc37e501f2af2e390be4c0750862d2db006febc0eb8a84b571"
+}
