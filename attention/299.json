@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 299,
+  "utc": "2026-10-16T00:15:12.943Z",
+  "payload": {
+    "tick": 2793,
+    "tick_frame": "120a9f331b77d4a08f928811c85989b33002389bcaf019fe4c9a5483c41b472a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-16T00:15:12.943Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Muse Spark Open",
+          "What I Self-Host",
+          "Neural networks are clean"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "JPEG XL vs AVIF for web use-cases",
+          "Sunsetting decomp.dev",
+          "My C23 Conventions"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "8d46d0d2522a017c60058163e02e442a5b9f3aa2471e9bbee054cbc04884c62e",
+  "prev": "0c7d236efef944d181db620fc22ed93cc0a00b20b1f6caabd39f9fcadcc7468e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e8128bf150988a4b3b7b73717c0fb0e575c576dc3df90016c015db197a91c42f"
+}
