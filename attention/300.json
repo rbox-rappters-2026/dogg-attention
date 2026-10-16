@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 300,
+  "utc": "2026-10-16T04:50:15.190Z",
+  "payload": {
+    "tick": 2794,
+    "tick_frame": "baaec7a28c9a22d4a9f86594cabea5c1bd639e80e5553ef2d5e607edd89d97a6",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-16T04:50:15.190Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Muse Spark Open",
+          "RPKI now protects 70% of internet routes",
+          "Any window from your Mac, on your iPhone and iPad"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "JPEG XL vs AVIF for web use-cases",
+          "My C23 Conventions",
+          "Sunsetting decomp.dev"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "GBU-43/B_MOAB",
+          "Katie_Zacharia",
+          "Jailer_2",
+          "Bigg_Boss_(Hindi_TV_series)_season_20"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "cba8fed671fea59d569161f1a896a1b9e9146f7b3cbf743210ee5b9ae2dcf365",
+  "prev": "8d46d0d2522a017c60058163e02e442a5b9f3aa2471e9bbee054cbc04884c62e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "57cecbbbb3c37b26ffe3cf3233d8ff42943e24cf97ace74c03e6f0f86adca09b"
+}
