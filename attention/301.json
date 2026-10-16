@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 301,
+  "utc": "2026-10-16T09:32:18.899Z",
+  "payload": {
+    "tick": 2795,
+    "tick_frame": "05ea8b2ef8b67fd90286af3eca7f117a05249694460ab14c8535c45d9c6d92fa",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-16T09:32:18.899Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Meta’s new commercial terms will allow the scraping of news sites: experts",
+          "Muse Spark Open",
+          "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Linus Torvalds on AI-assisted kernel contributions",
+          "JPEG XL vs AVIF for web use-cases",
+          "My C23 Conventions"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "GBU-43/B_MOAB",
+          "Katie_Zacharia",
+          "Jailer_2",
+          "Bigg_Boss_(Hindi_TV_series)_season_20"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a4403724b8ea192bd462d1be22b37f2e17f780118afd65b51c74589f3d5629d5",
+  "prev": "cba8fed671fea59d569161f1a896a1b9e9146f7b3cbf743210ee5b9ae2dcf365",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "dc646a9e42293e7348aba44171f54c8721ba25a6c29db3af6404a689204be37a"
+}
