@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 307,
+  "utc": "2026-10-17T09:02:41.887Z",
+  "payload": {
+    "tick": 2802,
+    "tick_frame": "9a1b2783d3d24c7c6562cabcbf66e95c929f60d16ec84285e1f8c20a3e22244e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-17T09:02:41.887Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Ultramarine 1 Flash",
+          "Tesla Roadster",
+          "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+          "The road to iroh 1.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "d3c095504fa9dfa8ec3cb5fb3cb0a36962cee7975b4b955bbe5856bc16f3ab85",
+  "prev": "27523e0822d5d2c2eb0f58efde67f2ec889381b7f3cd070a3356c0ae5d197c82",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "05deef6d1c6672ec59d216a2d6612a6d17d3447bb383e13f1db73260b66fd33b"
+}
