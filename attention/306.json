@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 306,
+  "utc": "2026-10-17T04:50:44.155Z",
+  "payload": {
+    "tick": 2801,
+    "tick_frame": "3deeb0381f45184e110581459538911d4b4ff644e6d8d62a2b51b83bef32bfd0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-17T04:50:44.155Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Ultramarine 1 Flash",
+          "Tesla Roadster",
+          "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+          "The road to iroh 1.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "27523e0822d5d2c2eb0f58efde67f2ec889381b7f3cd070a3356c0ae5d197c82",
+  "prev": "2a83d80715529444ca37dab6b0d4d436b356b52ee40874f3b16f3e9848fde753",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4d3c352a5c6a5134ea135a3d80a24e4a1c272b51f02d3690b70448f2293d8348"
+}
