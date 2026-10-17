@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 308,
+  "utc": "2026-10-17T13:05:52.117Z",
+  "payload": {
+    "tick": 2803,
+    "tick_frame": "8b4c5796f4ed5d699fceb48b0d7074855a4eb34cd452972cf30b71d336c00ddd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-17T13:05:52.117Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "Ultramarine 1 Flash",
+          "Tesla Roadster"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+          "The road to iroh 1.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "944bdb1ea3a9e19fa8479db01d9db27ce1f7d2bdf599a4ebc9bc49bffb597773",
+  "prev": "d3c095504fa9dfa8ec3cb5fb3cb0a36962cee7975b4b955bbe5856bc16f3ab85",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4a915c892e3425de40364440cf8b4e711facbe3b973ee7b71c40827fcae7a175"
+}
