@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 312,
+  "utc": "2026-10-17T23:48:25.590Z",
+  "payload": {
+    "tick": 2807,
+    "tick_frame": "7e3def8ee2dbb6930916b84b96df4bd8acd81ff55b248de87d3e7fbfffc8d053",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-17T23:48:25.590Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Bleached corals thrive within days when touching healthy neighbour",
+          "Dam removals are bringing fish back across the northeastern United States",
+          "Furifont, a Japanese font that shows furigana"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "Intuitive concurrent programming in any language",
+          "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "4382a509b2370132d511ffcaf3f38ebe6eafb9c4a987af08b26ff8f69fc03dec",
+  "prev": "ab627d2d932f1a56cd858b66e6f8baec0e91d95baff374193ce8b92f0c437a67",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "99d98a222f5ccd12ec6ab2125c96ca60efe84aa70b00b18adb1ea9ac51ca9044"
+}
