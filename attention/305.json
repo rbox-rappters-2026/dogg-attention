@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 305,
+  "utc": "2026-10-17T00:14:39.976Z",
+  "payload": {
+    "tick": 2800,
+    "tick_frame": "f6c1e520ab7c28697e0a8e15eddc45fb81bf32b412d3c174b432d457a646e916",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-17T00:14:39.976Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Tesla Roadster",
+          "Claude reveals ECDSA curve origins",
+          "FLUX 3 Image Klein"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "The road to iroh 1.0",
+          "Why are we even doing all this?"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "2a83d80715529444ca37dab6b0d4d436b356b52ee40874f3b16f3e9848fde753",
+  "prev": "287bb93118ef8b9d33e35d7530e4a1b612f1e5a8c545ff5ec85cccb7317b7536",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "97b2b673b1409c3b47f77880031d18548d58f5df1a0cd20c57a7eae1951eced0"
+}
