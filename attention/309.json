@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 309,
+  "utc": "2026-10-17T16:35:19.542Z",
+  "payload": {
+    "tick": 2804,
+    "tick_frame": "b1afe674fdb8b006e93db57f4f92d824cea2dd7737a8cf2c53b137ec49ac4858",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-17T16:35:19.542Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Making Chicken Transparent Using Dorito Dust",
+          "DeepSeek-v4.1-Flash-1017",
+          "Solar surpasses nuclear power globally for first time – pv magazine Global"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+          "Intuitive concurrent programming in any language"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "9ef849b097a431352b2e27cf3638cd1edf70beff89641745929bf404cd05b3e8",
+  "prev": "944bdb1ea3a9e19fa8479db01d9db27ce1f7d2bdf599a4ebc9bc49bffb597773",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b8f4d16c7760421b4fd4a202445a392ffe614c829385f66f61452d246f40b167"
+}
