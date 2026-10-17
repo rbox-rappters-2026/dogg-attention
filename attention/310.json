@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 310,
+  "utc": "2026-10-17T19:03:39.103Z",
+  "payload": {
+    "tick": 2805,
+    "tick_frame": "bb6ee7251a926d1bcee02d4d372c5e7088ce6cde946408fc04a76e678adf43e9",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-17T19:03:39.103Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Development statistics for the 7.2 kernel",
+          "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
+          "The Commodore 64 hardware simulator: break chips and pins, see the results"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "Intuitive concurrent programming in any language",
+          "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "b852e199fcfb4f1f55d52dd6a86f4013f01cf56b1c261d4f98ff2f2018755fb4",
+  "prev": "9ef849b097a431352b2e27cf3638cd1edf70beff89641745929bf404cd05b3e8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4dd3124c6d966ea4fe3514c02be9f31b8fa3b47fed7de8dd8f3a9918160c2f39"
+}
