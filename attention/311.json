@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 311,
+  "utc": "2026-10-17T21:37:11.824Z",
+  "payload": {
+    "tick": 2806,
+    "tick_frame": "e16fc2e4c5db2a7e0b1c0e95bee1a8c0ca21ffcb42b908477fe0bcadbf77c4c4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-17T21:37:11.824Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Bleached corals thrive within days when touching healthy neighbour",
+          "Chrome and Edge are removing XSLT: what breaks and what does not",
+          "Dam removals are bringing fish back across the northeastern United States"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "Intuitive concurrent programming in any language",
+          "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "ab627d2d932f1a56cd858b66e6f8baec0e91d95baff374193ce8b92f0c437a67",
+  "prev": "b852e199fcfb4f1f55d52dd6a86f4013f01cf56b1c261d4f98ff2f2018755fb4",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2db6feab2069cf1af2e1c5418c6caca0ec731b319fd518ba0a4e8e390a5b2ced"
+}
