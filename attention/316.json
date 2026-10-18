@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 316,
+  "utc": "2026-10-18T16:23:10.325Z",
+  "payload": {
+    "tick": 2811,
+    "tick_frame": "7f73751354f84464a5e76a8255dd5e2cbacfbe2f255c4e3dba143b624410c4ee",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-18T16:23:10.325Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "RepRapMicron",
+          "macOS 15.8.2 Breaks OpenGL",
+          "Will it be a golden age or a dark age for mathematics (and science)?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It's enough - vibecoding tag crossed from useless to harmful",
+          "ARP! Tell your network to explain itself",
+          "A New Way to Think About Borrow Checking (In Reverse)"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "5d47505eb2632efae3b7012f864feb72aedcb6f2f9d25412fb27d91f1b8fa0a5",
+  "prev": "77c798682119740b5ba29e0ad07994b915809f15162078805e3216978db314ed",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "885b7df5563b605207e520e51ad51a149bc2ffde317ef9af8814d3f8f28f644e"
+}
