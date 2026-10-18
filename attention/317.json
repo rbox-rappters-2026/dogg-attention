@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 317,
+  "utc": "2026-10-18T18:47:55.827Z",
+  "payload": {
+    "tick": 2812,
+    "tick_frame": "efa43e318932da564993bc422a3e7c6d98b89df83c2e965234f5b89e6ac6403b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-18T18:47:55.827Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "RepRapMicron",
+          "Someone behind the software",
+          "The Intel 8087 chip: floating-point addition and subtraction"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It's enough - vibecoding tag crossed from useless to harmful",
+          "ARP! Tell your network to explain itself",
+          "A New Way to Think About Borrow Checking (In Reverse)"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "7629f5d578e131fdb32cff5bffb353493e61c5d1bb468e005ff961b1f59658ea",
+  "prev": "5d47505eb2632efae3b7012f864feb72aedcb6f2f9d25412fb27d91f1b8fa0a5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b715aa34cf41833e83b35bedb78d967a239fd0a79c6e6035468e871a341d2d25"
+}
