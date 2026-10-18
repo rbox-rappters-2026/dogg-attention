@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 314,
+  "utc": "2026-10-18T08:17:09.387Z",
+  "payload": {
+    "tick": 2809,
+    "tick_frame": "e792e917526ae3b6970adb41ed8959ea7b8613a0dac660af50a2e859dbe357bd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-18T08:17:09.387Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Brain Sandwich",
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "Intuitive concurrent programming in any language"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "a0a280f0739c88b428f42d5b331ead4c23f5dc712e6e76c3f0ea1afd4488f272",
+  "prev": "fd92b0ff08a34dbdbb5ddf141b301ae8ac8b8271798e5498ebb8eaf61fc3c6c2",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "56d4ed1cfc48f563135f213e0e6e7899799e552b8cc1e23c103be451f44206be"
+}
