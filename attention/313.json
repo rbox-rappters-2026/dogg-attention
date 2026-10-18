@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 313,
+  "utc": "2026-10-18T03:27:09.944Z",
+  "payload": {
+    "tick": 2808,
+    "tick_frame": "85a6d6cacda3984f97c9a50671abc97624d019b3bcae50f3a7d5873a8f029632",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-18T03:27:09.944Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Bleached corals thrive within days when touching healthy neighbour",
+          "Lean now ships with verified kernels",
+          "Dam removals are bringing fish back across the northeastern United States"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+          "Intuitive concurrent programming in any language",
+          "It took me nine years to hack my Xbox 360"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "fd92b0ff08a34dbdbb5ddf141b301ae8ac8b8271798e5498ebb8eaf61fc3c6c2",
+  "prev": "4382a509b2370132d511ffcaf3f38ebe6eafb9c4a987af08b26ff8f69fc03dec",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ffbdfe3de3bd8769297ca557ef12b37c301e1b9584ed11e3790d4057ad72acfd"
+}
