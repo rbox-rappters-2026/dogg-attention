@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 315,
+  "utc": "2026-10-18T12:44:17.376Z",
+  "payload": {
+    "tick": 2810,
+    "tick_frame": "afde3b162668af88a81f68c7ca844d9c9602530b1530ff789bd72614a4d896aa",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-18T12:44:17.376Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "Legal experts warn Meta's new terms still grant broad scraping permissions",
+          "Parser Combinators"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It's enough - vibecoding tag crossed from useless to harmful",
+          "The Brain Sandwich",
+          "The NIST Elliptic Curves Seeds Bounty Has Been Claimed"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "77c798682119740b5ba29e0ad07994b915809f15162078805e3216978db314ed",
+  "prev": "a0a280f0739c88b428f42d5b331ead4c23f5dc712e6e76c3f0ea1afd4488f272",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4626c4e45ec49bf291c7c3b0b23593b465f53e547d09daf9c37ec755cfd5d67e"
+}
