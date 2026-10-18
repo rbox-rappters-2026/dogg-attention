@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 319,
+  "utc": "2026-10-18T23:31:58.363Z",
+  "payload": {
+    "tick": 2815,
+    "tick_frame": "4aeec44a328c158ae91074af02061dce695fd6f60188a5eecca20a1c1f935181",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-18T23:31:58.363Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "Someone behind the software",
+          "There's never been a better time to go into math (by: 3blue1brown) [video]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It's enough - vibecoding tag crossed from useless to harmful",
+          "ARP! Tell your network to explain itself",
+          "A New Way to Think About Borrow Checking (In Reverse)"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "7fcceeac793362b35f6ea314e39a07121c0219f0bac94084b9766b1bfe360a70",
+  "prev": "c05f73d387fe85d46e5ad1ed05e729e1466e1d27b8a3bd062eda3b26f684a026",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5abf1cbb045cf54bf37b5e0fc1d37723e9fe50710c7cf633f495894240032f79"
+}
