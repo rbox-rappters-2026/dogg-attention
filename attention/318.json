@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 318,
+  "utc": "2026-10-18T21:17:48.685Z",
+  "payload": {
+    "tick": 2814,
+    "tick_frame": "7e21d3a2fe020c509679bfdf79e6d6315600df7f8f32b0cfaff167db64f67e01",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-18T21:17:48.685Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Someone behind the software",
+          "Free Pascal compiler now supports dynamic packages",
+          "RepRapMicron"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "It's enough - vibecoding tag crossed from useless to harmful",
+          "ARP! Tell your network to explain itself",
+          "A New Way to Think About Borrow Checking (In Reverse)"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "c05f73d387fe85d46e5ad1ed05e729e1466e1d27b8a3bd062eda3b26f684a026",
+  "prev": "7629f5d578e131fdb32cff5bffb353493e61c5d1bb468e005ff961b1f59658ea",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c2fc9d4eb58fd5cc6d88b0a5f3d888600b847f8200ec4bb47fac7140dd56a481"
+}
