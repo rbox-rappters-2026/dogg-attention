@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 321,
+  "utc": "2026-10-19T09:40:02.492Z",
+  "payload": {
+    "tick": 2817,
+    "tick_frame": "70154cc568f3723ec57306a131325b8ee5f93a591377a6ee5e44a3207221b0c0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-19T09:40:02.492Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Linux 7.3 Released",
+          "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "Rabbits were a medieval royal luxury in England until the Black Death"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Updates to site guidelines and AI/LLM tags",
+          "It's enough - vibecoding tag crossed from useless to harmful",
+          "ARP! Tell your network to explain itself"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "f398bb1d287b4c264c825a121880b84f3232aa2f1c6e2ee150d48a9fe1ad765d",
+  "prev": "e06bd956ab1e0fa88bcda54cfa49698bc143b889160898054ffefafc2c0e05fd",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "693ba96feb7bdaa31721e231021ef84e615a429c11f2dba1d2d40d814b523789"
+}
