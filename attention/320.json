@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 320,
+  "utc": "2026-10-19T03:38:35.810Z",
+  "payload": {
+    "tick": 2816,
+    "tick_frame": "6baa46a27dbf6c1e466a49d0cfc4e35628916f6d3853bef68bd990abc0dd4c89",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-19T03:38:35.809Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "William Gibson and the trademarking of cyberspace",
+          "There's never been a better time to go into math (by: 3blue1brown) [video]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Updates to site guidelines and AI/LLM tags",
+          "It's enough - vibecoding tag crossed from useless to harmful",
+          "ARP! Tell your network to explain itself"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "e06bd956ab1e0fa88bcda54cfa49698bc143b889160898054ffefafc2c0e05fd",
+  "prev": "7fcceeac793362b35f6ea314e39a07121c0219f0bac94084b9766b1bfe360a70",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5abe588c4e9e8eb9ffa6663e0944ecac9f80df49c63c7902b1fe1296b2e24baf"
+}
