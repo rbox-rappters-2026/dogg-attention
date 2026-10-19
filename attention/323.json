@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 323,
+  "utc": "2026-10-19T21:21:40.295Z",
+  "payload": {
+    "tick": 2819,
+    "tick_frame": "fb5f38f68de7263b9f3d737c666b51af2b2d7682161dd109b094b35280748b38",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-19T21:21:40.295Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "MiniMax M3.1 Flash",
+          "I built a drone with only one motor [video]",
+          "Wine ported to OpenBSD"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Updates to site guidelines and AI/LLM tags",
+          "Wine ported to OpenBSD",
+          "One Hash Bloom Filters"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Jailer_2",
+          "Elizabeth_Holmes",
+          "You_Can_See_Everything",
+          "Street_Fighter_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "efc1d69553b9e4f545c19bd99e3ac4b09d0f5221ff201787ec5c01938197408c",
+  "prev": "d482e0130b0970d8489e4b82a995b5a7c359ce0fc7d2659b54a1a445a6db1000",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "81ed8b67c2bc391e4c2b31167b3f01ce0b12dcd650ce42c8794523bfe24bb988"
+}
