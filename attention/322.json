@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 322,
+  "utc": "2026-10-19T16:49:50.562Z",
+  "payload": {
+    "tick": 2818,
+    "tick_frame": "4d52484705098109b5597a887b5822dbe8efdef97d7633aa13cd87a57b0d6ba5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-19T16:49:50.562Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Wine Ported to OpenBSD",
+          "I no longer care to work on any Ruby gems so I've archived all my repositories",
+          "CERN and Mistral join forces to accelerate AI for science"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Updates to site guidelines and AI/LLM tags",
+          "What are you doing this week?",
+          "Wine ported to OpenBSD"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Jailer_2",
+          "Elizabeth_Holmes",
+          "You_Can_See_Everything",
+          "Street_Fighter_(2026_film)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d482e0130b0970d8489e4b82a995b5a7c359ce0fc7d2659b54a1a445a6db1000",
+  "prev": "f398bb1d287b4c264c825a121880b84f3232aa2f1c6e2ee150d48a9fe1ad765d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "929ecbb5699455f28a2f60d5804b3a25487e27a91f432aafd67d0aea48a2ad50"
+}
