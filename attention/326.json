@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 326,
+  "utc": "2026-10-20T11:02:28.249Z",
+  "payload": {
+    "tick": 2822,
+    "tick_frame": "ad1570d6ae0e0da692390ea5f8b70f779dd5e981f9b9aa189747d145ab38d186",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-20T11:02:28.249Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "DeepSeek just open-sourced its inference engine",
+          "Nordwand Mono – A monospace font for coders and adventurers",
+          "OpenBSD 8.0"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Updates to site guidelines and AI/LLM tags",
+          "OpenBSD 8.0",
+          "Wine ported to OpenBSD"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "c6ef001bd5906dbf93491c8fb8f3a602229f9320da592da9c8177fcff75813fd",
+  "prev": "8acb5842f383c28d92f8e84c1ad823e0ca30aa385681878d12d899732c795634",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "68b7bc366938701c1d7d693d7b482b87c3cb5db7c388dd6f0d7100face955f36"
+}
