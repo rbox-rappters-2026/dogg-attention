@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 325,
+  "utc": "2026-10-20T05:42:50.044Z",
+  "payload": {
+    "tick": 2821,
+    "tick_frame": "1b7dd9d37c73fe6715bccc6a7102dbd01c588d77d66d29f754860291d2c9556b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-20T05:42:50.044Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "OpenBSD 8.0",
+          "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
+          "WhatsApp's help pages hid LLM instructions: dont recommend a regulator"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Updates to site guidelines and AI/LLM tags",
+          "Wine ported to OpenBSD",
+          "OpenBSD 8.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "8acb5842f383c28d92f8e84c1ad823e0ca30aa385681878d12d899732c795634",
+  "prev": "9d5841219a72e0412a476462ba5e37ae1477afad4bd6fc8f3c7c4f2a2a7eff32",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f617c278c708937ba443b1dcef803e530276420d008aa8696b0d84762a5a1c69"
+}
