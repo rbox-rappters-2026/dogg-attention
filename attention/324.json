@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 324,
+  "utc": "2026-10-20T00:31:40.717Z",
+  "payload": {
+    "tick": 2820,
+    "tick_frame": "d1671e8b0a6d5923c19d9eb85f555584270779531b51bb0305059c3721f22782",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-20T00:31:40.717Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "France's Supermarket Fridges Were Vulnerable Online for Months",
+          "MiniMax M3.1 Flash",
+          "I built a drone with only one motor [video]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Updates to site guidelines and AI/LLM tags",
+          "Wine ported to OpenBSD",
+          "One Hash Bloom Filters"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "9d5841219a72e0412a476462ba5e37ae1477afad4bd6fc8f3c7c4f2a2a7eff32",
+  "prev": "efc1d69553b9e4f545c19bd99e3ac4b09d0f5221ff201787ec5c01938197408c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e139511b1799362202ef5d8e1e2f7a7116716acabd5af4a29cabb574b7f38be9"
+}
