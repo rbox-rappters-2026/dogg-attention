@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 327,
+  "utc": "2026-10-20T15:45:01.277Z",
+  "payload": {
+    "tick": 2823,
+    "tick_frame": "b9f8b0427da79da557f262e9109c2a11ffe2843c62d23882925d936127c6f3f2",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-20T15:45:01.277Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "DeepSeek just open-sourced its inference engine",
+          "Facebook now charging to post more than 2 links a month",
+          "EMudhra Intermediate CA Compromise"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Updates to site guidelines and AI/LLM tags",
+          "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+          "Setting up SSH keys on macOS with Touch ID"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "e4ab0be7bee39b4bcb418a489d7e5d6cb4d5c02e659d76da460681dbe20afef3",
+  "prev": "c6ef001bd5906dbf93491c8fb8f3a602229f9320da592da9c8177fcff75813fd",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d03ac72162ad5c1abaaddcbf5aabde992d28ad6ea13a843e42bc08d520e122aa"
+}
