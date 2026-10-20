@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 329,
+  "utc": "2026-10-20T22:57:55.256Z",
+  "payload": {
+    "tick": 2825,
+    "tick_frame": "31a4cb5c3fe2c2b5bfe31a9211a6757b7484702f78cde3bcf99edb51be7b55ed",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-20T22:57:55.256Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "SimCity, but with Permits",
+          "DeepInfer: High-performance inference framework for DeepSeek models",
+          "Voxtral 3"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+          "Setting up SSH keys on macOS with Touch ID",
+          "Updates to site guidelines and AI/LLM tags"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "f1ec960d94bde767e4a858f042ac90025828bf81220315bcd695a008672cdc61",
+  "prev": "0621adb4bee10d0aaa1eff86154aca775530fc5860739c112fc5b2c58ede10f6",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bbe85c872cfe1c9bba703ca3b86a8b7ca97c7cc8914930629004bf2d7618d280"
+}
