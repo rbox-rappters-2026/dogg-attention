@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 334,
+  "utc": "2026-10-21T21:20:44.105Z",
+  "payload": {
+    "tick": 2830,
+    "tick_frame": "870ff75ce276561552224a76c4ceb6d60dfb44a7315c6bc41b0a652d86393f22",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-21T21:20:44.105Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Mistral Large 4",
+          "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+          "Today's PHP security release, and how we're strengthening security"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Upcoming Critical PHP Security Release",
+          "Firefox Local Mode",
+          "zls 0.17.0"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Kim_Jong_Un",
+          "Jailer_2",
+          "Elizabeth_Holmes",
+          "You_Can_See_Everything"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "cc39c2dff1d12508dcf3985688b97b2f4838ba832126b01f02323467ac2afe21",
+  "prev": "37890f3d0824ffbbc74869f93dfee714886177f8f5ad464c7bf6db44790875e2",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "02ab9ecaedbd03e3f7d2895830bd3cfa3717961d9d1f0b26e9b6046aa5c811c9"
+}
