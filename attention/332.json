@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 332,
+  "utc": "2026-10-21T12:13:40.490Z",
+  "payload": {
+    "tick": 2828,
+    "tick_frame": "aead4d84419e33f929ee96b4f19e5feb4e3113554430e7dae8026f8591fba547",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-21T12:13:40.490Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+          "The Future of CSS",
+          "The 1.5°C goal of the Paris Agreement is no longer viable"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Upcoming Critical PHP Security Release",
+          "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+          "The Future of CSS"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Kim_Jong_Un",
+          "Jailer_2",
+          "Elizabeth_Holmes",
+          "You_Can_See_Everything"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b9074e0fdba85162226599c5b371b904cd9e4bd4003bcea8b4f75022358dd0f2",
+  "prev": "1601200bef6b0f11caf482872da23a25f9d6be43669e09d4004bb73649601faf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6c01c2a726675fbc2aa8b3d8a71e33be0a84ff8bafe1d50d57e65f5b961daf18"
+}
