@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 330,
+  "utc": "2026-10-21T01:26:45.518Z",
+  "payload": {
+    "tick": 2826,
+    "tick_frame": "a320e46554d901861bc92b8b3f8107844e4608ebac25ee2775a0a2ad069c3864",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-21T01:26:45.518Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "SimCity, but with Permits",
+          "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+          "DeepInfer: High-performance inference framework for DeepSeek models"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+          "Setting up SSH keys on macOS with Touch ID",
+          "Updates to site guidelines and AI/LLM tags"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "c95a9c55dd8c28d584bcdfd34fd1ea1af3a079202ed88287c8a22bef52194763",
+  "prev": "f1ec960d94bde767e4a858f042ac90025828bf81220315bcd695a008672cdc61",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "cbb1bda5d4d071a11ef563d349bc8c418f3b37a2528f3497d2cd3db65a873c9b"
+}
