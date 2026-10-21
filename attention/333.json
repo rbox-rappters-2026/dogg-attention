@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 333,
+  "utc": "2026-10-21T17:32:47.074Z",
+  "payload": {
+    "tick": 2829,
+    "tick_frame": "4dc341731dd2b04b67b8d92845ae589e7be30c0f0f06ea28d5330e5f5452bdd2",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-21T17:32:47.074Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "PHP 8.2.35",
+          "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Upcoming Critical PHP Security Release",
+          "The Future of CSS",
+          "Unikernels in OCaml"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Kim_Jong_Un",
+          "Jailer_2",
+          "Elizabeth_Holmes",
+          "You_Can_See_Everything"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "37890f3d0824ffbbc74869f93dfee714886177f8f5ad464c7bf6db44790875e2",
+  "prev": "b9074e0fdba85162226599c5b371b904cd9e4bd4003bcea8b4f75022358dd0f2",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "90e577a0ad0473830019000f3243dc8fae4be4215177161ca2495ab01cdabe8a"
+}
