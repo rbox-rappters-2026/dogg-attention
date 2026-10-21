@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 331,
+  "utc": "2026-10-21T06:26:38.812Z",
+  "payload": {
+    "tick": 2827,
+    "tick_frame": "66eed669cb3f7ed615fbe8dfb3dfd73a59330bb6ba6759189bf38133813cd446",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-21T06:26:38.812Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Future of CSS",
+          "Show HN: SimCity, but with Permits",
+          "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+          "Upcoming Critical PHP Security Release",
+          "Setting up SSH keys on macOS with Touch ID"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Kim_Jong_Un",
+          "Jailer_2",
+          "Elizabeth_Holmes",
+          "You_Can_See_Everything"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "1601200bef6b0f11caf482872da23a25f9d6be43669e09d4004bb73649601faf",
+  "prev": "c95a9c55dd8c28d584bcdfd34fd1ea1af3a079202ed88287c8a22bef52194763",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c8b3094a62706b9b1c6e619a3a022f7a669102fb3b7c1245dc0798534cff5538"
+}
