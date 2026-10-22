@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 337,
+  "utc": "2026-10-22T10:27:08.947Z",
+  "payload": {
+    "tick": 2834,
+    "tick_frame": "22807130efb4bf74b474368a5685b0afebe707d2836836de71c610f87ee0c0fb",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-22T10:27:08.947Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+          "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+          "WorldTUI: I trained a 360M model to pretend to be a terminal"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Firefox Local Mode",
+          "examining the macOS gcc binary",
+          "Google's Rust Style Guide"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Jailer_2",
+          "PHP2Shell",
+          "Elizabeth_Holmes",
+          "Aberfan_disaster"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "1270b9c038343df73921ffcaed064ee513256eb959316047eeace73f10085ffd",
+  "prev": "5a17059f5ff6b3c919185db875fff330ab3304ad75aa56b67601f874cc0044de",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c557a96bd1f40204346e1083e7a879b2fdbbf48ba8570ff9dca125f1c7fbcd72"
+}
