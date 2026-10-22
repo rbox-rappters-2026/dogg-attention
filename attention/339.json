@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 339,
+  "utc": "2026-10-22T19:47:12.546Z",
+  "payload": {
+    "tick": 2836,
+    "tick_frame": "3c31d1efa40f853071607fe7d89c3886089cd41459616c877b847f92e233acac",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-22T19:47:12.546Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Quad9 (DNS Resolver) to Exit France",
+          "Nvidia OpenShell",
+          "eMudhra to exit global SSL/TLS certificate business"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "examining the macOS gcc binary",
+          "jailbreaking the switch 2",
+          "Tell your network to explain itself and then some"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Jailer_2",
+          "PHP2Shell",
+          "Elizabeth_Holmes",
+          "Aberfan_disaster"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "111458b2146225b71c64f1ecc2db814e1e35049299d5d563b652a3b83415ccf1",
+  "prev": "39f29142ff73035eb4b282d7169b1cc61798c9c7a666381d802e50ad0fcc77f5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ad32bdc3fd33c9aea28666b985c3b5a5ea25f4b4ab6b40e13bc0eebc6517db48"
+}
