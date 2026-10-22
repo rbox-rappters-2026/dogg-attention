@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 340,
+  "utc": "2026-10-22T23:00:02.451Z",
+  "payload": {
+    "tick": 2837,
+    "tick_frame": "37a5be9a8fa9bd2209f32657571381f6c926feff7f28f2fa80f7a8e35d54054d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-22T23:00:02.451Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Quad9 (DNS Resolver) to Exit France",
+          "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+          "Getting ready to operate GNU Taler in Germany"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "examining the macOS gcc binary",
+          "Docker is weird",
+          "jailbreaking the switch 2"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Jailer_2",
+          "PHP2Shell",
+          "Elizabeth_Holmes",
+          "Aberfan_disaster"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7971fe886e032c1334a8e534fe7cf95eba9e2e45bcf0556ebd32dbeb61c9c308",
+  "prev": "111458b2146225b71c64f1ecc2db814e1e35049299d5d563b652a3b83415ccf1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "75d500d19dfeace795753512945c955f34af6af89d9c5cbded5604eddf651e97"
+}
