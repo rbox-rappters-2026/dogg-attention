@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 335,
+  "utc": "2026-10-22T00:07:05.682Z",
+  "payload": {
+    "tick": 2831,
+    "tick_frame": "8f26898d8a0efc9b81815884b2f30db2f69f2ae0ef82b0b81c1d1390408e1329",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-22T00:07:05.682Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Railway Security Disclosure",
+          "Today's PHP security release, and how we're strengthening security",
+          "GitLab Critical Patch Release"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Firefox Local Mode",
+          "Upcoming Critical PHP Security Release",
+          "zls 0.17.0"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "ac59b1bd8fba9e6d9ef95f05cfee455f829f95787712e75152f8883575138442",
+  "prev": "cc39c2dff1d12508dcf3985688b97b2f4838ba832126b01f02323467ac2afe21",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ea41fe1b2f6a87a9c5130a4f51bebf50fdff29dc5ef2aaf10ccabdf9d9849022"
+}
