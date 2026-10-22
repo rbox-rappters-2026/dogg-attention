@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 336,
+  "utc": "2026-10-22T05:12:37.058Z",
+  "payload": {
+    "tick": 2833,
+    "tick_frame": "dd8272250b6b5d22d82053d1a39a8a81d25abe426eb8cbfe998c584c8f51069a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-22T05:12:37.058Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+          "There isn't an easy exploit for this PHP vulnerability",
+          "GitLab critical patch release"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Firefox Local Mode",
+          "Upcoming Critical PHP Security Release",
+          "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Jailer_2",
+          "PHP2Shell",
+          "Elizabeth_Holmes",
+          "Aberfan_disaster"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5a17059f5ff6b3c919185db875fff330ab3304ad75aa56b67601f874cc0044de",
+  "prev": "ac59b1bd8fba9e6d9ef95f05cfee455f829f95787712e75152f8883575138442",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "020d7f71cdee215b8e858dc07a6ef4d306f9fed7a2f5c64a5e41629c1747f39e"
+}
