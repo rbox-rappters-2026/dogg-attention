@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 338,
+  "utc": "2026-10-22T15:30:54.426Z",
+  "payload": {
+    "tick": 2835,
+    "tick_frame": "4b3c6bfc9470499390139e06c1c680a37b1f4bbb0e9ccb4025afba79dd5bbd49",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-22T15:30:54.426Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "eMudhra to Exit Global SSL/TLS Certificate Business",
+          "Quad9 (DNS Resolver) to Exit France",
+          "What's Getting Pwned"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "examining the macOS gcc binary",
+          "Firefox Local Mode",
+          "jailbreaking the switch 2"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Jailer_2",
+          "PHP2Shell",
+          "Elizabeth_Holmes",
+          "Aberfan_disaster"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "39f29142ff73035eb4b282d7169b1cc61798c9c7a666381d802e50ad0fcc77f5",
+  "prev": "1270b9c038343df73921ffcaed064ee513256eb959316047eeace73f10085ffd",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4e5c41bdfb6ff6d80d12d4f59a5e913f6d42e7d1fc78e322b6d1d4fd376772d5"
+}
