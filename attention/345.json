@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 345,
+  "utc": "2026-10-23T20:13:45.139Z",
+  "payload": {
+    "tick": 2842,
+    "tick_frame": "bda46148ae4e32d0b305bcf22429e9f3ef3f78ac4a4a0aee023a85d02faf9291",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-23T20:13:45.139Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "Today, we hacked what we'd set out to hack: the iPhone",
+          "Apple Music 404 Not Found"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The glorious @xkcdRandom Zig builtin",
+          "Docker is weird",
+          "Software is slow because of bad design, not slow languages"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "John_Anderson_(singer)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b5459a33d37883058913242a0563b83e4526d06e1aa434f8d615af94262790e2",
+  "prev": "912be683b7a8f32c2ffe8469a99f53b33a8b0089d6eb9460ddfb7cc98328b0dd",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "59084d176f6270ce7ce173e18a4f2ec15e3d55820f1c53e5373fcbcd198a9cc0"
+}
