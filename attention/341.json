@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 341,
+  "utc": "2026-10-23T01:25:04.315Z",
+  "payload": {
+    "tick": 2838,
+    "tick_frame": "c37a667725c0e617c2b4fa5924a2afde54e04daeff72b4373db3faa6ec727bd0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-23T01:25:04.315Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Docker is weird",
+          "LLMs are making formal software verification feasible at a much larger scale",
+          "Quad9 (DNS Resolver) to Exit France"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Docker is weird",
+          "examining the macOS gcc binary",
+          "jailbreaking the switch 2"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "46f9bbb0f15d5d63b8d63c9463146fecd44133ea27fe388c85f22596ce12bfa3",
+  "prev": "7971fe886e032c1334a8e534fe7cf95eba9e2e45bcf0556ebd32dbeb61c9c308",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d7d3d4662397c9db6d3320499df145f78650a51779e43fc8293e8e6b988ea4f4"
+}
