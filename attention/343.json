@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 343,
+  "utc": "2026-10-23T11:57:00.218Z",
+  "payload": {
+    "tick": 2840,
+    "tick_frame": "5701d18e1925dee9b052d5b084c1cabfbe23f98383ff8b977d1da6980f3eb0f1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-23T11:57:00.218Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "Is this the new cyber normal?",
+          "Docker is weird"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Docker is weird",
+          "UUIDv7 doesn't have the properties you think it does",
+          "Please don't mess with links"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "John_Anderson_(singer)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "08562fc2b05d9bebf92516a6db65b05189bb1f5c6138b20d939b2c4e466bd343",
+  "prev": "5302119435cb7c024514e46b4c2f89792e6410605e60a08e7f0937b5b4a875bf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4e74ab7221c3a259d789488a52689958a07cf5bb701359ad8dd96e53fa363c1b"
+}
