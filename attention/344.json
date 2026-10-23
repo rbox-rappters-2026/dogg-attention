@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 344,
+  "utc": "2026-10-23T16:51:12.366Z",
+  "payload": {
+    "tick": 2841,
+    "tick_frame": "f3794cb307dd1e904a7eb2d280ece265227378720327795b23604d2977fd5f12",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-23T16:51:12.366Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Today, we hacked what we'd set out to hack: the iPhone",
+          "OpenSSL 4.1.0",
+          "Local Wikipedia: Wikipedia, but only for things a half hour walk from you"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Docker is weird",
+          "Please don't mess with links",
+          "UUIDv7 doesn't have the properties you think it does"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "John_Anderson_(singer)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "912be683b7a8f32c2ffe8469a99f53b33a8b0089d6eb9460ddfb7cc98328b0dd",
+  "prev": "08562fc2b05d9bebf92516a6db65b05189bb1f5c6138b20d939b2c4e466bd343",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a57d9529352eb5ce7d0e5b3edfd5c61a092bfb6ebbcf96f441f0fe18da776ee5"
+}
