@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 342,
+  "utc": "2026-10-23T06:20:22.332Z",
+  "payload": {
+    "tick": 2839,
+    "tick_frame": "603aa8261b710f216925f9ded5be5def7ba8d9e16a0e8ddfecb742d788e7e5be",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-23T06:20:22.332Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Docker is weird",
+          "LLMs are making formal software verification feasible at a much larger scale",
+          "This I Believe (1952)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Docker is weird",
+          "a hacky fucked up way to portably access errno from outside of c",
+          "UUIDv7 doesn't have the properties you think it does"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "John_Anderson_(singer)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5302119435cb7c024514e46b4c2f89792e6410605e60a08e7f0937b5b4a875bf",
+  "prev": "46f9bbb0f15d5d63b8d63c9463146fecd44133ea27fe388c85f22596ce12bfa3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "11e4908fcecc6b97e098f85317cb5b1d77cbf16bce52e1d87063f99c4d98dee6"
+}
