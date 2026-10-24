@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 351,
+  "utc": "2026-10-24T18:37:12.851Z",
+  "payload": {
+    "tick": 2848,
+    "tick_frame": "7dc1eb60e8507b31cec40df01297ea9a30981b094c6cb3adf811a2c5625dc970",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-24T18:37:12.851Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Roku developer repositories moved from GitHub to GitLab",
+          "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+          "FreeDNS"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I want my Wednesday back",
+          "Indian government sites are serving revoked eMudhra certificates",
+          "Attention people who think UB is fine"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "Clayface_(film)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e9d1d892b3e7a85d98fef75ff3abb6f87ff1ff817a39339ee016e2494559e18c",
+  "prev": "9fc989b52503798c9818cb03f19779a66306d2bd8912f5dbbf6cb15230c8740f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ab2e51fa7993a441fe3d5a810848166ccdb53fcff0600ad7ebb40cce7dbbbc89"
+}
