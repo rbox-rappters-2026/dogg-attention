@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 350,
+  "utc": "2026-10-24T15:31:20.134Z",
+  "payload": {
+    "tick": 2847,
+    "tick_frame": "4c0215509430f29d1cb118ed99132a8cc354b1ec10f1a423b39e435bcc9157a7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-24T15:31:20.134Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google illegally cut down 250K trees in Finland for data center",
+          "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+          "OBS Studio 33"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I want my Wednesday back",
+          "Indian government sites are serving revoked eMudhra certificates",
+          "Attention people who think UB is fine"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "Clayface_(film)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9fc989b52503798c9818cb03f19779a66306d2bd8912f5dbbf6cb15230c8740f",
+  "prev": "31b450ddad5ba4e75e8e8fd8b1dc7590106d2140247cb0cc95f0e0799df63f05",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "034aba9f779025710c61e962f6537b3efe29653b35375992fbb5a1940d07da78"
+}
