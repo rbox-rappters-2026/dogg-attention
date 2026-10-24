@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 349,
+  "utc": "2026-10-24T11:53:59.474Z",
+  "payload": {
+    "tick": 2846,
+    "tick_frame": "c7401284219decee6f5b71859436b910e83ec5d13daad53631997dbb9a2c2f4b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-24T11:53:59.474Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "I Don't Understand Quantum Physics (2018)",
+          "OBS Studio 33",
+          "Kimi K3.1 Pro and K3.1 Pro Highspeed"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I want my Wednesday back",
+          "Attention people who think UB is fine",
+          "Indian government sites are serving revoked eMudhra certificates"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "Clayface_(film)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "31b450ddad5ba4e75e8e8fd8b1dc7590106d2140247cb0cc95f0e0799df63f05",
+  "prev": "9ccc6ef1478b13c1f017ddaf291447028272cb430f3350249e727ebe11f5aded",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "77488eea445263f93f5f8261b331a677decdaa04ae21cfd06f266ecbcd6023ad"
+}
