@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 352,
+  "utc": "2026-10-24T21:25:34.973Z",
+  "payload": {
+    "tick": 2849,
+    "tick_frame": "97f0b6710dfe11b48d4c0eb005a6f1deabce8b01251a24af3b3ef35e8e4114f9",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-24T21:25:34.973Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "No Signs of AI Payoff Outside the Tech Sector",
+          "Steal My Bitcoin",
+          "The Goose Programming Language"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I want my Wednesday back",
+          "Indian government sites are serving revoked eMudhra certificates",
+          "Balloting has completed for C++26. Unfortunately it was Disapproved"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "Clayface_(film)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "a5ce86473f406c2ae3995d9decb56eb857e1cb70aecd2b7a92d73578d15d067e",
+  "prev": "e9d1d892b3e7a85d98fef75ff3abb6f87ff1ff817a39339ee016e2494559e18c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f300ebc2ba575feb606c3cebd38f68b0e0ac25885ca899f8427619888544cb45"
+}
