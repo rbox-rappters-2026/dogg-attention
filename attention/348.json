@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 348,
+  "utc": "2026-10-24T06:56:04.317Z",
+  "payload": {
+    "tick": 2845,
+    "tick_frame": "3b96ce2bacbff5b05f2e19be2735f677d5006be561e14769b397055349c845b1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-24T06:56:04.317Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "OBS Studio 33",
+          "Twelve years of distributed SQLite"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Attention people who think UB is fine",
+          "The glorious @xkcdRandom Zig builtin",
+          "Software is slow because of bad design, not slow languages"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "Clayface_(film)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9ccc6ef1478b13c1f017ddaf291447028272cb430f3350249e727ebe11f5aded",
+  "prev": "399ea4a869470d348f57f03c5688daa25b06aef24183cfad23bc237d18b5d175",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "71feb1265aa1664fb6555041a68ef565ea58160a0f526b897c6525c53bd5399a"
+}
