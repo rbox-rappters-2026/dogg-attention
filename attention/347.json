@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 347,
+  "utc": "2026-10-24T01:49:49.562Z",
+  "payload": {
+    "tick": 2844,
+    "tick_frame": "b7c1d20aace5ce371511bd1906142826a90e1682830a138751f585cce80de272",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-24T01:49:49.562Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "Evolving Threat: http2shell is an RCE in node, Python, and more",
+          "Apple Music 404 Not Found"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The glorious @xkcdRandom Zig builtin",
+          "Software is slow because of bad design, not slow languages",
+          "Attention people who think UB is fine"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "399ea4a869470d348f57f03c5688daa25b06aef24183cfad23bc237d18b5d175",
+  "prev": "43f5252bbaf6e6741d47dff267e83b29982c9606c559c5d63ead2517b80b405d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bcd71bfc1a909694fe424744271bc4427109435f63660e5418cf9f3163c80bca"
+}
