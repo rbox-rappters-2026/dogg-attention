@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 353,
+  "utc": "2026-10-24T23:32:57.649Z",
+  "payload": {
+    "tick": 2850,
+    "tick_frame": "68aa386fae26f2e5b188ed3c95a55d445b7087e8d9f34f5ab3903d70b499af6f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-24T23:32:57.649Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: Steal My Bitcoin",
+          "We should be more ambitious with the software we build",
+          "The Goose Programming Language"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I want my Wednesday back",
+          "Balloting has completed for C++26. Unfortunately it was Disapproved",
+          "Bringing uv and ty together"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Tom_Skerritt",
+          "Clayface_(film)",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5f58673914f0248a862ef0fcaaad435bea4979c49e7fdbc019a63fd401a2e58b",
+  "prev": "a5ce86473f406c2ae3995d9decb56eb857e1cb70aecd2b7a92d73578d15d067e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "55f3c6703bd04154840071096e035a5926c3c68018cf22eb8bf371ab838d7909"
+}
