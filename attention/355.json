@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 355,
+  "utc": "2026-10-25T08:59:10.551Z",
+  "payload": {
+    "tick": 2853,
+    "tick_frame": "b0c4b5a867d961018e219b6f5ae396a0ba6a29705d4a7abd5ab02704f05c80ec",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-25T08:59:10.551Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "We should be more ambitious with the software we build",
+          "Cerebras Deploys Trillion-Parameter AI Models",
+          "How Japanese Dried Bonito Is Made"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I want my Wednesday back",
+          "Balloting has completed for C++26. Unfortunately it was Disapproved",
+          "We should be more ambitious with the software we build"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Clayface_(film)",
+          "UFC_333",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "02f54b3ee7afff10221819bcfea001a195486eeff91d1ea298872a1a36110353",
+  "prev": "09a6dc9d455bed299df9ae8d9f6cb20eb0fe4443390f42dc36a438954bc39877",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "84daa0b9a0c6422936515ca5b516fc8df7057267b2e39b42e1428e004944d75e"
+}
