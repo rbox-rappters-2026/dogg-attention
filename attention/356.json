@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 356,
+  "utc": "2026-10-25T13:40:18.297Z",
+  "payload": {
+    "tick": 2854,
+    "tick_frame": "af2f1a7e1a62ab4e835969691e94e2a9b4b0de43bc9d613b77625217ee76f8d3",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-25T13:40:18.297Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+          "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+          "Tool book of a Nuremberg knight from 1505"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I want my Wednesday back",
+          "Balloting has completed for C++26. Unfortunately it was Disapproved",
+          "We should be more ambitious with the software we build"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Clayface_(film)",
+          "UFC_333",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ff847026f63aeb527a73294c61be120ec0ab2bebb814b52a597f418d6dbf1fdf",
+  "prev": "02f54b3ee7afff10221819bcfea001a195486eeff91d1ea298872a1a36110353",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1864133c8a0434017d3b94a7171d59dd4ed85c55c846cdccb44ddd8ab1337b87"
+}
