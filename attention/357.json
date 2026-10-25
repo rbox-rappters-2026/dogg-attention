@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 357,
+  "utc": "2026-10-25T17:27:12.114Z",
+  "payload": {
+    "tick": 2855,
+    "tick_frame": "2457090c8efc82325dcaede7288f36fc81df3d41327a73cdc554b3532d1a8db7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-25T17:27:12.114Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+          "Sabre Wulf Remastered",
+          "We should be more ambitious with the software we build"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "The Slurptop: A home-built luggable that runs on power tool batteries",
+          "POSIX wordexp(3) is dangerous",
+          "Vim Classic"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Clayface_(film)",
+          "UFC_333",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2bf2131f2606a65bfb33342a117878525a07c1d67a1462ec9bf70a1b9787d685",
+  "prev": "ff847026f63aeb527a73294c61be120ec0ab2bebb814b52a597f418d6dbf1fdf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9d0f111f0cc15da0a666006a2e8c9ea31c33a6bcdc4d3b6779a17de749eb09b0"
+}
