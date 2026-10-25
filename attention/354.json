@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 354,
+  "utc": "2026-10-25T03:36:02.713Z",
+  "payload": {
+    "tick": 2852,
+    "tick_frame": "354597968e10177da614aabe00e3dbbf8ff3f1942fbe6e96728b70e9cc86c0a9",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-25T03:36:02.713Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Xbox Turns Down Netflix $500M Offer",
+          "We should be more ambitious with the software we build",
+          "Cerebras Deploys Trillion-Parameter AI Models"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "I want my Wednesday back",
+          "Balloting has completed for C++26. Unfortunately it was Disapproved",
+          "Bringing uv and ty together"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Clayface_(film)",
+          "UFC_333",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "09a6dc9d455bed299df9ae8d9f6cb20eb0fe4443390f42dc36a438954bc39877",
+  "prev": "5f58673914f0248a862ef0fcaaad435bea4979c49e7fdbc019a63fd401a2e58b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f70599d72702f5966672543c93ac0ae36b5340cad3c217c640f9b1551cca7d18"
+}
