@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 358,
+  "utc": "2026-10-25T19:53:44.995Z",
+  "payload": {
+    "tick": 2856,
+    "tick_frame": "449440127609bf6a8797c06002054782c2c484b4fae589339aadca76bf51a95d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-25T19:53:44.995Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Dolly Parton's Imagination Library",
+          "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "POSIX wordexp(3) is dangerous",
+          "The Slurptop: A home-built luggable that runs on power tool batteries",
+          "Vim Classic"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Clayface_(film)",
+          "UFC_333",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7c10cc3c575300510c175222b6a5c58e80a9606a7342069f3addd5827616a45d",
+  "prev": "2bf2131f2606a65bfb33342a117878525a07c1d67a1462ec9bf70a1b9787d685",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3e1c54b9dc46e7ee9e113c29108a16b3ea6b68375ccaaf8147db550ce26db575"
+}
