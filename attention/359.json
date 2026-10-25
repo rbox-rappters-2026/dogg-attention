@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 359,
+  "utc": "2026-10-25T22:20:54.079Z",
+  "payload": {
+    "tick": 2857,
+    "tick_frame": "8260c3cdf4f7c78820a9f44269ab28899344a1dca435bb4fe254598d78954d66",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-25T22:20:54.079Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Dolly Parton's Imagination Library",
+          "What goes into making an animated film?",
+          "Why I Am a Programmer"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "POSIX wordexp(3) is dangerous",
+          "The Slurptop: A home-built luggable that runs on power tool batteries",
+          "Vim Classic"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Clayface_(film)",
+          "UFC_333",
+          "Jailer_2",
+          "Elizabeth_Holmes"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "61ff3383ef3d99cc65dd2fb3adabfeb0fedf2d678ba8b6bf14eff49c9fda1776",
+  "prev": "7c10cc3c575300510c175222b6a5c58e80a9606a7342069f3addd5827616a45d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "62a18a4ecae8d300acf6139726c250ef4b6a9186aa5539845bf6fcd2c6bf62d3"
+}
