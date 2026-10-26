@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 362,
+  "utc": "2026-10-26T12:24:48.884Z",
+  "payload": {
+    "tick": 2860,
+    "tick_frame": "9de8b9c467dd8a4967303f4312d178cfb5dc2d44d79c1f1240515aa76e61f894",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-26T12:24:48.884Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Switzerland. Block by block. At 1:1 scale",
+          "Websites Should Be Printable",
+          "Birdwatching rewires the brain and slows cognitive decline"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "POSIX wordexp(3) is dangerous",
+          "Simple NetBSD webserver",
+          "The Slurptop: A home-built luggable that runs on power tool batteries"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Google_Chrome",
+          "Satish_Shah",
+          "Ed_Gein",
+          "UFC_321",
+          "Wikipedia:Featured_pictures"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2cb3b4614d41ca0b1237c152bfc65780a62902cf3b83cbe7835963a05a205c28",
+  "prev": "07583030caf55c06b43fe54618c25592dc5cc8d4163abbfe8e0554f6dcb4fd58",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8b4db70de6371e1d2e9156302df500eb2461ab826de183e7a12547f55f39e5f8"
+}
