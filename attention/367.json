@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 367,
+  "utc": "2026-10-27T14:49:11.695Z",
+  "payload": {
+    "tick": 2865,
+    "tick_frame": "a3d925d9977f741cb17b7ec990e9db8b92785310da468a1999df7e4306aef88a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-27T14:49:11.695Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "PHP2Shell: Exploitation Attempts and Remediation Trends",
+          "Python's experimental JIT to be removed",
+          "Giving chat feedback gives Anthropic your data"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Shitty Screenshare",
+          "Python's experimental JIT to be removed",
+          "The Exponential Time Hypothesis Is False [pdf]"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Eric_Bauza",
+          "2026_Ballon_d'Or",
+          "2026_Brazilian_general_election",
+          "Luiz_Inácio_Lula_da_Silva"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "521798c5722e473619a1f78d0f0eddca65cf5a3fccdada66500bf915338ceea4",
+  "prev": "15120576e9bba1f6a15c607a25fbcd09fd8cb57272f6850b834fb185c553a35f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f0d0ebb23eabdb591828e14746af99314d0e00313fe74c7dc4158eb15ed75a71"
+}
