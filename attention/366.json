@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 366,
+  "utc": "2026-10-27T08:14:33.266Z",
+  "payload": {
+    "tick": 2864,
+    "tick_frame": "b008111be239788bcfa45cee6698bd9fd5f9e01587bb54ec890e71894ab31c8a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-27T08:14:33.266Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Mythical Man-Month in the Age of AI",
+          "Three new discoveries in mathematics, computer science, and physics",
+          "The Exponential Time Hypothesis Is False [pdf]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Shitty Screenshare",
+          "CSS-Tricks has a new owner",
+          "Websites Should Be Printable"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Eric_Bauza",
+          "2026_Ballon_d'Or",
+          "2026_Brazilian_general_election",
+          "Luiz_Inácio_Lula_da_Silva"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "15120576e9bba1f6a15c607a25fbcd09fd8cb57272f6850b834fb185c553a35f",
+  "prev": "b30bd680ac345c18bb2893cb2657990d6834611ad49e0b89ceecd0c31b40da3d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3b890a01429ef64eefcbe1eab404f1158120d2c12279a4dcf68ed66826a5954b"
+}
