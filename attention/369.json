@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 369,
+  "utc": "2026-10-27T23:34:29.160Z",
+  "payload": {
+    "tick": 2867,
+    "tick_frame": "61de5ec670867f3046833588f6cc1f4733af4856b8406a06b57043bdd54a929e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-27T23:34:29.160Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Genie 4",
+          "Ghostty 1.4",
+          "Tailscale SSH: Investigation and remediation update"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A fast and secure tar parser for the Rust ecosystem",
+          "Four Months of Zig",
+          "Python's experimental JIT to be removed"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Eric_Bauza",
+          "2026_Ballon_d'Or",
+          "2026_Brazilian_general_election",
+          "Luiz_Inácio_Lula_da_Silva"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "dbaf86f4f7f6c9bb188a32a06f3826e64b01fe61c8cb06f1baf870697d7196f5",
+  "prev": "ad2c93497dc3a0a584785121e56e4de5b331d74784c03bdefef4b6f7223c6e9e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "820c8b2d6d82c1ab676b593cac495862aa50140d91a3c16f796736008c2a1079"
+}
