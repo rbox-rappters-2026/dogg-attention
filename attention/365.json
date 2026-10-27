@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 365,
+  "utc": "2026-10-27T02:19:24.958Z",
+  "payload": {
+    "tick": 2863,
+    "tick_frame": "7f62db3c8c42f0b3d5638d64c3b0d824a924d6e7346c82084b3d684e22cf5da6",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-27T02:19:24.958Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Three new discoveries in mathematics, computer science, and physics",
+          "The Exponential Time Hypothesis Is False [pdf]",
+          "Sebastian Raschka's from-scratch video course on building reasoning models"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Websites Should Be Printable",
+          "A faster way to compute signed 64-bit floor division by constants",
+          "Why is it so expensive to send an email?"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "b30bd680ac345c18bb2893cb2657990d6834611ad49e0b89ceecd0c31b40da3d",
+  "prev": "9777939ee131f4c25bb803f428a7a01a0409d8b8b1347438a6f550c8c166d440",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9b25b9da5411f65a31a2f9209924e4ad20f8c9c3f90dac420c13db9d638e894c"
+}
