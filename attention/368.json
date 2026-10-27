@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 368,
+  "utc": "2026-10-27T19:51:55.984Z",
+  "payload": {
+    "tick": 2866,
+    "tick_frame": "5c135eb55e5e7093cdfd89829106519630734601ae356e7ece0b4148515758c4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-27T19:51:55.984Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Genie 4",
+          "Ghostty 1.4.0",
+          "New 14‑inch MacBook Pro with M6"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Python's experimental JIT to be removed",
+          "Shitty Screenshare",
+          "A fast and secure tar parser for the Rust ecosystem"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Eric_Bauza",
+          "2026_Ballon_d'Or",
+          "2026_Brazilian_general_election",
+          "Luiz_Inácio_Lula_da_Silva"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ad2c93497dc3a0a584785121e56e4de5b331d74784c03bdefef4b6f7223c6e9e",
+  "prev": "521798c5722e473619a1f78d0f0eddca65cf5a3fccdada66500bf915338ceea4",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "783e185f92e6178ef53d03c9e980025b40446108d359ea35a09ef306d6f25cb5"
+}
