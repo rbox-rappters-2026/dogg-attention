@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 370,
+  "utc": "2026-10-28T04:29:18.939Z",
+  "payload": {
+    "tick": 2868,
+    "tick_frame": "1fd7648b5f0d38584877cfdf6d8b734c68914129d9c78bbd827ce7b9b1242a51",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-28T04:29:18.939Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Git for US Legislation",
+          "Genie 4",
+          "Ink droplets in motion snag top prize in Nikon Small World contest"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A fast and secure tar parser for the Rust ecosystem",
+          "Four Months of Zig",
+          "Python's experimental JIT to be removed"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "2026_Israeli_legislative_election",
+          ".xxx",
+          "Harry_Kane",
+          "Susan_Saint_James"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "569418ab156c25c217d388fc40b2883640026deb7e98b9d5bf4141a9d08b8285",
+  "prev": "dbaf86f4f7f6c9bb188a32a06f3826e64b01fe61c8cb06f1baf870697d7196f5",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "79981a2991604c3527774d2a50800b38b7a04a6ac25c070f636e897661aae114"
+}
