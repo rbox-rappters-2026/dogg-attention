@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 371,
+  "utc": "2026-10-28T10:46:05.267Z",
+  "payload": {
+    "tick": 2869,
+    "tick_frame": "94ba772514f19e44219a4833a8a31d26c899943352807dcc7502eefb2b8b57be",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-28T10:46:05.267Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Start Doing Graph Theory",
+          "Wealth Inequality in America drawn to scale",
+          "Git for the US Code"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "This is not sustainable",
+          "A fast and secure tar parser for the Rust ecosystem",
+          "Four Months of Zig"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "2026_Israeli_legislative_election",
+          ".xxx",
+          "Harry_Kane",
+          "Susan_Saint_James"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7ba1dc510109c6c685c65f054b71adac8ed508550b140ea7c5eb7ec74bd5456b",
+  "prev": "569418ab156c25c217d388fc40b2883640026deb7e98b9d5bf4141a9d08b8285",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "cc57294361b88ca457fd29260ebee5735a91e6a289a17371073d3f79f056f9f9"
+}
