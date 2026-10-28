@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 373,
+  "utc": "2026-10-28T21:50:22.995Z",
+  "payload": {
+    "tick": 2871,
+    "tick_frame": "dcd9e6d3d3a8304d79afc06a692e3b340d52e92659b200d5ef5b2815ebde025a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-28T21:50:22.994Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Why is this fingerprinting script creating bioweapons?",
+          "Formlabs Studio 1 $699 Resin Printer",
+          "Gemini 4 Carbon"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Apple's git still trusts the compromised eMudhra certificates",
+          "AlpineBSD",
+          "This is not sustainable"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "2026_Israeli_legislative_election",
+          ".xxx",
+          "Harry_Kane",
+          "Susan_Saint_James"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3b983fdccdca1b22a21af20c10649cbea92f9f1ad3a936c22729e904508516ab",
+  "prev": "6ecd0bfc9a825f6ccbe8b8e6a43275ababe8090f3c77c6eed3318b5973439a41",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "420306ddc33ab8ea21721eb166cce618ec92bea2098100b5f8c8c9e58994d583"
+}
