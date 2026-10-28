@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 372,
+  "utc": "2026-10-28T17:01:14.065Z",
+  "payload": {
+    "tick": 2870,
+    "tick_frame": "7a86df7d47fdd304c593ac79d897484e45c7e5f44ba2829a035364501ba7e38c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-28T17:01:14.065Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+          "CNC Stone Carving",
+          "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Apple's git still trusts the compromised eMudhra certificates",
+          "AlpineBSD",
+          "This is not sustainable"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "2026_Israeli_legislative_election",
+          ".xxx",
+          "Harry_Kane",
+          "Susan_Saint_James"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6ecd0bfc9a825f6ccbe8b8e6a43275ababe8090f3c77c6eed3318b5973439a41",
+  "prev": "7ba1dc510109c6c685c65f054b71adac8ed508550b140ea7c5eb7ec74bd5456b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c8f9176f6035b31ab98f7448525aad491855511afdc388996f7c1b701efc7f16"
+}
