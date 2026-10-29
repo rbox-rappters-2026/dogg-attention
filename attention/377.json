@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 377,
+  "utc": "2026-10-29T20:28:00.041Z",
+  "payload": {
+    "tick": 2876,
+    "tick_frame": "ed8141565c1ea1b7cc4129e4be1e8fde85308b990c5450d898ef8557c365c57e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-29T20:28:00.041Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Patrick Stewart has died",
+          "We're releasing the weights of Mistral Large 4",
+          "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What the fox say?",
+          "NetBSD adds a new Emacs-like text editor called atto",
+          "Shared password manager for families?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "2026_Israeli_legislative_election",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "Susan_Saint_James",
+          "Gadi_Eisenkot"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "cc4793fd9c7956812c52780781e83f29da9f26a74ca2b08718f6b2cab3b3fc4c",
+  "prev": "b54b857ba5a0f9108e4503d16937591fc73e858e4432b2fe9313439ce1208e56",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4dc521f631d365a5907a6914f1a2974f51ecb54b7b2f9b7583329a109d51bbb8"
+}
