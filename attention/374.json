@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 374,
+  "utc": "2026-10-29T01:36:38.626Z",
+  "payload": {
+    "tick": 2872,
+    "tick_frame": "6b99ce53b3cd04611d1887633c12fa0242dc03133f7d92c4db21cfd7e57fcfda",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-29T01:36:38.626Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+          "Why is this fingerprinting script creating bioweapons?",
+          "New York Times adds more AI features to its Cooking app. Users aren't thrilled"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Apple's git still trusts the compromised eMudhra certificates",
+          "AlpineBSD",
+          "This is not sustainable"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "bd6e5ba0785ff703209fb74fbe14404412e4bcb06f210f6c9228e25029cd8f65",
+  "prev": "3b983fdccdca1b22a21af20c10649cbea92f9f1ad3a936c22729e904508516ab",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4210014fa9289ca54c02e5d94286611be4eca3de67a323b0dc89c9c4cae7c23d"
+}
