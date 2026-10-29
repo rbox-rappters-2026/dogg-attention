@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 375,
+  "utc": "2026-10-29T08:08:32.335Z",
+  "payload": {
+    "tick": 2873,
+    "tick_frame": "e800938ed9216bb1824d62a1c07e974b0074d6105235914cf8876ec7f09b7fca",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-29T08:08:32.335Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+          "We Won't \"Just Hang Out\"",
+          "Why is this fingerprinting script creating bioweapons?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Apple's git still trusts the compromised eMudhra certificates",
+          "GitLab security incident: attempted exploitation of CVE-2026-97229",
+          "EMACS turns 50"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "2026_Israeli_legislative_election",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "Susan_Saint_James",
+          "Gadi_Eisenkot"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "14f99ccbae11bb54c326700bc0e1be9a95b487333a86189e4896e5356c3d7f98",
+  "prev": "bd6e5ba0785ff703209fb74fbe14404412e4bcb06f210f6c9228e25029cd8f65",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8ced6074bb37c94fe11fbde49b1e627af69a034c0f143eea594d67daaf00b40f"
+}
