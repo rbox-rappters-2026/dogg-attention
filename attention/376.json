@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 376,
+  "utc": "2026-10-29T15:25:58.898Z",
+  "payload": {
+    "tick": 2875,
+    "tick_frame": "d3373d5a164d183956f3f5fb51fac049f9b6ca8204ba156fc01e2789f6eef422",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-29T15:25:58.898Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Mistral Large 4 (Le Chonk) is now Open Weight",
+          "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+          "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What the fox say?",
+          "NetBSD adds a new Emacs-like text editor called atto",
+          "Apple's git still trusts the compromised eMudhra certificates"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "2026_Israeli_legislative_election",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "Susan_Saint_James",
+          "Gadi_Eisenkot"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b54b857ba5a0f9108e4503d16937591fc73e858e4432b2fe9313439ce1208e56",
+  "prev": "14f99ccbae11bb54c326700bc0e1be9a95b487333a86189e4896e5356c3d7f98",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "eed1a449f01067c968fe204da222c243d400ae283e81d3921a6bf1e4a7d42b5a"
+}
