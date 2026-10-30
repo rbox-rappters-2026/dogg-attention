@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 380,
+  "utc": "2026-10-30T13:21:08.531Z",
+  "payload": {
+    "tick": 2879,
+    "tick_frame": "810fb6340b1946f80e776d11853c4e1dc89e645b516299fd0ae3cda47f7094fe",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-30T13:21:08.531Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "elect.horse",
+          "Backdoors in official Claude Code extensions",
+          "Azure's Weakest Link – Five Full Cross-Tenant Compromises"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Backdoors in Claude Code for VS, Cursor official extensions",
+          "Do At-Proto Users Know This Is Public?",
+          "How curl was accidentally Turing-complete for nine months"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Patrick_Stewart",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "2026_Israeli_legislative_election",
+          "Sunny_Ozell"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ad0a857286c37576a03086f8853d9a1440763cb35ae269124dd05e7e24bf39f6",
+  "prev": "9881e2d99d0ed6937dd4253ae81940e8cd1e91448ce9fb7c8392a74ab75ae283",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "06d573672cbda3e0a1c412ee022716498c6fd25e72b5eda73217b24a4cf0f356"
+}
