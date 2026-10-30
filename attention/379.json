@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 379,
+  "utc": "2026-10-30T06:14:42.984Z",
+  "payload": {
+    "tick": 2878,
+    "tick_frame": "2e43b3fee249ff567956a72a942277cad493d3602882dd690b26bc934a296f3b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-30T06:14:42.984Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Binance-hacker-1029 – $5.6B stolen from Binance",
+          "We're releasing the weights of Mistral Large 4",
+          "Cuis: The Modern Smalltalk-80"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "London meetup",
+          "NetBSD adds a new Emacs-like text editor called atto",
+          "What the fox say?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Patrick_Stewart",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "2026_Israeli_legislative_election",
+          "Sunny_Ozell"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9881e2d99d0ed6937dd4253ae81940e8cd1e91448ce9fb7c8392a74ab75ae283",
+  "prev": "43339c01f34f753a939141ab3fe0211103b26719598256276bd29c7a34c2d413",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ebbd7beecbae44e9cc9f7bbcab44bae50181178c240905c18dce5c79b86be0a2"
+}
