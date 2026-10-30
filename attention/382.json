@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 382,
+  "utc": "2026-10-30T22:48:48.447Z",
+  "payload": {
+    "tick": 2881,
+    "tick_frame": "336f4d2a668884466ce3b3ea9a568e9edf3d5811dff0337d7eb7666bc3439b5f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-30T22:48:48.447Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Linode Security Incident",
+          "Bunny CDN Security Incident",
+          "My favourite PowerMac is a Nintendo Wii"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Backdoors in Claude Code for VS, Cursor official extensions",
+          "Do At-Proto Users Know This Is Public?",
+          "No, npm, “estee” is not a typo of “testem”"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Patrick_Stewart",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "2026_Israeli_legislative_election",
+          "Sunny_Ozell"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e581ffb717d12ddd5085811a1e6bde823c05b43cd2b1d0bb334309c53c04cf8f",
+  "prev": "819e21a3054a5631ecbd03583a6e26770b3fee578c64d7647a196045e643e5d7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6a7037b349afe24b24f6ed12309d91828d72f49064133adac44803c9a164cbc0"
+}
