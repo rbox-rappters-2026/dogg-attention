@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 387,
+  "utc": "2026-10-31T22:45:06.370Z",
+  "payload": {
+    "tick": 2886,
+    "tick_frame": "df2b51c340228760413cae236687ed8b390f3cf3df54e9c8c1c0223328a6912a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-31T22:45:06.370Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "HackerTube: YouTube built from videos recommended by HN",
+          "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "With 86% of the words, you might understand only 38% of an anime's lines"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Jepsen: ParticleDB 1.1.4",
+          "The Kluever Maneuver",
+          "Avoid Public Functions Calling Other Public Functions"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Patrick_Stewart",
+          "Wikipedia:Featured_pictures",
+          "Sunny_Ozell",
+          ".xxx",
+          "Ian_McKellen"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "660216f1bfb1a0c6a02b97b332da5b535e919ba0bdc124ca7a6ef81235113f6c",
+  "prev": "bd92aa447d53d29240c33590f3bfa0fd22162c052dda572047198a934239cb5b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "492d8290bbcedfb03c5553f8fdca9c7e7ae9b55220c67abe70b88597d6d2d582"
+}
