@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 384,
+  "utc": "2026-10-31T08:41:29.540Z",
+  "payload": {
+    "tick": 2883,
+    "tick_frame": "e68d2e3f65a9c19dc7437682bf9bdf33da617153ee4be621db51c9e89b3dc99d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-31T08:41:29.540Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Switch Lowering in GCC",
+          "My favourite PowerMac is a Nintendo Wii",
+          "Cloudflare Turnstile solver library (no headless browser required)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Backdoors in Claude Code for VS, Cursor official extensions",
+          "Do At-Proto Users Know This Is Public?",
+          "No, npm, “estee” is not a typo of “testem”"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Patrick_Stewart",
+          "Wikipedia:Featured_pictures",
+          "Sunny_Ozell",
+          ".xxx",
+          "Ian_McKellen"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ade4b9853efa004cd629bc42770d4dfb111a92e50e271fe073d4a44e9f0fbba1",
+  "prev": "de2ea267a4d3fcf1f369065af02f08922d983f10504a2f55ffccec4bfecd3498",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "eb5cc83a14dfef8de74ccf5674e36046ad1a3d23c831ab4b9b0181ca97f8841d"
+}
