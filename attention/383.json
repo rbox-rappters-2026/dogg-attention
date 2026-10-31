@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 383,
+  "utc": "2026-10-31T02:04:01.236Z",
+  "payload": {
+    "tick": 2882,
+    "tick_frame": "e04625a3b1d047c0606d10341411923841f8fa37cf4e45ee4615efcc48a79631",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-31T02:04:01.236Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+          "Cloudflare Turnstile solver library (no headless browser required)",
+          "My favourite PowerMac is a Nintendo Wii"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Backdoors in Claude Code for VS, Cursor official extensions",
+          "Do At-Proto Users Know This Is Public?",
+          "No, npm, “estee” is not a typo of “testem”"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "de2ea267a4d3fcf1f369065af02f08922d983f10504a2f55ffccec4bfecd3498",
+  "prev": "e581ffb717d12ddd5085811a1e6bde823c05b43cd2b1d0bb334309c53c04cf8f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "10b3d421b423304a80115cbf073e426f66a067a7bff0138116d336db394d4955"
+}
