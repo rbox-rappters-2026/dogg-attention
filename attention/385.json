@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 385,
+  "utc": "2026-10-31T15:07:46.835Z",
+  "payload": {
+    "tick": 2884,
+    "tick_frame": "380327eb0b2d12bc2b5940d3d0234d244045fc3dc8c57f853cc376cf75f8af94",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-31T15:07:46.835Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+          "We Took over ChatGPT Accounts",
+          "Switch Lowering in GCC"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Backdoors in Claude Code for VS, Cursor official extensions",
+          "Jepsen: ParticleDB 1.1.4",
+          "How hard is it to check for whitespace?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Patrick_Stewart",
+          "Wikipedia:Featured_pictures",
+          "Sunny_Ozell",
+          ".xxx",
+          "Ian_McKellen"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c2e9c248eaba5e5cfed48a9b1a743c46a4b7fa68241a74349b6e39e578201a33",
+  "prev": "ade4b9853efa004cd629bc42770d4dfb111a92e50e271fe073d4a44e9f0fbba1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "35a211bba51efc6c8eda890659e73dab7abd095db623ace99a9cb10253a1b188"
+}
