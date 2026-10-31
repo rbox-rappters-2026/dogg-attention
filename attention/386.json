@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 386,
+  "utc": "2026-10-31T19:27:57.501Z",
+  "payload": {
+    "tick": 2885,
+    "tick_frame": "1b5397efd86d188a3c86ac019cb20168101c508f15e563ea4ad1e233f7330f80",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-10-31T19:27:57.501Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Duty of a Scholar",
+          "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "Molly (Signal fork) has not been updated since 3 months and is vulnerable"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Jepsen: ParticleDB 1.1.4",
+          "The Kluever Maneuver",
+          "The support case of a customer who said that all they could see was a black screen"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Patrick_Stewart",
+          "Wikipedia:Featured_pictures",
+          "Sunny_Ozell",
+          ".xxx",
+          "Ian_McKellen"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "bd92aa447d53d29240c33590f3bfa0fd22162c052dda572047198a934239cb5b",
+  "prev": "c2e9c248eaba5e5cfed48a9b1a743c46a4b7fa68241a74349b6e39e578201a33",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f9b4a4ed26fb8239eda6b19b5aa13bf396cc4eca34da1ea09c3b05859c851925"
+}
