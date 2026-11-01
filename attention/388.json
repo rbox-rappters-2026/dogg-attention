@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 388,
+  "utc": "2026-11-01T01:55:27.563Z",
+  "payload": {
+    "tick": 2887,
+    "tick_frame": "62b82612692afe10aced6ce1a296f0797a53cf08d85d712e8adc5c50ffac30f1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-01T01:55:27.563Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "HackerTube: YouTube built from videos recommended by HN",
+          "An Italian farmer found some unknown seeds in his attic and planted them",
+          "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Jepsen: ParticleDB 1.1.4",
+          "The Kluever Maneuver",
+          "Avoid Public Functions Calling Other Public Functions"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "d46f87c45bad4c8e1824302168f48a5509e6ce5c3f13e5670c083c3a714da0da",
+  "prev": "660216f1bfb1a0c6a02b97b332da5b535e919ba0bdc124ca7a6ef81235113f6c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "aa6306faa7b654132313a26a2144255da6037d2700d0650868e24764ab6b1748"
+}
