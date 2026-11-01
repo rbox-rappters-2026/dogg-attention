@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 392,
+  "utc": "2026-11-01T23:46:31.390Z",
+  "payload": {
+    "tick": 2891,
+    "tick_frame": "2d0d92b88823c9d2933fc7b3883ab6b6cb1cb23b46a7143b4413ae3f50e8ecb1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-01T23:46:31.390Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "U.S. workers took home their smallest share of capital since at least 1947",
+          "HackerTube: YouTube built from videos recommended by HN"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "An outsider's perspective on Scion and Mononoke",
+          "Pratt parsing is a black box",
+          "Introducing Kwi, a new KDE terminal emulator"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "874c0575a7d4e4a5a0134872ccf6578233cf2d51e69cfe7f5579e2b2a076f378",
+  "prev": "daddd42c7b981059058bd1668492b578f7f1f32a1f641450aac6c7dcfc94470b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "7df4b44ece7455f32f339a27666dc71b6014cf5225acb480a809eec251e668e7"
+}
