@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 389,
+  "utc": "2026-11-01T08:51:57.555Z",
+  "payload": {
+    "tick": 2888,
+    "tick_frame": "b15902b077966b842bff61298e9233aea26943cdf2797351c6c93a5cb14447da",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-01T08:51:57.555Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "HackerTube: YouTube built from videos recommended by HN",
+          "An Italian farmer found some unknown seeds in his attic and planted them",
+          "The AI cost of JavaScript frameworks"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Jepsen: ParticleDB 1.1.4",
+          "The Kluever Maneuver",
+          "Avoid Public Functions Calling Other Public Functions"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "d333c3c3b6b472dd561862711d11ac32887a6a2a95218fef2e39a354a2f9c742",
+  "prev": "d46f87c45bad4c8e1824302168f48a5509e6ce5c3f13e5670c083c3a714da0da",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ba2e5d2ed349ed56bb852a07484bfdf6b3f1b0deca371d888190cc48a95103fe"
+}
