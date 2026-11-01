@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 390,
+  "utc": "2026-11-01T15:50:42.659Z",
+  "payload": {
+    "tick": 2889,
+    "tick_frame": "e5b8770889058c42337bed7988163bd9b032b5175e2583974b35dce30d2a6891",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-01T15:50:42.659Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "HackerTube: YouTube built from videos recommended by HN",
+          "Novellas with Groff",
+          "Proving and Improving the Platonic Representation Hypothesis with JEPAs"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Jepsen: ParticleDB 1.1.4",
+          "Introducing Kwi, a new KDE terminal emulator",
+          "Mystery of 60-Second Fluctuations in Power Grids Solved"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "90af03c7ff6c65568b4634a2899b4e02292bd3077209faeaa0c41087648dae0e",
+  "prev": "d333c3c3b6b472dd561862711d11ac32887a6a2a95218fef2e39a354a2f9c742",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "40b2f5f5869b77349a2a24bc35f6bfcbee16e7716c87ea02dada8ca2f4f2b29f"
+}
