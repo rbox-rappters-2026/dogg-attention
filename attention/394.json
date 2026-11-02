@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 394,
+  "utc": "2026-11-02T13:11:21.405Z",
+  "payload": {
+    "tick": 2894,
+    "tick_frame": "e0b50da3f7bbe4bb494e6ff1741a9fca2433c47bde08789ab0d3466df3acb07b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-02T13:11:21.405Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "Postgres 19 is late because so many more bugs are being found now",
+          "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "An outsider's perspective on Scion and Mononoke",
+          "Postgres 19 is late, and it's AI's fault",
+          "Work on GEFS (the Good Enough File System) for OpenBSD progresses"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "404.php",
+          "H._Jon_Benjamin",
+          "Special:CreateAccount",
+          "AMGTV",
+          "Special:Book"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "4783a961703c46077af9942c2736c50d65cae7a0fef717e1d04006166fb4c0e2",
+  "prev": "5a98fc1634d9e0d310fbb7f21699d22f18fff247d6dda6503a77d19c1b4f3515",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c541881c238718fdbe11a9c800b11fd7234508bb830ed583697faf3120a084bb"
+}
