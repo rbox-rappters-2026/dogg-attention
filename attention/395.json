@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 395,
+  "utc": "2026-11-02T22:25:36.018Z",
+  "payload": {
+    "tick": 2895,
+    "tick_frame": "371cd84e44bf8b882a9d5cf6860927facb3452a6f89e8fc49dfc1076faccb4cd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-02T22:25:36.018Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Astra can read and write weights to improve Qwen",
+          "Show HN: Subvocal – Talk to your computer without making noise",
+          "US boy names that became girl names and vice versa"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Jailbreaking my car's navigation system just so I can change the time",
+          "An outsider's perspective on Scion and Mononoke",
+          "Polyend releases the Tracker firmware source code"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "404.php",
+          "H._Jon_Benjamin",
+          "Special:CreateAccount",
+          "AMGTV",
+          "Special:Book"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "214cfed9851184c56c652cfd448982e3ce8cdcce78bcb1cec88daad1cb6dca2b",
+  "prev": "4783a961703c46077af9942c2736c50d65cae7a0fef717e1d04006166fb4c0e2",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "23dc21da506f4af712faa5901ca79089e95e26b9b658d5692397e3e685e054bc"
+}
