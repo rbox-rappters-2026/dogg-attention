@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 393,
+  "utc": "2026-11-02T04:51:06.238Z",
+  "payload": {
+    "tick": 2893,
+    "tick_frame": "5281c3bb7bcfef06ba97dda8949cd1028b4de0bf19a4ca4d19f376c8ff979f74",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-02T04:51:06.238Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+          "Postgres 19 is late because so many more bugs are being found now"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "An outsider's perspective on Scion and Mononoke",
+          "Pratt parsing is a black box",
+          "Introducing Kwi, a new KDE terminal emulator"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "404.php",
+          "H._Jon_Benjamin",
+          "Special:CreateAccount",
+          "AMGTV",
+          "Special:Book"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5a98fc1634d9e0d310fbb7f21699d22f18fff247d6dda6503a77d19c1b4f3515",
+  "prev": "874c0575a7d4e4a5a0134872ccf6578233cf2d51e69cfe7f5579e2b2a076f378",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ba1bc7ff58ab49cf30a2f1b18687824dd0754bfdad1c0abcb745a69a954f8a7a"
+}
