@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 396,
+  "utc": "2026-11-03T03:37:45.289Z",
+  "payload": {
+    "tick": 2896,
+    "tick_frame": "b61db90e6eaf299f376f29e6e0dc6f3e286f59d78fac6777b07850ec0a640feb",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-03T03:37:45.288Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Astra can read and write weights to improve Qwen",
+          "Show HN: Hacker Times, a New York Times-Inspired Version Hacker News",
+          "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Jailbreaking my car's navigation system just so I can change the time",
+          "A Decade of Kill Bugs",
+          "Stop Hardcoding Your Timeouts"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Haley_Stevens",
+          "Learjet_60",
+          "Susan_Saint_James",
+          "Abdul_El-Sayed"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "755d5b079d31faba23baf0bdb501eafedaa0277ca640c0c85ac80ac552531569",
+  "prev": "214cfed9851184c56c652cfd448982e3ce8cdcce78bcb1cec88daad1cb6dca2b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9c5451f7e03552d289f698e239c81baab17163002b5e923135c5a91b9cfce52c"
+}
