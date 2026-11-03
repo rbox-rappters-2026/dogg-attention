@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 398,
+  "utc": "2026-11-03T19:11:42.496Z",
+  "payload": {
+    "tick": 2898,
+    "tick_frame": "c56287c423e888b171592b0e5bc25ebf0b95dceda97d2492fe25975b266fa2ae",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-03T19:11:42.496Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "Jailbreaking my car's navigation system just so I can change the time"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Death comes for XSLT",
+          "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+          "A Decade of Kill Bugs"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Haley_Stevens",
+          "Learjet_60",
+          "Susan_Saint_James",
+          "Abdul_El-Sayed"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9d21d299138ecd7db70d391afc9985e291008f24cb486d3215f6a0968dda42e1",
+  "prev": "80d72b01ccc3a90fdde684919b9005ba2cf02c8a99f378e725c6672863ae9a0e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "be1eedf5cc3dc07e7ee1a5f053ba092140029011ffac52ecca57e3fb5044f43e"
+}
