@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 397,
+  "utc": "2026-11-03T11:40:40.029Z",
+  "payload": {
+    "tick": 2897,
+    "tick_frame": "b00ded3310bc785930e4656637ea0c074537fe5e43af7121e046bcdf8afbba1c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-03T11:40:40.029Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Astra can read and write weights to improve Qwen",
+          "Nvidia – open-source auto-ontology",
+          "Toit v2.0.0"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A400000 Winners",
+          "New Release: Tor Browser 16.0",
+          "The software industry: annealing, but wrong"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Haley_Stevens",
+          "Learjet_60",
+          "Susan_Saint_James",
+          "Abdul_El-Sayed"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "80d72b01ccc3a90fdde684919b9005ba2cf02c8a99f378e725c6672863ae9a0e",
+  "prev": "755d5b079d31faba23baf0bdb501eafedaa0277ca640c0c85ac80ac552531569",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8611aac4d4d81f327327d786cb6949061694f70be648753daee3559fb3476cc0"
+}
