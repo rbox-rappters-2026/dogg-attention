@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 399,
+  "utc": "2026-11-04T00:06:44.978Z",
+  "payload": {
+    "tick": 2899,
+    "tick_frame": "5362c0c3147571ae14736512044d23c0d76d0189ce5f8f10174e56f71091e4d1",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-04T00:06:44.978Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+          "Safari introduces Adaptive Dark Mode in 27.3",
+          "The Internals of PostgreSQL"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Death comes for XSLT",
+          "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+          "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "1b414051bbacb77fe5126a1bb734a806a11bf5f797d88e374b5736c4fffc207b",
+  "prev": "9d21d299138ecd7db70d391afc9985e291008f24cb486d3215f6a0968dda42e1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4a2f2f4874ec229e3bbb706371f2bdfb1f70b4c7b9fd61553005cc18aa591773"
+}
