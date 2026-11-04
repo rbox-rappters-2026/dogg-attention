@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 400,
+  "utc": "2026-11-04T06:52:39.098Z",
+  "payload": {
+    "tick": 2900,
+    "tick_frame": "058c700b1fce8f22cb91c60a72618ffc52612f29d1dd410d17fd515dddbfb731",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-04T06:52:39.098Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Jelly Sheet",
+          "C++26 Disapproved",
+          "Distinct cellular and genetic differences in colorectal cancer in young patients"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Death comes for XSLT",
+          "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+          "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Jesús_de_Miguel",
+          "Wikipedia:Featured_pictures",
+          "2026_United_States_elections",
+          "Jesús_Owono",
+          "Abdul_El-Sayed"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "53421fb693c63d5479daedb949b6c796c7fabf9f728507051263dd6d4d77b960",
+  "prev": "1b414051bbacb77fe5126a1bb734a806a11bf5f797d88e374b5736c4fffc207b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8a2dbba3b0fc3bc54871de80815a8552adc07c1675a46e4356111f6db516b82a"
+}
