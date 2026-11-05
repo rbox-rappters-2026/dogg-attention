@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 403,
+  "utc": "2026-11-05T09:04:23.855Z",
+  "payload": {
+    "tick": 2903,
+    "tick_frame": "ae0c711888c4d30045510fe8bce7fd450cfc229bf12950ef3a93ae315c68f2f4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-05T09:04:23.855Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Residential proxies detected on White House network",
+          "Lemmings CSS Animation",
+          "Want to Rent an Internet Address at the White House?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "So my ISP was hijacking my DNS",
+          "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+          "Declarative Dragging"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Abdul_El-Sayed",
+          "James_Talarico",
+          "Gina_Hinojosa",
+          "2026_United_States_elections",
+          "Jon_Ossoff"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3cf82c3ac75e9e53fb427c9f48c12db7103fe551d6c5996d32e5fe386ea5e4d1",
+  "prev": "feabd6f201021cf7a82d7eaef3922bd3977330560fba6501510421351a21be96",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "78c17c2190f6135d2404bcc6d34a2721fca227e4d5e32edf6bd7258280c6f7f1"
+}
