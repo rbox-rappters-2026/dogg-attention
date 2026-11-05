@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 402,
+  "utc": "2026-11-05T01:41:56.686Z",
+  "payload": {
+    "tick": 2902,
+    "tick_frame": "c913dd4741c02450cda0a213528974ff53f2beb97bf2a612ba513451b72e0557",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-05T01:41:56.686Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Residential proxies detected on White House network",
+          "Images 2.6",
+          "A thousand fewer paths to root"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "So my ISP was hijacking my DNS",
+          "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+          "Your Cryptography Conspiracy Theory Is Wrong"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "feabd6f201021cf7a82d7eaef3922bd3977330560fba6501510421351a21be96",
+  "prev": "688090050bb2ed8dce91923c4974ce5437566f2050ec6f341bd739e294226799",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "0928f46e744903e853cc9ccab9c4fdf819807d42c73faca3f721d6eba4e115e0"
+}
