@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 404,
+  "utc": "2026-11-05T17:33:32.430Z",
+  "payload": {
+    "tick": 2904,
+    "tick_frame": "ff3943c833bfcbf8caa8aa03a6a647a383a969ec0610aa90cee7ee5a908b2041",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-05T17:33:32.430Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "sshole",
+          "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+          "Motorola Signature 27 with GrapheneOS support"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "sshhole",
+          "Declarative Dragging",
+          "September in Servo: progress, rounded rectangles, and more"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Abdul_El-Sayed",
+          "James_Talarico",
+          "Gina_Hinojosa",
+          "2026_United_States_elections",
+          "Jon_Ossoff"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6d3a321795999368a87edecff0220ab4c00683211b3dddac187922f5d6299010",
+  "prev": "3cf82c3ac75e9e53fb427c9f48c12db7103fe551d6c5996d32e5fe386ea5e4d1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "4fd2ee5d2da7a6420e13f78ce84b5638006feac8d7c71e971888a503af7f2ea1"
+}
