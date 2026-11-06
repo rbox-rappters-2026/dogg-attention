@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 408,
+  "utc": "2026-11-06T23:41:55.652Z",
+  "payload": {
+    "tick": 2909,
+    "tick_frame": "ccce6f1bc93bea00cdc0b4bc58af82b250f3d83c0e123382a999ac64293d6e75",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-06T23:41:55.652Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+          "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+          "AI is dramatically accelerating AI research"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Making musl and proprietary NVIDIA drivers work together",
+          "The MustCreate Pattern for Go Tests",
+          "Inside GitHub's new Git storage architecture"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Abdul_El-Sayed",
+          "Ramayana:_Part_1",
+          "Russell_Brand",
+          "Wikipedia:Featured_pictures",
+          "James_Talarico"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "99098102a349bdee244d9970e20a67462c3758defd4bac16e71c5090053b2b3d",
+  "prev": "9963fa32bdeb6d2d4f8153648c8652375bf8506b12523e3a03e203895729ef03",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e135ae960c665ef84d81296980eba9dbf0cc1280a80210710af5d41e905e15a8"
+}
