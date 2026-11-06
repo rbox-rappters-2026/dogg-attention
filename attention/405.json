@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 405,
+  "utc": "2026-11-06T03:33:18.049Z",
+  "payload": {
+    "tick": 2906,
+    "tick_frame": "eb68a7b760a062a25efdc9ec5b03f90be00ca4f011151ac3157c50e9fd9ab7a6",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-06T03:33:18.049Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Claude Code sends your email address to websites",
+          "sshole",
+          "MS Paint Remote Code Execution Vulnerability"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "sshhole",
+          "September in Servo: progress, rounded rectangles, and more",
+          "Software Line Specialist"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Abdul_El-Sayed",
+          "Ramayana:_Part_1",
+          "Russell_Brand",
+          "Wikipedia:Featured_pictures",
+          "James_Talarico"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "bbb5ceee73ed026ea5c78868548b865e1c3c7bf61f7692d9359cf60ac30f9322",
+  "prev": "6d3a321795999368a87edecff0220ab4c00683211b3dddac187922f5d6299010",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "941e8fc3f28b52977038f7719edbd0dac59541e491125614be50fb8d3e688f3b"
+}
