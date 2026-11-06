@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 407,
+  "utc": "2026-11-06T18:58:52.843Z",
+  "payload": {
+    "tick": 2908,
+    "tick_frame": "e51670b4eefd055d986e80ca722c91582bfce10d684b28bd2b0927ab8aab28dd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-06T18:58:52.843Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "US FAA says it will phase out floppy disks from air traffic control by 2028",
+          "Tesla to wind down Cybertruck production",
+          "First steps in bare-metal programming using UEFI"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Making musl and proprietary NVIDIA drivers work together",
+          "The MustCreate Pattern for Go Tests",
+          "What are you doing this weekend?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Abdul_El-Sayed",
+          "Ramayana:_Part_1",
+          "Russell_Brand",
+          "Wikipedia:Featured_pictures",
+          "James_Talarico"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9963fa32bdeb6d2d4f8153648c8652375bf8506b12523e3a03e203895729ef03",
+  "prev": "5094e9b04789be86f5631d5d45477101fe811dda8422a43d57a6c4b8cd7528a7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5c459e30b5e51c24bac5f545bc8e362c28259bc05edd9f93f90892714052cb8e"
+}
