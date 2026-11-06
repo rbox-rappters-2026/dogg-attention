@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 406,
+  "utc": "2026-11-06T11:52:17.232Z",
+  "payload": {
+    "tick": 2907,
+    "tick_frame": "4eab97b8b5b34880137af5deaa979b44744c46f1066a7f4c5cc890ae59274e4e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-06T11:52:17.232Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+          "Blender's UI and Runtime: Much Faster Than GPUI",
+          "Claude Code sends your email address to websites"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "sshhole",
+          "Software Line Specialist",
+          "September in Servo: progress, rounded rectangles, and more"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Abdul_El-Sayed",
+          "Ramayana:_Part_1",
+          "Russell_Brand",
+          "Wikipedia:Featured_pictures",
+          "James_Talarico"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5094e9b04789be86f5631d5d45477101fe811dda8422a43d57a6c4b8cd7528a7",
+  "prev": "bbb5ceee73ed026ea5c78868548b865e1c3c7bf61f7692d9359cf60ac30f9322",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bfe65f570732aef3a034cb3c390ee7effec27f88afe20aebf5e8ca6403c6869c"
+}
