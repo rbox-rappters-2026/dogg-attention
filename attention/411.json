@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 411,
+  "utc": "2026-11-07T17:31:30.406Z",
+  "payload": {
+    "tick": 2912,
+    "tick_frame": "e6c75e28c183dc92b79a9066e9eaefcdc283ac20ea98bfa252c69898322d9af5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-07T17:31:30.406Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "They don't make 'em like that any more: Borland Turbo Pascal 7",
+          "The $8 Linux Computer (2022)",
+          "How Long Can Life Wait?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How are you dealing with all the negative side effects of AI on the web?",
+          "Libghostty 1.0",
+          "Scriptable GeoDNS: leaving AWS for Bunny"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Russell_Brand",
+          "Abdul_El-Sayed",
+          "Stephen_Miller"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e72889b7e217e881628e6127cb440355d48ff4c247c0cee3c4ff262bc15a0f87",
+  "prev": "4b3f6939e16ca866673134b14c0246d17ef8974b52ecc1c6bd3d0e86f3cc70c1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "5aa8661d67f190307a8d7bf2a2f98c4e905dba39b04bc6b983cc1b570232c55f"
+}
