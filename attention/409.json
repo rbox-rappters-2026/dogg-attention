@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 409,
+  "utc": "2026-11-07T04:59:00.671Z",
+  "payload": {
+    "tick": 2910,
+    "tick_frame": "27838df0f82e288d3eae6fbe58ff47b226f9c6db2e25ba202c0069123a22d0a7",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-07T04:59:00.671Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Libghostty 1.0",
+          "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+          "I Toured Unitree's Factory. I'm More Bullish on the West"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Libghostty 1.0",
+          "Making musl and proprietary NVIDIA drivers work together",
+          "The MustCreate Pattern for Go Tests"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Russell_Brand",
+          "Abdul_El-Sayed",
+          "Stephen_Miller"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b3e87891fef389d29e98cba56f9826ad92216b7baf22753ce292d2ae41dd1149",
+  "prev": "99098102a349bdee244d9970e20a67462c3758defd4bac16e71c5090053b2b3d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8ae3e6f765db59cc37c27078ff8d08ac028f5fc1dc7bee878c95515b9360ad5b"
+}
