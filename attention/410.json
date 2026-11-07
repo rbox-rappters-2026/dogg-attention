@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 410,
+  "utc": "2026-11-07T11:38:10.800Z",
+  "payload": {
+    "tick": 2911,
+    "tick_frame": "9d05622be1c2c78467c229fd1de64182135779b9babc80da4a1e950d89187e27",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-07T11:38:10.799Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Upload Your RAM",
+          "Libghostty 1.0",
+          "Every Mac comes with an (undocumented) family member classifier"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Libghostty 1.0",
+          "The Port That Does Not Exist",
+          "Scriptable GeoDNS: leaving AWS for Bunny"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Russell_Brand",
+          "Abdul_El-Sayed",
+          "Stephen_Miller"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "4b3f6939e16ca866673134b14c0246d17ef8974b52ecc1c6bd3d0e86f3cc70c1",
+  "prev": "b3e87891fef389d29e98cba56f9826ad92216b7baf22753ce292d2ae41dd1149",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "3fa3820e51b3ded2f2dd163c95938fbd08697a542ecece87200c790c2b20f2c4"
+}
