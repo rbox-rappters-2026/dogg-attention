@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 417,
+  "utc": "2026-11-08T23:00:14.420Z",
+  "payload": {
+    "tick": 2919,
+    "tick_frame": "b945bcd517a30e0c1dee0596fff7358838872ab9b2af105c458d2d3ae8363f1e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-08T23:00:14.420Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+          "Nvidia CEO Jensen Huang's letter to staff about affair",
+          "Ask HN: What are you working on? (November 2026)"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "systemd loves Rust",
+          "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+          "A bit about email"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "8e55d4905e988c15737b059cf7d0896d7b4cfc53c4e32e288d0f2166cfa401d4",
+  "prev": "62154c2e144a913342a9d570f91285e4bd00ba51b4a036cecf48850f1f06fdb7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "aa2e1491226b623273005a23f6111e0206946ae2dbee9b5ea4f7f694f9eee1a8"
+}
