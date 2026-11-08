@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 414,
+  "utc": "2026-11-08T07:45:47.348Z",
+  "payload": {
+    "tick": 2916,
+    "tick_frame": "0a5920b6b1ec539532873f9253ad8a1e960b93d53efdc0036857801ec72ea8e4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-08T07:45:47.348Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Goodbye Claude, Hello Pi",
+          "What I run on my $10 USD OpenStick homelab",
+          "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "*sshole, or when are we finally going to get rid of C?",
+          "How are you dealing with all the negative side effects of AI on the web?",
+          "Meridian — an experimental web browser built on Servo and GPUI"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "248b5fe7c2e55dc2ee7510cfbd7974518c4f151b7d5d10c89ad4fd62f50163c8",
+  "prev": "f978ad5b03b68226fc3e3eb2d35ef10d59a3cf63bb97c17197a6b0b08652b8a7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "99d08537cc945042013ea55638580896b30cc324b1e98514f48b97c4eec6160e"
+}
