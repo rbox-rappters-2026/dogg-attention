@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 413,
+  "utc": "2026-11-08T01:08:25.814Z",
+  "payload": {
+    "tick": 2914,
+    "tick_frame": "fc791234a3c96fceb9b603c8d7fda26070ba26c43ed433e2fef9aad1bd48b918",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-08T01:08:25.814Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The end of Microsoft Research's AI Frontiers group",
+          "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "GitHub New pull request overview page in public preview"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "*sshole, or when are we finally going to get rid of C?",
+          "How are you dealing with all the negative side effects of AI on the web?",
+          "Meridian — an experimental web browser built on Servo and GPUI"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "f978ad5b03b68226fc3e3eb2d35ef10d59a3cf63bb97c17197a6b0b08652b8a7",
+  "prev": "ef5810cf349017d29cf6b4e1bfe36e7ceeaf88ffccfa2b6f8cc82a3234119905",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "93c2182f1f37737cd57c22c291a949674d30616aa7cb5abdf2b20fc56d4964f7"
+}
