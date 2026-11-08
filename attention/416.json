@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 416,
+  "utc": "2026-11-08T19:22:04.774Z",
+  "payload": {
+    "tick": 2918,
+    "tick_frame": "200f871063e32b73bbdbc08b94f3dac324ea846c3f9da5a4db690eae2be6af1f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-08T19:22:04.774Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "The Reconstruction of Torn Documents"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "systemd loves Rust",
+          "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+          "A bit about email"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "62154c2e144a913342a9d570f91285e4bd00ba51b4a036cecf48850f1f06fdb7",
+  "prev": "1893bde5699a87adbe76620fb6c18dcd13b1088c6e895516f35a3e6f5dfa7f35",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "cf19b4d6e27078115c26d039e1e31f75b915bcb0c1841933168451dd3f626a55"
+}
