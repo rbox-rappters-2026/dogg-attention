@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 415,
+  "utc": "2026-11-08T14:49:26.557Z",
+  "payload": {
+    "tick": 2917,
+    "tick_frame": "2e00c3f95271ab95727b6127b79b63216c22a322dab4deeabc8d85355d8fa821",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-08T14:49:26.557Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Person of Interest",
+          "Porting Android 16 to my blind mother's keypad phone",
+          "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+          "I’m not a fan of Deno’s security model (2024)",
+          "Introducing Project Steadfast"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "1893bde5699a87adbe76620fb6c18dcd13b1088c6e895516f35a3e6f5dfa7f35",
+  "prev": "248b5fe7c2e55dc2ee7510cfbd7974518c4f151b7d5d10c89ad4fd62f50163c8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d6b345cc19fdea38c1daccc47a66f6cd75b6427917ee8f3913d8200920fc2cdf"
+}
