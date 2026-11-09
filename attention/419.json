@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 419,
+  "utc": "2026-11-09T10:59:24.170Z",
+  "payload": {
+    "tick": 2921,
+    "tick_frame": "fd394d1f1cff1d581a342648eac99e39d614368216b48430d8a508138f09e964",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-09T10:59:24.170Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Fun things to do with your VM/370 CE machine – Fun with big computers",
+          "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+          "Unlocking any car from X brand in most of the world"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How Much Energy Does Building Distro Packages Use",
+          "unlocking any car from X brand in most of the world",
+          "Unattended reboots with encrypted disks"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "3e961416c2b985293da410d951c0d612f5c05a344592a640b581d9b53a1be7e8",
+  "prev": "b1acaa44a6c6e534f41ebf8b70e43e4e6079c78b4e2cf4727b37aa270bc6d280",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "17383d56def0c6953b73dbb3688ca3bb456b829432416fb18e5a764203233552"
+}
