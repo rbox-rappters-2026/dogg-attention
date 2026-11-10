@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 423,
+  "utc": "2026-11-10T19:55:04.729Z",
+  "payload": {
+    "tick": 2925,
+    "tick_frame": "e465e4622d79021036bb18f57640ddc24b9bc5770384d539d29715219fb32341",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-10T19:55:04.729Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          ".name Grandfathered",
+          "Smart home devices should work without the internet",
+          "Synaptics patent claims stop work on DisplayLink drivers"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name grandfathered",
+          "The hardest tarball",
+          "Open Graph images with Astro and Typst"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Russell_Brand",
+          "Ramayana:_Part_1",
+          "Jensen_Huang",
+          "Wikipedia:Featured_pictures",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "aaf69ff17e42a81383fc9a4b83e0f368e2520e95de98119a801e546826126ad3",
+  "prev": "9ebb3c90d83068eab4171f21b7830f959c21d159308bca2f0471fb90f5698f6d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "111d9709256a249c1e57e255782c9c41c6a75fb4819299934c63add8d917106b"
+}
