@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 422,
+  "utc": "2026-11-10T12:14:14.280Z",
+  "payload": {
+    "tick": 2924,
+    "tick_frame": "6094c51309e7fbeed03e6ed9465551ef3ad70f8dd8fd866765db6322301dde2d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-10T12:14:14.280Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+          "Claude Fable 5.2 and Mythos 5.2",
+          "Queens Public library under ransomware attack e-borrowing suspended"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Microsoft are rejecting your mail",
+          "Horrible public key tricks",
+          "How Much Energy Does Building Distro Packages Use"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Russell_Brand",
+          "Ramayana:_Part_1",
+          "Jensen_Huang",
+          "Wikipedia:Featured_pictures",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "9ebb3c90d83068eab4171f21b7830f959c21d159308bca2f0471fb90f5698f6d",
+  "prev": "1dbfb175e24385f649f9baf3bbd2eed65e57dd45f7c54e1cd5f2f24d54eae541",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "cfa90e882c16eb2425ec569dbd18a491d91d926a53912ba3c7bc55b98e51fd92"
+}
