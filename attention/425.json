@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 425,
+  "utc": "2026-11-11T06:58:31.860Z",
+  "payload": {
+    "tick": 2927,
+    "tick_frame": "5576785d040ced440b8f42e8ec0b929b946b1337b126c06a118b4e3fa10b1d39",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-11T06:58:31.860Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Protecting SSH Keys with macOS Secure Enclave",
+          "Greg Kurtzer's Ginux is now a userspace kernel",
+          "Scion is back and is going to sell a kei truck in America"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name grandfathered",
+          "The hardest tarball",
+          "Synaptics patent claims stop work on DisplayLink drivers"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Mathematics",
+          "List_of_equations",
+          "Nidal_Hasan",
+          "Mike_Ditka"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "37f5b1f341bc5e77d479078a518355b36d82b5493c01a81f2939e2c02709bda7",
+  "prev": "8457f53050943d3bc9c96585911a50cb908b16e3c59c82a3eb5642d3a4a20257",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c44a11ac9604ec5650dd71450bf2afbcb6e0584c910f172e68ec6109d647a82a"
+}
