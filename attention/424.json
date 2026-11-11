@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 424,
+  "utc": "2026-11-11T00:26:59.877Z",
+  "payload": {
+    "tick": 2926,
+    "tick_frame": "791bd62e20ad87f53ab792d9dfd59066f2e9470b15ea74e649cc462bcc2448fd",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-11T00:26:59.877Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Toyota brand Scion is back and it's going to sell a kei truck in America",
+          "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+          ".name Grandfathered"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          ".name grandfathered",
+          "The hardest tarball",
+          "Synaptics patent claims stop work on DisplayLink drivers"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Mathematics",
+          "List_of_equations",
+          "Nidal_Hasan",
+          "Mike_Ditka"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "8457f53050943d3bc9c96585911a50cb908b16e3c59c82a3eb5642d3a4a20257",
+  "prev": "aaf69ff17e42a81383fc9a4b83e0f368e2520e95de98119a801e546826126ad3",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d4715ba8f28709bcc9a0ddaee1fe66c55c9bfeb27216827bed619175a4aa6cf8"
+}
