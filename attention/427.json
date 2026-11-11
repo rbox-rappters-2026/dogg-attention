@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 427,
+  "utc": "2026-11-11T22:07:59.289Z",
+  "payload": {
+    "tick": 2929,
+    "tick_frame": "477298bc7b483af76deda0b488bda0434532bd2f60be51813dc892135878a56a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-11T22:07:59.289Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AWS emulator",
+          "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "Tim Peters has died"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How do you actually self-host securely?",
+          "What are some \"No AI\" apps/companies/resources you know of?",
+          "How a false smoke alarm almost drowned Jane Street's only NYC datacenter"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "fd6efb85c4127c01e9ccc8f82a01b7470b04c0d2ec5b6a446c3c84d8f97efdf8",
+  "prev": "c4ab85e3d0f5a364517e9a25b6e8996edef27e6ad91293939bde68370ec4378d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2098d2c4566e6ef8e793b651be44a4b9cc0d018cdb54982bc9bab9b8691416a5"
+}
