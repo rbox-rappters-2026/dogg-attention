@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 426,
+  "utc": "2026-11-11T15:02:48.777Z",
+  "payload": {
+    "tick": 2928,
+    "tick_frame": "6979dc1d2297840984663662b84a8fd41682583af96d8e88fdd48bd45e143c0c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-11T15:02:48.777Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "Can a Linear Program Do Weight-Space Programming?",
+          "Pharo in the Browser with WebAssembly"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How do you actually self-host securely?",
+          "What are some \"No AI\" apps/companies/resources you know of?",
+          ".name grandfathered"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Mathematics",
+          "List_of_equations",
+          "Nidal_Hasan",
+          "Mike_Ditka"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c4ab85e3d0f5a364517e9a25b6e8996edef27e6ad91293939bde68370ec4378d",
+  "prev": "37f5b1f341bc5e77d479078a518355b36d82b5493c01a81f2939e2c02709bda7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e4caa2b750687c0cd1c8a2b684d21e825a73550c11ab34c22c54c02f9f549787"
+}
