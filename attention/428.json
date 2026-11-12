@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 428,
+  "utc": "2026-11-12T03:14:53.133Z",
+  "payload": {
+    "tick": 2930,
+    "tick_frame": "1a7c92eff75ec72a12ac6c4ad8ad1a53308371e49c4a6965f96c8295501910ac",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-12T03:14:53.133Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "93% of paint splatters are valid Perl programs (2019)",
+          "Tim Peters has died",
+          "AWS emulator"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How do you actually self-host securely?",
+          "How I accidentally became a millionaire",
+          "What are some \"No AI\" apps/companies/resources you know of?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Stacy_Keach",
+          "Wikipedia:Featured_pictures",
+          "Jensen_Huang",
+          "David_Walliams"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "1d070d9def7b13259f47bb52df2c955a8f74a323443155bc9b003435333c68de",
+  "prev": "fd6efb85c4127c01e9ccc8f82a01b7470b04c0d2ec5b6a446c3c84d8f97efdf8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "277754db32478b42c4316ad7177f155d09bb5be0dbb6c4945cdac2e6b0cb359a"
+}
