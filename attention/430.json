@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 430,
+  "utc": "2026-11-12T19:38:01.468Z",
+  "payload": {
+    "tick": 2932,
+    "tick_frame": "2fb70c914a2e2495ec8cac4cf5fba84cf1121a23dcaab4e8325c4ebd17c64283",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-12T19:38:01.468Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Jensen Huang resigns",
+          "Rust 1.100.0",
+          "Gemini 4 Hydrogen"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Humble Bundle just completely killed most of their security through vibecoding",
+          "How I accidentally became a millionaire",
+          "The entirety of \"Let Over Lambda\" is now freely available online"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Stacy_Keach",
+          "Wikipedia:Featured_pictures",
+          "Jensen_Huang",
+          "David_Walliams"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d74cf8c7be5d14389689bf8d0299f008ecbae6416f2599ddc205b6ea276a4b2e",
+  "prev": "c97f4bc9d02972548c017b8fa30450d55231fa898420eafa2b17fc9329447a69",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c9c405d139221eb3103a232984e90b7d409b47bfbd3a2a33ba44d792884e265c"
+}
