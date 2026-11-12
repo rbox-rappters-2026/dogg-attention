@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 429,
+  "utc": "2026-11-12T11:40:33.576Z",
+  "payload": {
+    "tick": 2931,
+    "tick_frame": "d4e58db188960f47e035ce486bf349b812f2212084012233f7e6e8324bca8688",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-12T11:40:33.576Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Why Writing Correct Software Is Hard",
+          "Jane Street: Socratic Tutor",
+          "A live tree of systemd jobs on the boot console"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How I accidentally became a millionaire",
+          "How do you actually self-host securely?",
+          "How a false smoke alarm almost drowned Jane Street's only NYC datacenter"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Stacy_Keach",
+          "Wikipedia:Featured_pictures",
+          "Jensen_Huang",
+          "David_Walliams"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c97f4bc9d02972548c017b8fa30450d55231fa898420eafa2b17fc9329447a69",
+  "prev": "1d070d9def7b13259f47bb52df2c955a8f74a323443155bc9b003435333c68de",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "387aa624614bbfca8dccb901c8bdbc1c2aacb7e6555dec731b5b7a6c4a0a8e84"
+}
