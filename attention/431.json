@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 431,
+  "utc": "2026-11-13T00:55:37.310Z",
+  "payload": {
+    "tick": 2933,
+    "tick_frame": "5834dc9a86398166d5d7c88f86aeb6f7e69cb67772d1a7b756ef954fe4af15aa",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-13T00:55:37.310Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Jensen Huang resigns",
+          "Rust 1.100",
+          "Gemini 4 Hydrogen and Orchestrator"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Announcing Rust 1.100.0",
+          "The entirety of \"Let Over Lambda\" is now freely available online",
+          "How I accidentally became a millionaire"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "aada35be16a8415be36c9e9f395651b59e60c107c9cb2cf5805baf9bbc975630",
+  "prev": "d74cf8c7be5d14389689bf8d0299f008ecbae6416f2599ddc205b6ea276a4b2e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "01ba681bd386e15ac451fda1fc07ebf34e573c81e4f60fb3d863adcab2fc80f9"
+}
