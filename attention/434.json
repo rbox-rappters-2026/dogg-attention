@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 434,
+  "utc": "2026-11-13T21:52:37.341Z",
+  "payload": {
+    "tick": 2936,
+    "tick_frame": "ef8631c0310c3495f1bfdd499337eff4176edc83abe7a138a63e78230b2c6035",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-13T21:52:37.341Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "FAA Issues National Ground Stop",
+          "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+          "FM-1 Workbench"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How Not to Build a Music Player",
+          "Terminal borders that don't cost a cell",
+          "The need for at least a third option"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Jensen_Huang",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Colette_Kress",
+          "Anthony_Clark_(actor)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "32ad29695387ea7fc8c306c85813411a9859e03612e97c40d00a01a45b5eeffa",
+  "prev": "d1765323f03767a1d32f4bcdfec9c3387d302010b6e7e2617fe5cddd9b8f6507",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e54ebe9aacac6de7d6c8e451474fb93c320ffdeb9d7687fda1da18d90d1b0374"
+}
