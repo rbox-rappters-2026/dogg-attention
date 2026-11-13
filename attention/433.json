@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 433,
+  "utc": "2026-11-13T15:57:09.035Z",
+  "payload": {
+    "tick": 2935,
+    "tick_frame": "d853372611b6e0daa49c418b66007bdfb825b757935a83bfbc422faeda218b99",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-13T15:57:09.035Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+          "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+          "Why Zig over C for Systems Programming"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How Not to Build a Music Player",
+          "Terminal borders that don't cost a cell",
+          "The need for at least a third option"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Jensen_Huang",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Colette_Kress",
+          "Anthony_Clark_(actor)"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d1765323f03767a1d32f4bcdfec9c3387d302010b6e7e2617fe5cddd9b8f6507",
+  "prev": "ed6c2b78aac04f6a98ec589b04bd92854bb2595d67f9f5b009d1890fdcd0651f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "29f6537e7f5d88b07dd0c7c8df07638318dab4d95de50e07879dc44fb8840f6d"
+}
