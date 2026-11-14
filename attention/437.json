@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 437,
+  "utc": "2026-11-14T15:37:09.478Z",
+  "payload": {
+    "tick": 2939,
+    "tick_frame": "ecd941711e012eccc2b39e4ae1d60bab88e642e7f800ec2c388e9d7768dc5bd4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-14T15:37:09.478Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Why get an expensive Pi when I have an old phone?",
+          "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+          "KDE: The Documentary on Free Software [video]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How Not to Build a Music Player",
+          "The need for at least a third option",
+          "Terminal borders that don't cost a cell"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Jensen_Huang",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "Colette_Kress"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d7343f29ed8694e704f541599ddd1e42ad20ccfd105ea2403ddf7eee599f290c",
+  "prev": "4a21ac64dd4fe436f2a05b6528d5a72f4067c2b2ba1127fe7d1aaf04c246cf4f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ccd225e6640447a86fd890a898b333cf9b1cd50f3e152b5c9672bf36673a5e55"
+}
