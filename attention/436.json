@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 436,
+  "utc": "2026-11-14T08:52:34.140Z",
+  "payload": {
+    "tick": 2938,
+    "tick_frame": "3ea120494ff6ce917ebe6a298e79a012d5bf844840ee3648cc648781f649742d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-14T08:52:34.140Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Ggml v1.0.0",
+          "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "FAA issues national ground stop – lifted 4.5 hours later"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How Not to Build a Music Player",
+          "The need for at least a third option",
+          "Terminal borders that don't cost a cell"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Jensen_Huang",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "Colette_Kress"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "4a21ac64dd4fe436f2a05b6528d5a72f4067c2b2ba1127fe7d1aaf04c246cf4f",
+  "prev": "c10e1123e7a686c8cff1f21c5381b11c995b1fa0205dbe0d898a824ba013bede",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "597b1470cc00cdab2129906e520f7fe2119ba6cfca40c7cb2e1aa4c070f72988"
+}
