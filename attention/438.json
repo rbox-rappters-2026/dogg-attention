@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 438,
+  "utc": "2026-11-14T20:28:27.084Z",
+  "payload": {
+    "tick": 2940,
+    "tick_frame": "24f88b2702481941f588420a1868c2ecd317615e7ade04a8ecb56eee95465f4a",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-14T20:28:27.083Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Lovable apps expose passport details and more than 200K private messages",
+          "PyPI's redesigned project pages with clearer security signals are now live",
+          "A Family Tree of Software Job Titles"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Let Me Let You Own Your Data",
+          "The need for at least a third option",
+          "How Not to Build a Music Player"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Jensen_Huang",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          ".xxx",
+          "Colette_Kress"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "8bbf8aa4df2f7b58f34dd2c3f821d5865e385d51dab16eb375b5bee30eaa328d",
+  "prev": "d7343f29ed8694e704f541599ddd1e42ad20ccfd105ea2403ddf7eee599f290c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "50c1a144f5bf8ea590d7d1f14f51fd8ebba65a7bbfea3e4fb5fc22b3331a3da3"
+}
