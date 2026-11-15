@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 439,
+  "utc": "2026-11-15T00:09:34.072Z",
+  "payload": {
+    "tick": 2941,
+    "tick_frame": "f7db4696f0c44b0877c651f27089a71b9657648b518fd499bb1ae4e942733d00",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-15T00:09:34.072Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "SpaceX catches the Starship to end Flight 15",
+          "Lovable apps expose passport details and more than 200K private messages",
+          "How did Woz write the Apple 1 BASIC before building the computer?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Let Me Let You Own Your Data",
+          "What happened to 3com?",
+          "The need for at least a third option"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "dee7e069ac317c11d8aa44ef9425f640da161c72d1408c0c0858ecdff31d89dc",
+  "prev": "8bbf8aa4df2f7b58f34dd2c3f821d5865e385d51dab16eb375b5bee30eaa328d",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b99facdd35ba63c70e645777962f8121925e4bdc7e2d1109e9d430380d637101"
+}
