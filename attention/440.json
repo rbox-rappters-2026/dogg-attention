@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 440,
+  "utc": "2026-11-15T06:58:28.139Z",
+  "payload": {
+    "tick": 2943,
+    "tick_frame": "253f68c00d4136cde0d2abb4fa2a19999486324fa6a8511ccdd0a6a08b698287",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-15T06:58:28.139Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "SpaceX catches the Starship to end Flight 15",
+          "Lovable apps expose passport details and more than 200K private messages",
+          "Memory Safety Bugs in Rust Standard Library"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Let Me Let You Own Your Data",
+          "25 of my favourite modern NES games",
+          "Periodic-Oriented Programming for FIRST Robotics"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Sean_Duffy",
+          "Jensen_Huang",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "bcd884af62ea974d36b2b1b451afdea6d2729b64a50159a7079ad4957f51b9ab",
+  "prev": "dee7e069ac317c11d8aa44ef9425f640da161c72d1408c0c0858ecdff31d89dc",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "07ba9fbff2c62ca5a534ed1a810e428961c11eafc7d33ba7f2a427b390772cb2"
+}
