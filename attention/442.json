@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 442,
+  "utc": "2026-11-15T20:11:42.355Z",
+  "payload": {
+    "tick": 2945,
+    "tick_frame": "b71baec414b74d034fe56b91de4fbc76e41482ea4c51990b6793c67c36009af5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-15T20:11:42.355Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "All AI-generated code should be Open Source",
+          "A short explainer on how El Niño works [video]",
+          "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Memory management in 40 major C projects, a survey",
+          "All AI-generated code should be Open Source",
+          "25 of my favourite modern NES games"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Sean_Duffy",
+          "Jensen_Huang",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2a31f06e1d390d652e50904b7369858a44895774fbfe6479b510436e4a37ae1b",
+  "prev": "e564627c2cb9ce8af43da240bbd24b56646da48eda97abe9c4f66a7645e38c3e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "12cbde43c44862e6d447d71091d36fb986d8a75987196fd5390fbefedf2619e9"
+}
