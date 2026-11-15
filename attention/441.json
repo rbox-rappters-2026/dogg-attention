@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 441,
+  "utc": "2026-11-15T14:39:38.205Z",
+  "payload": {
+    "tick": 2944,
+    "tick_frame": "046a271b5bbd43638f2fe9f274325e0a623f0b2be10169621c5c4ac648480b34",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-15T14:39:38.205Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "SpaceX catches the Starship to end Flight 15",
+          "Why did some Apollo missions carry a grenade launcher?"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "25 of my favourite modern NES games",
+          "Memory management in 40 major C projects, a survey",
+          "cursor:pointer on buttons"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Sean_Duffy",
+          "Jensen_Huang",
+          ".xxx"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e564627c2cb9ce8af43da240bbd24b56646da48eda97abe9c4f66a7645e38c3e",
+  "prev": "bcd884af62ea974d36b2b1b451afdea6d2729b64a50159a7079ad4957f51b9ab",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d713e84dd4190610f8dd32f4ef18877d847e67d1f67a158f6e3b6d401622e9c0"
+}
