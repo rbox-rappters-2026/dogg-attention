@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 445,
+  "utc": "2026-11-16T17:17:57.199Z",
+  "payload": {
+    "tick": 2948,
+    "tick_frame": "aaed9e0a235a005b2e91064b4d131640751e65110f2a0d15259f14dc0fd307ea",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-16T17:17:57.199Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+          "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+          "How to make almost anything"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Migrating from GitHub to Codeberg",
+          "A datetime library for Rust",
+          "What is w2rt6byl5nf1opmc-a[.]com?"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Archive_of_Our_Own",
+          "9/11",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "List_of_Nazi_concentration_camps"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6206e22724e585ddf2ce8dca36c3ac9691d9eac5e78aad2d722299f7dc6781ed",
+  "prev": "dd037430d77141ab12f80f4d0ed7a8d20030d7db7a00339a3e43f8cc38d57e26",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "166721ecc78924dc526b962dba126c246930c3446b83bf2e64ffbffa2043de58"
+}
