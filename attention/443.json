@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 443,
+  "utc": "2026-11-16T00:11:47.574Z",
+  "payload": {
+    "tick": 2946,
+    "tick_frame": "a49fbdc298e452b4c9ca3bc64cf0edea2b8f36c104f1b17fb0da75d515ac31ea",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-16T00:11:47.574Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Old Bitly Links Are Being Hijacked",
+          "Preserving 30 Years of Salon Journalism",
+          "Protomaps: Self-hosting map tiles has gotten cheap and easy"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Memory management in 40 major C projects, a survey",
+          "All AI-generated code should be Open Source",
+          "A datetime library for Rust"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "cec3d75e30f2b2068673cb8d894f7b9c661cf53340c7b5278c1be3bb1b631de1",
+  "prev": "2a31f06e1d390d652e50904b7369858a44895774fbfe6479b510436e4a37ae1b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "67bef5a8aaa26b01725be202460bccc61855543c57acfe1f0c27bc99a732bc5c"
+}
