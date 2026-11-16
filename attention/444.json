@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 444,
+  "utc": "2026-11-16T07:05:30.728Z",
+  "payload": {
+    "tick": 2947,
+    "tick_frame": "e67cf2c02e066dc61d12e42f4e5ad765acea102f9514462717be803f033fa9b3",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-16T07:05:30.728Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "How to make almost anything",
+          "Universal XSS in uBlock Origin from website-driven element picker",
+          "Qwen4-Max"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "A datetime library for Rust",
+          "All AI-generated code should be Open Source",
+          "Memory management in 40 major C projects, a survey"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Archive_of_Our_Own",
+          "9/11",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "List_of_Nazi_concentration_camps"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "dd037430d77141ab12f80f4d0ed7a8d20030d7db7a00339a3e43f8cc38d57e26",
+  "prev": "cec3d75e30f2b2068673cb8d894f7b9c661cf53340c7b5278c1be3bb1b631de1",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a5709d8a03677017cc96e31c496c18dad5a15d56f119a1b476be56fe786d8a02"
+}
