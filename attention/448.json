@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 448,
+  "utc": "2026-11-17T18:26:00.347Z",
+  "payload": {
+    "tick": 2951,
+    "tick_frame": "1d2079664af226000e3e040ee9a3124fefbe28fa21808680afa2ce8d88601de4",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-17T18:26:00.347Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT‑6.2 Astra and Sol",
+          "What is the best harness for each model?",
+          "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Actual curl rewrites in rust",
+          "Redict is deprecated",
+          "Github Redesign (2019)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Robert_Pattinson",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Archive_of_Our_Own",
+          "Suki_Waterhouse"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ea0bb92240398f2b2ab0f82bd6b3c88dcf584eeaa63815b5cd6d662895e235f4",
+  "prev": "2ab4d683ea60b2ed4f1b33342437f4e2575fc46d9be9ae84a99879c7ea16f697",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6b6bdf65f14539474c02721677b40e64a83c435fd06fa3778b85ad3481da11f0"
+}
