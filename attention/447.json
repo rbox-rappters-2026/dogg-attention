@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 447,
+  "utc": "2026-11-17T08:59:42.980Z",
+  "payload": {
+    "tick": 2950,
+    "tick_frame": "56b195a617bbb98504c569434461b029762c5853422355c3f20445b966408aa0",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-17T08:59:42.980Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+          "BugMeNot has closed"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "How Rust Changed Me As A Developer",
+          "What is w2rt6byl5nf1opmc-a[.]com?",
+          "Migrating from GitHub to Codeberg"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Robert_Pattinson",
+          "Ramayana:_Part_1",
+          "Wikipedia:Featured_pictures",
+          "Archive_of_Our_Own",
+          "Suki_Waterhouse"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2ab4d683ea60b2ed4f1b33342437f4e2575fc46d9be9ae84a99879c7ea16f697",
+  "prev": "5fdeeb42f30cac5bf7f0659f7a190439b4cb0a15d7f543c35258db9b1cbc43bb",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "624edf9d8bfe8ca38066ffc361aa361cd6b008d18f5ca35681d8cc1bf87af985"
+}
