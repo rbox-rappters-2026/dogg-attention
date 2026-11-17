@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 446,
+  "utc": "2026-11-17T00:57:55.429Z",
+  "payload": {
+    "tick": 2949,
+    "tick_frame": "ebcb6ce17c3e1163ac5d264942e4813caaec550543a9a21e4120cca6c6f5d52d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-17T00:57:55.428Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "BugMeNot has closed"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "What is w2rt6byl5nf1opmc-a[.]com?",
+          "Migrating from GitHub to Codeberg",
+          "A datetime library for Rust"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "5fdeeb42f30cac5bf7f0659f7a190439b4cb0a15d7f543c35258db9b1cbc43bb",
+  "prev": "6206e22724e585ddf2ce8dca36c3ac9691d9eac5e78aad2d722299f7dc6781ed",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "145867de88ded313cda679279fe70b9845af082eeaf5d584d89ece92a27a4017"
+}
