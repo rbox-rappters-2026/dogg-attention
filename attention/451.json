@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 451,
+  "utc": "2026-11-18T17:51:01.177Z",
+  "payload": {
+    "tick": 2954,
+    "tick_frame": "113b3d2cd362127c3fd409b1aa551271c081b19a327542850d69a9fb43171ba2",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-18T17:51:01.176Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pre-auth RCE in Nginx HTTP/2 handling",
+          "Microsoft AI: Seven new world-class models at scalable price-performance",
+          "Inside Deutsche Bank"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+          "Java4Shell is a reason to use Java",
+          "Windows 11 collects data on which coding agents and dev tools you use"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Robert_Pattinson",
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Suki_Waterhouse",
+          "List_of_highest-grossing_Indian_films"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7e2679b68a4ad2f3d4d28648168511e0b542347f398ba8c4ae4eab81a78539bd",
+  "prev": "dcae9b5344ec6ca66566028dc20a06935685c715c71a745b5b778a1b919be6f8",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "177e5e9e716c1d1f7413bc3529040865f6a7e376ac13450c64207b3fb6591677"
+}
