@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 450,
+  "utc": "2026-11-18T08:55:12.889Z",
+  "payload": {
+    "tick": 2953,
+    "tick_frame": "4a900a9c18b4f881e50e808c4b17469e395d4a53e83dc84fba7367341a4a3e03",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-18T08:55:12.889Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Java4Shell: RCE in OpenJDK when processing Base64",
+          "GPT‑6.2 Astra and Sol",
+          "ID.me terms required for IRS sign-in"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Actual curl rewrites in rust",
+          "Java4Shell: Write once, RCE everywhere",
+          "Phrack 73"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Robert_Pattinson",
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Suki_Waterhouse",
+          "List_of_highest-grossing_Indian_films"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "dcae9b5344ec6ca66566028dc20a06935685c715c71a745b5b778a1b919be6f8",
+  "prev": "54a82df0822c8adb4c35cbb17a446efb81d3828c83332aa2ca06aa9944cea882",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6f17ed3c24eae4bccfb709f3c3bf517fae11c2e27fde73bf7d57a3a83a181046"
+}
