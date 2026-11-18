@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 452,
+  "utc": "2026-11-18T23:58:04.682Z",
+  "payload": {
+    "tick": 2955,
+    "tick_frame": "6be9fafbd0885e391eb71e765057933d821174eb76dd41bcdd69dd82e66daf88",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-18T23:58:04.682Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Unauthenticated remote code execution in Nginx",
+          "Seven new models at scalable price-performance",
+          "Inside Deutsche Bank"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+          "nginx2root",
+          "Java4Shell is a reason to use Java"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Robert_Pattinson",
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Suki_Waterhouse",
+          "List_of_highest-grossing_Indian_films"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d0763af98ee1044ba8c2b8328afc98ff835aed7c8d7f2db550cdda00bd6aec5c",
+  "prev": "7e2679b68a4ad2f3d4d28648168511e0b542347f398ba8c4ae4eab81a78539bd",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "69e27bb1cbd41cbf5c08ec0d435db5e96d230f99439e24986deed8ad45ca37c2"
+}
