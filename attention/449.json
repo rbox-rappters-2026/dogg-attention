@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 449,
+  "utc": "2026-11-18T01:11:23.131Z",
+  "payload": {
+    "tick": 2952,
+    "tick_frame": "29762c642f79ffbcca476ae9255d6798b3d6e05224d8ef8314f73b34fcdbc012",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-18T01:11:23.131Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Java4Shell: RCE in OpenJDK when processing Base64",
+          "GPT‑6.2 Astra and Sol",
+          "Quad9's withdrawal from France: A canary in the coal mine"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Actual curl rewrites in rust",
+          "Java4Shell: Write once, RCE everywhere",
+          "Phrack 73"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "54a82df0822c8adb4c35cbb17a446efb81d3828c83332aa2ca06aa9944cea882",
+  "prev": "ea0bb92240398f2b2ab0f82bd6b3c88dcf584eeaa63815b5cd6d662895e235f4",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "45ce583e9675319d470e9e800c7a7e8bd901356ad95321553c984bc08bcf677a"
+}
