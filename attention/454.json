@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 454,
+  "utc": "2026-11-19T16:42:50.332Z",
+  "payload": {
+    "tick": 2957,
+    "tick_frame": "361ac0629149bdc5d2f299d2355f39862857c2ae1610002c5feaef1b1bfc38fc",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-19T16:42:50.332Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "How the European Commission rolled out Matrix to more than 40k staff",
+          "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "Everything you need to survive and rebuild society"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "We Need Smart People Who Give a Shit",
+          "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+          "Design for Understandability"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Grand_Theft_Auto_VI",
+          "Ramayana:_Part_1",
+          "Robert_Pattinson",
+          "Dancing_with_the_Stars_(American_TV_series)_season_35"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "0bb6163b25cd48a474215b80c0b9daf0f7bfa623dc25f6bc40664fae6d13479c",
+  "prev": "af9fcd9c7f8c898134af21d00ade88e2fef7ff028408aeabf2e0bd49f3415b60",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "eeb4168e1789ce0067aa4f258f2f0dc9d3843d3e5d0610478d0e8571cb4d6d63"
+}
