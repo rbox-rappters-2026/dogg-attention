@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 453,
+  "utc": "2026-11-19T07:07:46.481Z",
+  "payload": {
+    "tick": 2956,
+    "tick_frame": "4b54dc19a299d99c52682a7726771e64117138dff132d186e7e13e764ebded56",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-19T07:07:46.481Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Gemini 4 Neon",
+          "Unauthenticated remote code execution in Nginx",
+          "Multiple vulnerabilities in Regexp and String case conversion"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+          "nginx2root",
+          "Java4Shell is a reason to use Java"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Grand_Theft_Auto_VI",
+          "Ramayana:_Part_1",
+          "Robert_Pattinson",
+          "Dancing_with_the_Stars_(American_TV_series)_season_35"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "af9fcd9c7f8c898134af21d00ade88e2fef7ff028408aeabf2e0bd49f3415b60",
+  "prev": "d0763af98ee1044ba8c2b8328afc98ff835aed7c8d7f2db550cdda00bd6aec5c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b3e6e17701949e1964b0a1b359f0ee828c610b8e6ab3c4cf5a791e81a59385bd"
+}
