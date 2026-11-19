@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 455,
+  "utc": "2026-11-19T23:25:38.945Z",
+  "payload": {
+    "tick": 2958,
+    "tick_frame": "88832668b462194cbe4547ae2cc1bd40d93eec7298e788e2629edf3014861918",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-19T23:25:38.945Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Anthropic’s Nasdaq debut",
+          "Pancreatic cancer halted by virus injection in three patients",
+          "Synology Security Advisory"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Design for Understandability",
+          "PostgreSQL 19 Released",
+          "We Need Smart People Who Give a Shit"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Grand_Theft_Auto_VI",
+          "Ramayana:_Part_1",
+          "Robert_Pattinson",
+          "Dancing_with_the_Stars_(American_TV_series)_season_35"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d7e2195cc18058b51d030505b17bb246c4151ef6651010796f073a8681fd83ef",
+  "prev": "0bb6163b25cd48a474215b80c0b9daf0f7bfa623dc25f6bc40664fae6d13479c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "a01dc35919f087cc55239c998e5edc26afa2e1f2d4c5359cb8a53f7f69e95331"
+}
