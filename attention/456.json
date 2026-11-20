@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 456,
+  "utc": "2026-11-20T04:10:41.256Z",
+  "payload": {
+    "tick": 2959,
+    "tick_frame": "e5b9cf9e9c70c0e03123a406716aff43053c93416633ad01e128f20add5e89ae",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-20T04:10:41.256Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "Anthropic’s Nasdaq debut",
+          "Pancreatic cancer halted by virus injection in three patients"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Design for Understandability",
+          "PostgreSQL 19 Released",
+          "We Need Smart People Who Give a Shit"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "7fea2c80de3eb8fe0e14439bfa10996bbe244098a93288cb69c10f400d46f627",
+  "prev": "d7e2195cc18058b51d030505b17bb246c4151ef6651010796f073a8681fd83ef",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "126ea2c041a8b6ddd349203d8f9bd5741675fc9c21030bfb30587403ba54b831"
+}
