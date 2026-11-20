@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 458,
+  "utc": "2026-11-20T21:26:53.690Z",
+  "payload": {
+    "tick": 2961,
+    "tick_frame": "052b9527c98ee743e27490c4d9712fe906f7f5fc7ca92deda8b1dbf0438b0a0d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-20T21:26:53.689Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Hurried Announcement: Alessandro Masullo GRH",
+          "Inkling 2 Mini",
+          "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Levent Alpoge Claims Proof of Riemann Hypothesis",
+          "Vim Classic 8.3.1 released",
+          "Removing binder.c"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "666680700b1eb61c9372e5650764b0f1d9ec6e06a0d348b9942b49e52610d864",
+  "prev": "c7fdec42c16236b4dae28bcc48b0058a2772313b0c3f78f377a59f5ebe21acda",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "1b4f6a01b770c60a2562cae368a09b8add36244930c25ae8f9c1838bae0e3b4c"
+}
