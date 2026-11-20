@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 457,
+  "utc": "2026-11-20T13:26:40.106Z",
+  "payload": {
+    "tick": 2960,
+    "tick_frame": "fe16fb16920cbb2f702c049dc25502b5f38b391242f25693c6b2e9fa4bdb2d7d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-20T13:26:40.106Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "If you can't explain something in simple terms, you don't understand it (2017)",
+          "The Making of Oxygene"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Vim Classic 8.3.1 released",
+          "Design for Understandability",
+          "Removing binder.c"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "c7fdec42c16236b4dae28bcc48b0058a2772313b0c3f78f377a59f5ebe21acda",
+  "prev": "7fea2c80de3eb8fe0e14439bfa10996bbe244098a93288cb69c10f400d46f627",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c0b4512e4129c7d36eed0faecdd6fb6fb15cdd25022ff976c0006708dfe13788"
+}
