@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 461,
+  "utc": "2026-11-21T17:53:54.511Z",
+  "payload": {
+    "tick": 2964,
+    "tick_frame": "34f06fae3bcf5e9c88beda9d2ee35e4ec10e5fea55daba8fa9357491aeeebbce",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-21T17:53:54.511Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Lean verification of the Riemann Hypothesis",
+          "Detonating a pile of lead azide",
+          "Brazil's tax authority open-sources its tax calculator on GitHub under MIT"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "My Monitor Was Cutting My Download Speed by 75%",
+          "TODOs JJ Style",
+          "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Bra"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Grand_Theft_Auto_VI",
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Riemann_hypothesis",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "60a4a6a02b7b50813c1d3c665277f26495455d5997fd15f3ac4fe9c823f011d2",
+  "prev": "c2ececd72ce34e923bd92246302f77daefb4ed301e3daa226954f7c9dacef06f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e9847c7322fc3bc339b4004ff01e25def41255bc299fc514a43a79ad8f602a63"
+}
