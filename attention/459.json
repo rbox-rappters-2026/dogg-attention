@@ -1,0 +1,37 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 459,
+  "utc": "2026-11-21T02:42:39.954Z",
+  "payload": {
+    "tick": 2962,
+    "tick_frame": "dece78a100c1ed7d86a653855112afb2940fe084b055ee8e910f2931f48d5004",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-21T02:42:39.954Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Hurried Announcement: Alessandro Masullo GRH",
+          "Inkling 2 Mini",
+          "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Levent Alpoge Claims Proof of Riemann Hypothesis",
+          "Vim Classic 8.3.1 released",
+          "Announcing jj-musubi: live sync for Jujutsu"
+        ]
+      }
+    },
+    "sources_failed": [
+      "wiki_trending"
+    ]
+  },
+  "payload_hash": "48d0f09e8f031dc9f20693363383cb877b26391c33f8c1004d8e523d9531377c",
+  "prev": "666680700b1eb61c9372e5650764b0f1d9ec6e06a0d348b9942b49e52610d864",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d37b8992589f157a62491e9e35914f0e2276f4b4192fabcaeee83b0529f87fdf"
+}
