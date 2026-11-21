@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 462,
+  "utc": "2026-11-21T22:51:12.774Z",
+  "payload": {
+    "tick": 2965,
+    "tick_frame": "fbb324054cbbc83dde031b3ad914c94d9f9c559dc47a6f746775b6783a824e84",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-21T22:51:12.774Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "Inkling-2-Mini in 5.4 GB Memory",
+          "Lean verification of the Riemann Hypothesis"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "My Monitor Was Cutting My Download Speed by 75%",
+          "TODOs JJ Style",
+          "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Bra"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Grand_Theft_Auto_VI",
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Riemann_hypothesis",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "809ab3d231f3b806272af1e01468d32f09f65ea13af1ac57fed38a21bc110f5b",
+  "prev": "60a4a6a02b7b50813c1d3c665277f26495455d5997fd15f3ac4fe9c823f011d2",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8af132549bb535c6b3e3c480b2629ae51b37a86733d1f889a42f66ba30546937"
+}
