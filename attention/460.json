@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 460,
+  "utc": "2026-11-21T10:43:07.088Z",
+  "payload": {
+    "tick": 2963,
+    "tick_frame": "f25eacea047c16eb00282a6097c0a2367b06ce775dc234fd16d02995c06ff509",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-21T10:43:07.088Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Hurried Announcement: Alessandro Masullo GRH",
+          "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+          "Inkling 2 Mini"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Levent Alpoge Claims Proof of Riemann Hypothesis",
+          "Vim Classic 8.3.1 released",
+          "Announcing jj-musubi: live sync for Jujutsu"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Grand_Theft_Auto_VI",
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Riemann_hypothesis",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c2ececd72ce34e923bd92246302f77daefb4ed301e3daa226954f7c9dacef06f",
+  "prev": "48d0f09e8f031dc9f20693363383cb877b26391c33f8c1004d8e523d9531377c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8f35ab4d7995fbcb100828de0fd9823cb29f29243fdb6a6e693bcc921ba11af8"
+}
