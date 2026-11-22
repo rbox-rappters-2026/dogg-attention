@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 464,
+  "utc": "2026-11-22T10:48:28.492Z",
+  "payload": {
+    "tick": 2967,
+    "tick_frame": "db6b132a34b0f110248cbba8a8899f6f592b96d579de520c16cd8314c1f42419",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-22T10:48:28.492Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Toyota, Nissan, and Honda to standardize parts to lower costs",
+          "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "Lean verification of the Riemann Hypothesis"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "My Monitor Was Cutting My Download Speed by 75%",
+          "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "NixOS bring-up on an Alibaba RISC-V board"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Grand_Theft_Auto_VI",
+          "Riemann_hypothesis",
+          "Ramayana:_Part_1",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ece07a9edda319a0b5da827ab9c6e56acad738b7ffdb6bd1f2b8121754a24b00",
+  "prev": "9badb132243c84c2eacee83ede0791c795edeba893cf09824cd8ec51e1f14390",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "dd86ad2fe8d39fc48f26248eeaedf929e5d22e6893bc97106d5ba73d4b257ab3"
+}
