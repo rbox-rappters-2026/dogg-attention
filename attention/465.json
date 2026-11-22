@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 465,
+  "utc": "2026-11-22T18:16:24.813Z",
+  "payload": {
+    "tick": 2968,
+    "tick_frame": "b64c6e132fe6bb7be1850238098215d0ad3068d1a1047af0c61e1f2e75d95e1b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-22T18:16:24.813Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Perplexity and Intelligence",
+          "Open Social Web Alliance",
+          "Toyota, Nissan, and Honda to standardize parts to lower costs"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "My Monitor Was Cutting My Download Speed by 75%",
+          "NixOS bring-up on an Alibaba RISC-V board"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Grand_Theft_Auto_VI",
+          "Riemann_hypothesis",
+          "Ramayana:_Part_1",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "d47023027ead94942c3a6bc7e0aa198caaee409c5f785a4690b0d3907ccbf2dd",
+  "prev": "ece07a9edda319a0b5da827ab9c6e56acad738b7ffdb6bd1f2b8121754a24b00",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "625a205b7e143bdd6a97796da6fd800641b0d5152407d87b5a98ecb1df2e58f1"
+}
