@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 466,
+  "utc": "2026-11-22T23:43:58.992Z",
+  "payload": {
+    "tick": 2969,
+    "tick_frame": "1b3a5be67b519a6b74f0e91180df3bd5fd5b7b17c45aee9dbc0e798568d85032",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-22T23:43:58.992Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+          "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "GitHub Actions accepts invalid YAML",
+          "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "Falsehoods Programmers Believe About ATProto"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Grand_Theft_Auto_VI",
+          "Riemann_hypothesis",
+          "Ramayana:_Part_1",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "81c68df48b2e47dc98df71dc29db9c65ee55ceef1f50189493e960cfe1ad27dc",
+  "prev": "d47023027ead94942c3a6bc7e0aa198caaee409c5f785a4690b0d3907ccbf2dd",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "d60ddcef4fbfc53ca2b21ed4fe24da38d9e57ed397e5d8a1d023cc15b0eb1f0c"
+}
