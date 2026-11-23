@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 467,
+  "utc": "2026-11-23T06:12:28.388Z",
+  "payload": {
+    "tick": 2971,
+    "tick_frame": "0ecca74e6464635709bd5e3f33c0b51b5da0439b8aa9139ad09338e40693312f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-23T06:12:28.388Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "XNU Linux: Full OS X GUI Userspace on Linux",
+          "Masullo on the Riemann Hypothesis"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "GitHub Actions accepts invalid YAML",
+          "Gliver completes the Guix desktop",
+          "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Grand_Theft_Auto_VI",
+          "Tom_Jackson_(American_football,_born_1951)",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "c127ffed094fb67871586f951e1dd8494085f28863a5f06410273e4743c6a7d9",
+  "prev": "81c68df48b2e47dc98df71dc29db9c65ee55ceef1f50189493e960cfe1ad27dc",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "0f2d50f003d57deaf5a9a1d6b6d5648a2329ced90d81630d18063e9217477b22"
+}
