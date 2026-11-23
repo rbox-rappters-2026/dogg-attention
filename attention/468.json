@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 468,
+  "utc": "2026-11-23T18:37:49.332Z",
+  "payload": {
+    "tick": 2972,
+    "tick_frame": "f1985b0d9356de0f815b91f1c0aadc0b0f27d321f6beff32348add76e7e2d2ec",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-23T18:37:49.332Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Nvidia Reinstates Jensen Huang as CEO",
+          "Ladybird is now in alpha",
+          "GLM-5.4: Toward generalized coding with our first loop transformer"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Signal is Serious About Protecting Your Privacy",
+          "GitHub Actions accepts invalid YAML",
+          "Ladybird is now in alpha"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Grand_Theft_Auto_VI",
+          "Tom_Jackson_(American_football,_born_1951)",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "ef37c43308847d3d5be2bc4493b1fd9af2f94bc3156637bd9d7b89a393801fee",
+  "prev": "c127ffed094fb67871586f951e1dd8494085f28863a5f06410273e4743c6a7d9",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "2b06f2ecc5ade06fb2684cd57a0677efb9454d4279f8f384c63cbc19d8254476"
+}
