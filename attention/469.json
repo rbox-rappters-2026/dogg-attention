@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 469,
+  "utc": "2026-11-24T04:12:10.689Z",
+  "payload": {
+    "tick": 2973,
+    "tick_frame": "b8c5df135ea79cd27244c5904c93c5ae2d43d3081466718edaab7c1d4055345c",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-24T04:12:10.689Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Nvidia Reinstates Jensen Huang as CEO",
+          "Stalwart is now a drop-in replacement for Microsoft Exchange",
+          "Ladybird is now in alpha"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Ladybird is now in alpha",
+          "Signal is Serious About Protecting Your Privacy",
+          "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Grand_Theft_Auto_VI",
+          "Jensen_Huang",
+          "Moon"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5e211cc54ae560624da48518cf4e0e2106575dd752ade97e5e9339ab48faf65c",
+  "prev": "ef37c43308847d3d5be2bc4493b1fd9af2f94bc3156637bd9d7b89a393801fee",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9b165114f866f1bb623a299e330c39d98e5fa65c5b52e6c58b067ab593a1b903"
+}
