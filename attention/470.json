@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 470,
+  "utc": "2026-11-24T15:08:03.075Z",
+  "payload": {
+    "tick": 2974,
+    "tick_frame": "9f5dd36f353ab8106f8297ace92a31c199ee14f659ee01efd128c4817fcc4769",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-24T15:08:03.075Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "LLM agents work for their parent companies, not for you",
+          "Who in Washington owns and trades Nvidia stock",
+          "2035 Came Early"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "2035 came early",
+          "Ladybird is now in alpha",
+          "What VP != VNP Means (In 3 Minutes)"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Grand_Theft_Auto_VI",
+          "Jensen_Huang",
+          "Moon"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "b0701bbe815f0d507d1c2182b07d4038dd21a1810698ff537b5b3a4affc6090c",
+  "prev": "5e211cc54ae560624da48518cf4e0e2106575dd752ade97e5e9339ab48faf65c",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "9dd578dce5e545b39d73adc522f200f48f375ccf3f3ba9f462ce04f48dcd71cf"
+}
