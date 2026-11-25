@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 472,
+  "utc": "2026-11-25T08:58:38.766Z",
+  "payload": {
+    "tick": 2976,
+    "tick_frame": "ca316c1b836c6b180c4c214be97893c19a454b5ef1fa31b09119c3bf6746ec35",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-25T08:58:38.766Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "Button Sounds – collection of professionally-recorded button clicks and presses",
+          "Models Can Communicate via Inference Servers Despite Being Sandboxed"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Pokemon Childhood Version: A romhack where Mew is under the truck",
+          "Why there are still no non-WebKit browsers on iOS",
+          "2035 came early"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Jensen_Huang",
+          "Grand_Theft_Auto_VI",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "8c867fc60927fbc83088cd325148a5596ead2c95023b671300009ae2e5298931",
+  "prev": "779295220c69d229baa66abc2307a144c0a27a4c82f5b14a648ac9e32334ccf7",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "8fd470f4fd3d293b5c05f549c24fbf69285ed32db7af8b7d6d6412a9fb5e325d"
+}
