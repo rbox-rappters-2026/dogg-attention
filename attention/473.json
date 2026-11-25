@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 473,
+  "utc": "2026-11-25T19:06:48.130Z",
+  "payload": {
+    "tick": 2977,
+    "tick_frame": "3b18b6bc657da87196d9092765e4091ea7994bd92a955b244134c22a349f6478",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-25T19:06:48.130Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "1Password Security Incident",
+          "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "Google releases Cogentic papers on integer factorization, discrete logs and more"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Marginalia Search, Money, C++, Rust, AI, stuff",
+          "Optimizing Rustc's next trait solver",
+          "Pokemon Childhood Version: A romhack where Mew is under the truck"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Ramayana:_Part_1",
+          "Jensen_Huang",
+          "Grand_Theft_Auto_VI",
+          "The_Hunger_Games:_Sunrise_on_the_Reaping"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "6c1da11e4d7bd56523daf3ad68dcc69471d9e7ccac0d4bb4c5de08f887b4b2ed",
+  "prev": "8c867fc60927fbc83088cd325148a5596ead2c95023b671300009ae2e5298931",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "7900ff6d7e8b4ed4b40efc6b751bd4f1deaa278231b405da11327044c586a531"
+}
