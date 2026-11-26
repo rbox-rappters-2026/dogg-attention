@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 474,
+  "utc": "2026-11-26T02:22:35.458Z",
+  "payload": {
+    "tick": 2978,
+    "tick_frame": "fa3cb32628ead0601a72b3e03f2ea573ee502ee776226b8ab7c691ee116a7dc5",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-26T02:22:35.458Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "1Password Security Incident",
+          "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "Much shorter version of GRH Lean verification from Anthropic"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Slow Ubuntu security response times",
+          "Optimizing Rustc's next trait solver",
+          "Marginalia Search, Money, C++, Rust, AI, stuff"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Dharmendra",
+          "Sawyer_Sweeten",
+          "Google_Chrome",
+          "Wikipedia:Featured_pictures",
+          "Richard_Branson"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "2103736596cb3060e6bb4d4d5310f755616bc1a330bac9889a36ea95fd7697e6",
+  "prev": "6c1da11e4d7bd56523daf3ad68dcc69471d9e7ccac0d4bb4c5de08f887b4b2ed",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "51674694d65e0047680df6cb8450dc59e79e325bbdda11a3d14c5012b5bef70b"
+}
