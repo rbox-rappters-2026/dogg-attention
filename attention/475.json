@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 475,
+  "utc": "2026-11-26T11:19:34.181Z",
+  "payload": {
+    "tick": 2979,
+    "tick_frame": "ea6856b4ead21f9241c4a39648fa51016c6fb70586994d7d3b8277a28cced650",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-26T11:19:34.181Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Intel One Mono font",
+          "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "1Password Security Incident"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Slow Ubuntu security response times",
+          "Scott Aaronson on recent complexity theory AI achievements",
+          "Entering the Geminispace"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Dharmendra",
+          "Sawyer_Sweeten",
+          "Google_Chrome",
+          "Wikipedia:Featured_pictures",
+          "Richard_Branson"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e9ed4200713ae2ad385a9e55a3405e04ce689acd73ce28e1b18b5e96ea3b9087",
+  "prev": "2103736596cb3060e6bb4d4d5310f755616bc1a330bac9889a36ea95fd7697e6",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "f69e64e5354000687898fda4d0d46687dece7a140da3750235296252a97427a5"
+}
