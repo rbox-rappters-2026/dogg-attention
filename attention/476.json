@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 476,
+  "utc": "2026-11-26T20:24:52.551Z",
+  "payload": {
+    "tick": 2980,
+    "tick_frame": "3716fcff47f70063d1587446a4471ff8e71054b9b1804f83e395ca8fa6498194",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-26T20:24:52.551Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AMD Specific Patches for Llama.cpp",
+          "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+          "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Slow Ubuntu security response times",
+          "How WinHelp files work",
+          "Entering the Geminispace"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Dharmendra",
+          "Sawyer_Sweeten",
+          "Google_Chrome",
+          "Wikipedia:Featured_pictures",
+          "Richard_Branson"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "5d58c018f79a3917686023ea753e0a952fc77db03093c5d7e30e45c777e9032b",
+  "prev": "e9ed4200713ae2ad385a9e55a3405e04ce689acd73ce28e1b18b5e96ea3b9087",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "c1c78a0a38d6c4fa952e7477ffde738ad8d02747672a19c100d2d8e7ce16c3d6"
+}
