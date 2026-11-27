@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 479,
+  "utc": "2026-11-27T21:53:04.408Z",
+  "payload": {
+    "tick": 2983,
+    "tick_frame": "c4491835e6343b5866b4d87f80992822aa06fd5370c13ae5dd5bf6be02f50991",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-27T21:53:04.408Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "GPT 6.2 Astra Solves a Historical Mystery",
+          "Credit card skimming scripts using WebRTC found on popular shopping sites",
+          "Convex skills send the user's app idea to a remote server without telling them"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+          "Hard Drive pricing has gotten bad",
+          "Objections to .php application being published on ICANN site"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Andy_Taylor_(guitarist)",
+          "Ramayana:_Part_1",
+          "Aaron_Rodgers",
+          "Mike_McCarthy"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "e220de5f4665460e0a116bb423b99c43213ed84f441f2986703cbeba33f39e12",
+  "prev": "0518b9264eb67b8eabaf181fb37139e373237a842f6628ca58d746a4c03ab24f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "0836a0e68c929dbfab10adc56f809139a1c981d1b9a7a1c24950f386daa2fb06"
+}
