@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 478,
+  "utc": "2026-11-27T12:57:21.813Z",
+  "payload": {
+    "tick": 2982,
+    "tick_frame": "ce2f035f39503a3fb4818b3c99fdd680f69dda64921ce368ea9673b3503c715d",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-27T12:57:21.813Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+          "The group chat where your AI talks behind your back",
+          "AI made self-hosting fun again"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+          "Taking Email Back",
+          "Pimalaya goes stable"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Andy_Taylor_(guitarist)",
+          "Ramayana:_Part_1",
+          "Aaron_Rodgers",
+          "Mike_McCarthy"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "0518b9264eb67b8eabaf181fb37139e373237a842f6628ca58d746a4c03ab24f",
+  "prev": "7c23a15e4b505de73cb5fdbea3f6181d8b97947c371c4088a15effd95451684e",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "db6cac37cdf4cdbc293d0d144a4c5416be13da0aa41acf5c252bad8a45ef2487"
+}
