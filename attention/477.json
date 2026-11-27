@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 477,
+  "utc": "2026-11-27T03:05:21.908Z",
+  "payload": {
+    "tick": 2981,
+    "tick_frame": "e925d27713d854873a10854023f687c821d59a4bda7b77c1301398a148929503",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-27T03:05:21.908Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "AI made self-hosting fun again",
+          "Hard Drive pricing has gotten bad",
+          "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Slow Ubuntu security response times",
+          "Garage v2.6.0 released with web admin, v1.x EoL & other news",
+          "Taking Email Back"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Andy_Taylor_(guitarist)",
+          "Ramayana:_Part_1",
+          "Aaron_Rodgers",
+          "Mike_McCarthy"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "7c23a15e4b505de73cb5fdbea3f6181d8b97947c371c4088a15effd95451684e",
+  "prev": "5d58c018f79a3917686023ea753e0a952fc77db03093c5d7e30e45c777e9032b",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b4e80b9db16ebf48506801c7e33745c1fe3fe4f417568bd92f3425b039df22c7"
+}
