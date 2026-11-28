@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 480,
+  "utc": "2026-11-28T03:44:51.592Z",
+  "payload": {
+    "tick": 2984,
+    "tick_frame": "c9aab6fff11b20f689706cea36d0a3865402195e133d3b711bc3fdcfd379333e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-28T03:44:51.592Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "Atari Homebrew Awards Cancelled",
+          "GPT 6.2 Astra Solves a Historical Mystery"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "Hard Drive pricing has gotten bad",
+          "Objections to .php application being published on ICANN site",
+          "Tiny Hat: a new Linux distro dedicated to retro gamedev"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Joe_Milton",
+          ".xxx",
+          "Ramayana:_Part_1",
+          "Deaths_in_2026"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "67621c772c08006033e476e2b68c595e2339bb5de82a2b7cff5c612fb197bc2a",
+  "prev": "e220de5f4665460e0a116bb423b99c43213ed84f441f2986703cbeba33f39e12",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "6b71c44395e778fa46f0b548fea602b6736014bb9720a7a3a90e7667c48b6704"
+}
