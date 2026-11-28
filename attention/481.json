@@ -1,0 +1,44 @@
+{
+  "spec": "rapp/1",
+  "kind": "attention.snapshot",
+  "stream_id": "attention:@rbox-rappters-2026/dogg-attention",
+  "seq": 481,
+  "utc": "2026-11-28T12:45:11.773Z",
+  "payload": {
+    "tick": 2985,
+    "tick_frame": "55c644e5ee2336a4e5e824f1f262a961da375de07ad5095cb07dfbb74ad6fb1b",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-11-28T12:45:11.773Z",
+    "attention": {
+      "hn_front": {
+        "titles": [
+          "Farewell",
+          "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "Loom seamlessly combines weaving, knitting and braiding"
+        ]
+      },
+      "lobsters_hot": {
+        "titles": [
+          "So, I rewrote my game in C3",
+          "Hard Drive pricing has gotten bad",
+          "Objections to .php application being published on ICANN site"
+        ]
+      },
+      "wiki_trending": {
+        "articles": [
+          "Wikipedia:Featured_pictures",
+          "Joe_Milton",
+          ".xxx",
+          "Ramayana:_Part_1",
+          "Deaths_in_2026"
+        ]
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "3cf17bfff181ffde025e78971ad7669247a524bd9353037d3b9505de994bd581",
+  "prev": "67621c772c08006033e476e2b68c595e2339bb5de82a2b7cff5c612fb197bc2a",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e1e504fa0be4dd6e6cb8fd867edf0890f7b1590e55a00855ba6698ac6b1e2c04"
+}
